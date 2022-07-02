@@ -1,6 +1,9 @@
 import { resolve } from 'path'
 import { defineConfig } from 'vite'
-import vue from '@vitejs/plugin-vue'
+import Vue from '@vitejs/plugin-vue'
+import AutoImport from 'unplugin-auto-import/vite'
+import Unocss from 'unocss/vite'
+import Inspector from 'vite-plugin-vue-inspector'
 
 export default defineConfig(({ mode }) => {
   const isProd = mode === 'prod'
@@ -78,7 +81,25 @@ export default defineConfig(({ mode }) => {
   }
 
   return {
-    plugins: [vue()],
+    plugins: [
+      Vue(),
+      AutoImport({
+        imports: [
+          'vue',
+          '@vueuse/core',
+        ],
+        dts: './src/auto-imports.d.ts',
+        dirs: [
+          './src/composables',
+        ],
+        vueTemplate: true,
+      }),
+      Unocss(),
+      Inspector({
+        toggleButtonVisibility: 'always',
+        toggleButtonPos: 'bottom-right',
+      }),
+    ],
     optimizeDeps,
     build,
     test,
@@ -94,6 +115,9 @@ export default defineConfig(({ mode }) => {
           replacement: resolve(__dirname, './src'),
         },
       ],
+    },
+    server: {
+      open: true,
     },
   }
 })
