@@ -1,5 +1,11 @@
+<script lang="ts" setup>
+import { ref } from 'vue'
+
+const name = ref('sondh0127')
+</script>
+
 <template>
   <div>
-    Bismillah, Hello World!
+    {{ name }}, Hello World!
   </div>
 </template>
