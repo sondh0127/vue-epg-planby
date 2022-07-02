@@ -1,7 +1,7 @@
 {
-  "name": "@logustra/vivu-npm",
-  "version": "0.1.4",
-  "description": "Starter template to build component library for vue.js 2-3",
+  "name": "@sondh0127/vue-eph-planby",
+  "version": "0.1.0",
+  "description": "vue-eph-planby",
   "keywords": [
     "starter",
     "boilerplate",
@@ -9,13 +9,14 @@
     "vue3",
     "component",
     "ui",
-    "frontend"
+    "frontend",
+    "vue-eph-planby"
   ],
   "license": "MIT",
-  "author": "Faizal Andyka",
+  "author": "Son Hong Do",
   "repository": {
     "type": "git",
-    "url": "https://github.com/logustra/vivu-npm"
+    "url": "https://github.com/sondh0127/vue-eph-planby"
   },
   "main": "./dist/index.cjs.js",
   "module": "./dist/index.esm.js",
@@ -31,7 +32,7 @@
   "files": [
     "dist"
   ],
-  "bugs": "https://github.com/logustra/vivu-npm/issues",
+  "bugs": "https://github.com/sondh0127/vue-eph-planby/issues",
   "scripts": {
     "prepare": "husky install",
     "clean:dist": "rimraf dist",

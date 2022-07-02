@@ -12,7 +12,7 @@ export default defineConfig(({ mode }) => {
     build = {
       lib: {
         entry: resolve(__dirname, 'src/index.ts'),
-        name: 'vivu-npm',
+        name: 'vue-eph-planby',
         fileName: 'index',
         formats: ['es', 'cjs', 'umd'],
       },

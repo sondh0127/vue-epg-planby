@@ -1,5 +1,5 @@
-## Vivu NPM
-[![License](https://img.shields.io/github/license/logustra/vivu-npm)](https://github.com/logustra/vivu-npm/blob/master/license.md)
+## Vue EPG Planby
+[![License](https://img.shields.io/github/license/logustra/vue-epg-planby)](https://github.com/logustra/vue-epg-planby/blob/master/license.md)
 [![Code Style](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![Commitizen](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli)
 
@@ -23,17 +23,17 @@
 ## Getting Started
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/logustra/vivu-npm/generate).
+[Create a repo from this template on GitHub](https://github.com/logustra/vue-epg-planby/generate).
 
 ### Clone to local
 If you prefer to do it manually with the cleaner git history
 
 ```bash
 # clone repository
-$ git clone https://github.com/logustra/vivu-npm.git
+$ git clone https://github.com/logustra/vue-epg-planby.git
 
-# open folder vivu-npm
-$ cd vivu-npm
+# open folder vue-epg-planby
+$ cd vue-epg-planby
 
 # install packages
 $ pnpm install
@@ -70,7 +70,7 @@ $ git push origin --tags
 Vue 3
 ```js
 import { createApp } from 'vue'
-import HelloWorld from '@logustra/vivu-npm'
+import HelloWorld from '@sondh0127/vue-epg-planby'
 import App from './app.vue'
 
 const app = createApp(App)
@@ -81,7 +81,7 @@ Vue 2
 ```js
 import Vue from 'vue'
 import CompositionAPI from '@vue/composition-api'
-import HelloWorld from '@logustra/vivu-npm'
+import HelloWorld from '@sondh0127/vue-epg-planby'
 
 Vue.use(CompositionAPI)
 Vue.use(HelloWorld)
@@ -98,8 +98,8 @@ Vue.use(HelloWorld)
 ## Cheer me on
 If you like my works, you can cheer me on here 😆
 
-&nbsp; &nbsp; 🇮🇩 [Trakteer](https://trakteer.id/logustra/tip)<br>
-&nbsp; &nbsp; 🌍 [Ko-Fi](https://ko-fi.com/logustra)<br>
+&nbsp; &nbsp; 🇮🇩 [Trakteer](https://trakteer.id/sondh0127/tip)<br>
+&nbsp; &nbsp; 🌍 [Ko-Fi](https://ko-fi.com/sondh0127)<br>
 
 ## License
 MIT License © 2022 Faizal Andyka
