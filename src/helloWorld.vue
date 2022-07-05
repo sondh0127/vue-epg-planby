@@ -1,5 +1,4 @@
 <script lang="ts" setup>
-
 const name = ref('sondh0127')
 </script>
 
