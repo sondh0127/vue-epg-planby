@@ -57,6 +57,7 @@
     }
   },
   "dependencies": {
+    "date-fns": "^2.28.0",
     "vue-demi": "^0.13.5"
   },
   "devDependencies": {
@@ -64,6 +65,7 @@
     "@commitlint/cli": "^17.0.3",
     "@commitlint/config-conventional": "^17.0.3",
     "@types/node": "^18.0.5",
+    "@unocss/reset": "^0.44.3",
     "@vitejs/plugin-vue": "^3.0.0",
     "@vueuse/core": "^8.9.3",
     "c8": "^7.11.3",
