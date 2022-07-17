@@ -21,10 +21,13 @@
     ".": {
       "require": "./dist/index.umd.js",
       "import": "./dist/index.es.js"
+    },
+    "./style.css": {
+      "require": "./dist/style.css",
+      "import": "./dist/style.css"
     }
   },
-  "main": "./dist/index.cjs.js",
-  "module": "./dist/index.esm.js",
+  "module": "./dist/index.es.js",
   "unpkg": "./dist/index.umd.js",
   "jsdelivr": "./dist/index.umd.js",
   "types": "./dist/types/index.d.ts",

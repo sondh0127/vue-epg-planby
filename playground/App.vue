@@ -1,7 +1,11 @@
 <script lang="ts" setup>
-import { Epg, useEpg } from './Epg'
-import type { Channel, Program, Theme } from './Epg'
-import Layout from './Epg/components/Layout.vue'
+import type { Channel, Program, Theme } from '../dist'
+import { Epg, Layout, useEpg } from '../dist'
+import '../dist/style.css'
+
+// import type { Channel, Program, Theme } from './Epg'
+// import { Epg, Layout, useEpg } from './Epg'
+
 import { fetchChannels, fetchEpg } from './helpers'
 
 const theme: Theme = {
