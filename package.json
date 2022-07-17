@@ -1,21 +1,21 @@
 {
-  "name": "@sondh0127/vue-eph-planby",
+  "name": "@sondh0127/vue-epg-planby",
   "version": "0.2.2",
-  "description": "vue-eph-planby",
+  "description": "vue-epg-planby",
   "author": "Son Hong Do",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sondh0127/vue-eph-planby"
+    "url": "https://github.com/sondh0127/vue-epg-planby"
   },
-  "bugs": "https://github.com/sondh0127/vue-eph-planby/issues",
+  "bugs": "https://github.com/sondh0127/vue-epg-planby/issues",
   "keywords": [
     "vue",
     "vue3",
     "component",
     "ui",
     "frontend",
-    "vue-eph-planby"
+    "vue-epg-planby"
   ],
   "exports": {
     ".": {

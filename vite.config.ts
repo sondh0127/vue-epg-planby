@@ -15,7 +15,7 @@ export default defineConfig(({ mode }) => {
     build = {
       lib: {
         entry: resolve(__dirname, 'src/index.ts'),
-        name: 'vue-eph-planby',
+        name: 'vue-epg-planby',
         fileName: format => `index.${format}.js`,
       },
       rollupOptions: {
