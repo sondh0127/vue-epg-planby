@@ -10,8 +10,6 @@
   },
   "bugs": "https://github.com/sondh0127/vue-eph-planby/issues",
   "keywords": [
-    "starter",
-    "boilerplate",
     "vue",
     "vue3",
     "component",
@@ -59,32 +57,32 @@
     }
   },
   "dependencies": {
-    "vue-demi": "^0.13.2"
+    "vue-demi": "^0.13.5"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.25.2",
     "@commitlint/cli": "^17.0.3",
     "@commitlint/config-conventional": "^17.0.3",
-    "@types/node": "^18.0.1",
-    "@vitejs/plugin-vue": "^2.3.3",
-    "@vueuse/core": "^8.7.5",
+    "@types/node": "^18.0.5",
+    "@vitejs/plugin-vue": "^3.0.0",
+    "@vueuse/core": "^8.9.3",
     "c8": "^7.11.3",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
-    "eslint": "^8.19.0",
-    "happy-dom": "^2.55.0",
+    "eslint": "^8.20.0",
+    "happy-dom": "^6.0.3",
     "husky": "^8.0.1",
     "rimraf": "^3.0.2",
     "typescript": "^4.7.4",
-    "unocss": "^0.43.1",
-    "unplugin-auto-import": "^0.9.2",
-    "vite": "^2.9.13",
+    "unocss": "^0.44.3",
+    "unplugin-auto-import": "^0.9.3",
+    "vite": "^3.0.0",
     "vite-plugin-vue-inspector": "^1.0.1",
-    "vitest": "^0.17.0",
+    "vitest": "^0.18.1",
     "vue": "^3.2.37",
-    "vue-tsc": "^0.38.2"
+    "vue-tsc": "^0.38.7"
   },
   "volta": {
-    "node": "14.19.1"
+    "node": "16.15.1"
   }
 }

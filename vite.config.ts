@@ -95,10 +95,7 @@ export default defineConfig(({ mode }) => {
         vueTemplate: true,
       }),
       Unocss(),
-      Inspector({
-        toggleButtonVisibility: 'always',
-        toggleButtonPos: 'bottom-right',
-      }),
+      Inspector(),
     ],
     optimizeDeps,
     build,
