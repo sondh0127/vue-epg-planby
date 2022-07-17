@@ -1,6 +1,6 @@
 {
   "name": "@sondh0127/vue-eph-planby",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "vue-eph-planby",
   "author": "Son Hong Do",
   "license": "MIT",
@@ -66,10 +66,8 @@
     "vue-demi": "^0.13.5"
   },
   "devDependencies": {
-
     "@antfu/eslint-config": "^0.25.2",
     "@antfu/ni": "^0.17.2",
-
     "@commitlint/cli": "^17.0.3",
     "@commitlint/config-conventional": "^17.0.3",
     "@types/node": "^18.0.5",
