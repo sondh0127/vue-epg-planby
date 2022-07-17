@@ -39,15 +39,19 @@ export function useLayout({
 
   // -------- Handlers --------
 
-  const handleScrollDebounced = useDebounceFn((value) => {
-    scrollY.value = value.y
-    scrollX.value = value.x
-  }, DEBOUNCE_WAIT, {
-    maxWait: DEBOUNCE_WAIT_MAX,
-  })
+  // const handleScrollDebounced = useDebounceFn((value) => {
+  //   console.log('[LOG] ~ file: useLayout.ts ~ line 44 ~ value', value)
+  //   scrollY.value = value.y
+  //   scrollX.value = value.x
+  // }, DEBOUNCE_WAIT, {
+  //   maxWait: DEBOUNCE_WAIT_MAX,
+  // })
 
   const handleOnScroll = (e: any) => {
-    handleScrollDebounced({ y: e.target.scrollTop, x: e.target.scrollLeft })
+    const payload = { y: e.target.scrollTop, x: e.target.scrollLeft }
+    // handleScrollDebounced(payload)
+    scrollY.value = payload.y
+    scrollX.value = payload.x
   }
 
   const handleOnScrollToNow = () => {

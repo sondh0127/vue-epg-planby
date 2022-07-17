@@ -26,6 +26,7 @@ import {
 } from '../helpers'
 
 // Import components
+import { useProvideEpgStore } from '../store'
 import { useLayout } from './useLayout'
 
 interface useEpgProps {
@@ -114,7 +115,6 @@ export function useEpg({
   )
 
   const theme: Theme = customTheme || defaultTheme
-
   // -------- Handlers --------
   const isProgramVisible = (position: Position) =>
     getItemVisibility(
@@ -179,6 +179,11 @@ export function useEpg({
     numberOfHoursInDay: dayWidthResourcesProps.value.numberOfHoursInDay,
     offsetStartHoursRange: dayWidthResourcesProps.value.offsetStartHoursRange,
     setScrollBoxRef: ref => scrollBoxRef.value = ref,
+  })
+
+  useProvideEpgStore({
+    theme,
+    sidebarWidth: sidebarWidth || 200,
   })
 
   return {

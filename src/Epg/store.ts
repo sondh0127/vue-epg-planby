@@ -19,14 +19,6 @@ const [useProvideEpgStore, _useEpgStore] = createInjectionState((store: EpgStore
 
 export { useProvideEpgStore }
 
-// export function useEpgStoreWithDefaultValue() {
-//   return useEpgStore() ?? {
-//     count: ref(0),
-//     double: ref(0),
-//     increment: () => {},
-//   }
-// }
-
 export function useEpgStore() {
   const store = _useEpgStore()
   if (store == null)

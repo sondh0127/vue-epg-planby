@@ -19,9 +19,7 @@ const props = withDefaults(defineProps<{
   offsetStartHoursRange: number
   sidebarWidth: number
   itemHeight: number
-  // onScroll: (
-  //   e: React.UIEvent<HTMLDivElement, UIEvent> & { target: Element }
-  // ) => void
+  onScroll: (e: UIEvent) => void
   isBaseTimeFormat?: BaseTimeFormat
   isSidebar?: boolean
   isTimeline?: boolean
@@ -41,7 +39,6 @@ const props = withDefaults(defineProps<{
   isTimeline: true,
   isBaseTimeFormat: false,
 })
-const emit = defineEmits(['scroll'])
 
 const channelsLength = computed(() => props.channels.length)
 const contentHeight = computed(() => channelsLength.value * props.itemHeight)
@@ -59,7 +56,7 @@ const visiblePrograms = computed(() => {
   <div
     :ref="(el) => setScrollBoxRef(el)" class="w-full h-full relative overflow-auto scroll-smooth scrollbox" :style="{
       background: `${theme.primary['900']}`,
-    }" @scroll="$emit('scroll', $event)"
+    }" @scroll="onScroll"
   >
     <Line
       v-if="isLine && isFuture" :day-width="dayWidth" :hour-width="hourWidth" :start-date="startDate"
@@ -86,7 +83,7 @@ const visiblePrograms = computed(() => {
     >
       <Program
         v-for="program in visiblePrograms" :key="program.data.id" :program="getProgramOptions(program)"
-        :is-base-time-format="isBaseTimeFormat"
+        :is-base-time-format="isBaseTimeFormat" :is-program-visible="isProgramVisible"
       />
     </div>
   </div>

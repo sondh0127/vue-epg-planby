@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import type { BaseTimeFormat, ProgramItem } from '../helpers/types'
+import type { BaseTimeFormat, Position, ProgramItem } from '../helpers/types'
 import { useProgram } from '../hooks'
 import type { Program as ProgramType } from '../helpers/interfaces'
 import { useEpgStore } from '../store'
