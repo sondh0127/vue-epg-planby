@@ -1,6 +1,6 @@
 {
   "name": "@sondh0127/vue-eph-planby",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "vue-eph-planby",
   "author": "Son Hong Do",
   "license": "MIT",
@@ -43,7 +43,9 @@
     "preview": "vite preview",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "test": "pnpm clean:coverage && vitest --coverage --mode test"
+    "test": "pnpm clean:coverage && vitest --coverage --mode test",
+    "prepublishOnly": "nr build",
+    "release": "bumpp --commit --push --tag && npm publish"
   },
   "config": {
     "commitizen": {
@@ -64,13 +66,17 @@
     "vue-demi": "^0.13.5"
   },
   "devDependencies": {
+
     "@antfu/eslint-config": "^0.25.2",
+    "@antfu/ni": "^0.17.2",
+
     "@commitlint/cli": "^17.0.3",
     "@commitlint/config-conventional": "^17.0.3",
     "@types/node": "^18.0.5",
     "@unocss/reset": "0.43.1",
     "@vitejs/plugin-vue": "^3.0.0",
     "@vueuse/core": "^8.9.3",
+    "bumpp": "^8.2.1",
     "c8": "^7.11.3",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
