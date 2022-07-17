@@ -186,7 +186,7 @@ export const getItemVisibility = (
 
   if (
     scrollX + containerWidth >= position.left
-    && scrollX <= position.edgeEnd
+    // && scrollX <= position.edgeEnd
   )
     return true
 

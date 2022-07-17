@@ -6,7 +6,7 @@ export interface Position {
   height: number
   top: number
   left: number
-  edgeEnd: number
+  // edgeEnd: number
 }
 
 export interface ProgramWithPosition {

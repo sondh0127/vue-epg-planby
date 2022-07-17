@@ -39,6 +39,8 @@ export function useLine({
     const offset = hourWidth.value / HOUR_IN_MINUTES
     const positionOffset = offset * 2
     positionX.value += positionOffset
+    // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+    // @ts-expect-error
   }, isScrollX)
 
   watchEffect(() => {

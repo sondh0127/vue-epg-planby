@@ -159,6 +159,7 @@ export function useEpg({
     isLine?: boolean
     isProgramVisible: (position: Position) => boolean
     isChannelVisible: (position: Pick<Position, 'top'>) => boolean
+    setScrollBoxRef: (el: HTMLDivElement) => void
   } => ({
     programs: programs.value,
     channels: channels.value,
