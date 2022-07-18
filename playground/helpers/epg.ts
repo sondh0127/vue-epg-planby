@@ -5,8 +5,8 @@ export const epg = [
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
     isYesterday: true,
-    since: '2022-05-24T23:50:00',
-    till: '2022-05-25T00:55:00',
+    since: '2022-07-17T23:50:00',
+    till: '2022-07-18T00:55:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -37,8 +37,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T00:55:00',
-    till: '2022-05-25T02:35:00',
+    since: '2022-07-18T00:55:00',
+    till: '2022-07-18T02:35:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -69,8 +69,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T02:35:00',
-    till: '2022-05-25T03:30:00',
+    since: '2022-07-18T02:35:00',
+    till: '2022-07-18T03:30:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -101,8 +101,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T03:30:00',
-    till: '2022-05-25T04:15:00',
+    since: '2022-07-18T03:30:00',
+    till: '2022-07-18T04:15:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -132,8 +132,8 @@ export const epg = [
     id: 'a5dc349f-2cb5-4093-b067-fdf68e9a96af',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T04:15:00',
-    till: '2022-05-25T04:30:00',
+    since: '2022-07-18T04:15:00',
+    till: '2022-07-18T04:30:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -164,8 +164,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T04:30:00',
-    till: '2022-05-25T05:10:00',
+    since: '2022-07-18T04:30:00',
+    till: '2022-07-18T05:10:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -196,8 +196,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T05:10:00',
-    till: '2022-05-25T05:35:00',
+    since: '2022-07-18T05:10:00',
+    till: '2022-07-18T05:35:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -228,8 +228,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T05:35:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:35:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -260,8 +260,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -295,8 +295,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T07:40:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T07:40:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -327,8 +327,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T07:40:00',
-    till: '2022-05-25T08:05:00',
+    since: '2022-07-18T07:40:00',
+    till: '2022-07-18T08:05:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -359,8 +359,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T08:05:00',
-    till: '2022-05-25T08:20:00',
+    since: '2022-07-18T08:05:00',
+    till: '2022-07-18T08:20:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -391,8 +391,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T08:20:00',
-    till: '2022-05-25T08:45:00',
+    since: '2022-07-18T08:20:00',
+    till: '2022-07-18T08:45:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -423,8 +423,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T08:45:00',
-    till: '2022-05-25T09:15:00',
+    since: '2022-07-18T08:45:00',
+    till: '2022-07-18T09:15:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -455,8 +455,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T09:15:00',
-    till: '2022-05-25T10:20:00',
+    since: '2022-07-18T09:15:00',
+    till: '2022-07-18T10:20:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -487,8 +487,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T10:20:00',
-    till: '2022-05-25T11:15:00',
+    since: '2022-07-18T10:20:00',
+    till: '2022-07-18T11:15:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -519,8 +519,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T11:15:00',
-    till: '2022-05-25T11:50:00',
+    since: '2022-07-18T11:15:00',
+    till: '2022-07-18T11:50:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -551,8 +551,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T11:50:00',
-    till: '2022-05-25T13:45:00',
+    since: '2022-07-18T11:50:00',
+    till: '2022-07-18T13:45:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -583,8 +583,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T13:45:00',
-    till: '2022-05-25T13:55:00',
+    since: '2022-07-18T13:45:00',
+    till: '2022-07-18T13:55:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -615,8 +615,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T13:55:00',
-    till: '2022-05-25T14:55:00',
+    since: '2022-07-18T13:55:00',
+    till: '2022-07-18T14:55:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -647,8 +647,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T14:55:00',
-    till: '2022-05-25T15:55:00',
+    since: '2022-07-18T14:55:00',
+    till: '2022-07-18T15:55:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -679,8 +679,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T15:55:00',
-    till: '2022-05-25T17:00:00',
+    since: '2022-07-18T15:55:00',
+    till: '2022-07-18T17:00:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -711,8 +711,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T17:00:00',
-    till: '2022-05-25T17:20:00',
+    since: '2022-07-18T17:00:00',
+    till: '2022-07-18T17:20:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -743,8 +743,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T17:20:00',
-    till: '2022-05-25T17:30:00',
+    since: '2022-07-18T17:20:00',
+    till: '2022-07-18T17:30:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -775,8 +775,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T17:30:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T17:30:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -807,8 +807,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:25:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:25:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -839,8 +839,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T19:25:00',
-    till: '2022-05-25T19:30:00',
+    since: '2022-07-18T19:25:00',
+    till: '2022-07-18T19:30:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -871,8 +871,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T19:30:00',
-    till: '2022-05-25T20:05:00',
+    since: '2022-07-18T19:30:00',
+    till: '2022-07-18T20:05:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -903,8 +903,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T20:05:00',
-    till: '2022-05-25T20:10:00',
+    since: '2022-07-18T20:05:00',
+    till: '2022-07-18T20:10:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -935,8 +935,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T20:10:00',
-    till: '2022-05-25T20:35:00',
+    since: '2022-07-18T20:10:00',
+    till: '2022-07-18T20:35:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -971,8 +971,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T20:35:00',
-    till: '2022-05-25T21:35:00',
+    since: '2022-07-18T20:35:00',
+    till: '2022-07-18T21:35:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -1003,8 +1003,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T21:35:00',
-    till: '2022-05-25T23:30:00',
+    since: '2022-07-18T21:35:00',
+    till: '2022-07-18T23:30:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -1038,7 +1038,7 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T23:30:00',
+    since: '2022-07-18T23:30:00',
     isTomorrow: true,
     till: '2022-05-26T01:25:00',
     channelUuid: 'd3410c89-95ca-4af5-a151-a62b162fe5ae',
@@ -1072,8 +1072,8 @@ export const epg = [
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
     isYesterday: true,
-    since: '2022-05-24T23:10:00',
-    till: '2022-05-25T01:35:00',
+    since: '2022-07-17T23:10:00',
+    till: '2022-07-18T01:35:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -1104,8 +1104,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T01:35:00',
-    till: '2022-05-25T03:45:00',
+    since: '2022-07-18T01:35:00',
+    till: '2022-07-18T03:45:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -1135,8 +1135,8 @@ export const epg = [
     id: '87234d35-0719-4d3f-930b-ab30be75c770',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T03:45:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T03:45:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -1167,8 +1167,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:20:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:20:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -1199,8 +1199,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T05:20:00',
-    till: '2022-05-25T05:50:00',
+    since: '2022-07-18T05:20:00',
+    till: '2022-07-18T05:50:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -1231,8 +1231,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T05:50:00',
-    till: '2022-05-25T06:25:00',
+    since: '2022-07-18T05:50:00',
+    till: '2022-07-18T06:25:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -1263,8 +1263,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T06:25:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:25:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -1295,8 +1295,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T07:55:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T07:55:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -1327,8 +1327,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T07:55:00',
-    till: '2022-05-25T11:50:00',
+    since: '2022-07-18T07:55:00',
+    till: '2022-07-18T11:50:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -1359,8 +1359,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T11:50:00',
-    till: '2022-05-25T12:30:00',
+    since: '2022-07-18T11:50:00',
+    till: '2022-07-18T12:30:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -1395,8 +1395,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T12:30:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T12:30:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -1427,8 +1427,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:35:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:35:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -1459,8 +1459,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T14:35:00',
-    till: '2022-05-25T15:15:00',
+    since: '2022-07-18T14:35:00',
+    till: '2022-07-18T15:15:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -1494,8 +1494,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T15:15:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:15:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -1530,8 +1530,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T17:15:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T17:15:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -1562,8 +1562,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T17:15:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T17:15:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -1594,8 +1594,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:00:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:00:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -1626,8 +1626,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T18:00:00',
-    till: '2022-05-25T18:20:00',
+    since: '2022-07-18T18:00:00',
+    till: '2022-07-18T18:20:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -1658,8 +1658,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T18:20:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T18:20:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -1690,8 +1690,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:20:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:20:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -1722,8 +1722,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T19:20:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:20:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'China',
@@ -1753,8 +1753,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T21:05:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T21:05:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -1785,8 +1785,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T21:05:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T21:05:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -1821,8 +1821,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T22:00:00',
-    till: '2022-05-25T23:05:00',
+    since: '2022-07-18T22:00:00',
+    till: '2022-07-18T23:05:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -1856,7 +1856,7 @@ export const epg = [
     id: 'fd9adc30-7870-4300-b1e2-1ad301aec690',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T23:05:00',
+    since: '2022-07-18T23:05:00',
     isTomorrow: true,
     till: '2022-05-26T00:15:00',
     channelUuid: 'a1e281fc-5d44-4ef0-8b6b-386eed89e7e6',
@@ -1890,8 +1890,8 @@ export const epg = [
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
     isYesterday: true,
-    since: '2022-05-24T22:20:00',
-    till: '2022-05-25T00:25:00',
+    since: '2022-07-17T22:20:00',
+    till: '2022-07-18T00:25:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Jamaica',
@@ -1921,8 +1921,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T00:25:00',
-    till: '2022-05-25T01:30:00',
+    since: '2022-07-18T00:25:00',
+    till: '2022-07-18T01:30:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -1956,8 +1956,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T01:30:00',
-    till: '2022-05-25T02:50:00',
+    since: '2022-07-18T01:30:00',
+    till: '2022-07-18T02:50:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -1988,8 +1988,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T02:50:00',
-    till: '2022-05-25T04:05:00',
+    since: '2022-07-18T02:50:00',
+    till: '2022-07-18T04:05:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -2020,8 +2020,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T04:05:00',
-    till: '2022-05-25T04:30:00',
+    since: '2022-07-18T04:05:00',
+    till: '2022-07-18T04:30:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -2052,8 +2052,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T04:30:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T04:30:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -2084,8 +2084,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:30:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:30:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -2116,8 +2116,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T05:30:00',
-    till: '2022-05-25T06:30:00',
+    since: '2022-07-18T05:30:00',
+    till: '2022-07-18T06:30:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -2148,8 +2148,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T06:30:00',
-    till: '2022-05-25T07:30:00',
+    since: '2022-07-18T06:30:00',
+    till: '2022-07-18T07:30:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -2180,8 +2180,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T07:30:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:30:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -2212,8 +2212,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T11:30:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T11:30:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -2243,8 +2243,8 @@ export const epg = [
     id: '2dd22dc1-4a2b-40a6-a753-376e99b7b241',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T11:30:00',
-    till: '2022-05-25T11:55:00',
+    since: '2022-07-18T11:30:00',
+    till: '2022-07-18T11:55:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -2275,8 +2275,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T11:55:00',
-    till: '2022-05-25T12:20:00',
+    since: '2022-07-18T11:55:00',
+    till: '2022-07-18T12:20:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -2307,8 +2307,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T12:20:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:20:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -2339,8 +2339,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:05:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:05:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -2371,8 +2371,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T14:05:00',
-    till: '2022-05-25T14:40:00',
+    since: '2022-07-18T14:05:00',
+    till: '2022-07-18T14:40:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -2402,8 +2402,8 @@ export const epg = [
     id: '5b88e1c0-d3ff-4b1d-a4af-dca1659ec930',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T14:40:00',
-    till: '2022-05-25T15:10:00',
+    since: '2022-07-18T14:40:00',
+    till: '2022-07-18T15:10:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -2434,8 +2434,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T15:10:00',
-    till: '2022-05-25T15:45:00',
+    since: '2022-07-18T15:10:00',
+    till: '2022-07-18T15:45:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -2466,8 +2466,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T15:45:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:45:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -2498,8 +2498,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T17:25:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T17:25:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -2530,8 +2530,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T17:25:00',
-    till: '2022-05-25T17:35:00',
+    since: '2022-07-18T17:25:00',
+    till: '2022-07-18T17:35:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -2562,8 +2562,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T17:35:00',
-    till: '2022-05-25T18:05:00',
+    since: '2022-07-18T17:35:00',
+    till: '2022-07-18T18:05:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -2594,8 +2594,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T18:05:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T18:05:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -2626,8 +2626,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:00:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:00:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -2658,8 +2658,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T19:00:00',
-    till: '2022-05-25T19:25:00',
+    since: '2022-07-18T19:00:00',
+    till: '2022-07-18T19:25:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -2690,8 +2690,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T19:25:00',
-    till: '2022-05-25T19:30:00',
+    since: '2022-07-18T19:25:00',
+    till: '2022-07-18T19:30:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -2722,8 +2722,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T19:30:00',
-    till: '2022-05-25T19:40:00',
+    since: '2022-07-18T19:30:00',
+    till: '2022-07-18T19:40:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -2754,8 +2754,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T19:40:00',
-    till: '2022-05-25T19:50:00',
+    since: '2022-07-18T19:40:00',
+    till: '2022-07-18T19:50:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -2785,8 +2785,8 @@ export const epg = [
     id: 'd1e6628e-137b-4be6-aa51-af9949f24581',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T19:50:00',
-    till: '2022-05-25T20:05:00',
+    since: '2022-07-18T19:50:00',
+    till: '2022-07-18T20:05:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -2817,8 +2817,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T20:05:00',
-    till: '2022-05-25T22:55:00',
+    since: '2022-07-18T20:05:00',
+    till: '2022-07-18T22:55:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -2849,7 +2849,7 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T22:55:00',
+    since: '2022-07-18T22:55:00',
     isTomorrow: true,
     till: '2022-05-26T00:50:00',
     channelUuid: 'a37c1fb0-a309-407b-9f88-3122a0626892',
@@ -2882,8 +2882,8 @@ export const epg = [
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
     isYesterday: true,
-    since: '2022-05-24T23:15:00',
-    till: '2022-05-25T01:00:00',
+    since: '2022-07-17T23:15:00',
+    till: '2022-07-18T01:00:00',
     channelUuid: 'b7b691a2-42b6-4d21-82b8-c863edd0a8c8',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -2914,8 +2914,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T01:00:00',
-    till: '2022-05-25T02:05:00',
+    since: '2022-07-18T01:00:00',
+    till: '2022-07-18T02:05:00',
     channelUuid: 'b7b691a2-42b6-4d21-82b8-c863edd0a8c8',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -2946,8 +2946,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T02:05:00',
-    till: '2022-05-25T02:45:00',
+    since: '2022-07-18T02:05:00',
+    till: '2022-07-18T02:45:00',
     channelUuid: 'b7b691a2-42b6-4d21-82b8-c863edd0a8c8',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -2977,8 +2977,8 @@ export const epg = [
     id: 'fabf519f-8f98-468a-b74d-e846038bca8e',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T02:45:00',
-    till: '2022-05-25T05:05:00',
+    since: '2022-07-18T02:45:00',
+    till: '2022-07-18T05:05:00',
     channelUuid: 'b7b691a2-42b6-4d21-82b8-c863edd0a8c8',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -3009,8 +3009,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T05:05:00',
-    till: '2022-05-25T06:05:00',
+    since: '2022-07-18T05:05:00',
+    till: '2022-07-18T06:05:00',
     channelUuid: 'b7b691a2-42b6-4d21-82b8-c863edd0a8c8',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -3041,8 +3041,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T06:05:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:05:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: 'b7b691a2-42b6-4d21-82b8-c863edd0a8c8',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -3072,8 +3072,8 @@ export const epg = [
     id: '735d9e81-df89-4e6d-9fe7-c2744c48c015',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T07:15:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T07:15:00',
     channelUuid: 'b7b691a2-42b6-4d21-82b8-c863edd0a8c8',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -3104,8 +3104,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T07:15:00',
-    till: '2022-05-25T07:50:00',
+    since: '2022-07-18T07:15:00',
+    till: '2022-07-18T07:50:00',
     channelUuid: 'b7b691a2-42b6-4d21-82b8-c863edd0a8c8',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -3136,8 +3136,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T07:50:00',
-    till: '2022-05-25T09:40:00',
+    since: '2022-07-18T07:50:00',
+    till: '2022-07-18T09:40:00',
     channelUuid: 'b7b691a2-42b6-4d21-82b8-c863edd0a8c8',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -3172,8 +3172,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T09:40:00',
-    till: '2022-05-25T10:40:00',
+    since: '2022-07-18T09:40:00',
+    till: '2022-07-18T10:40:00',
     channelUuid: 'b7b691a2-42b6-4d21-82b8-c863edd0a8c8',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -3204,8 +3204,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T10:40:00',
-    till: '2022-05-25T11:45:00',
+    since: '2022-07-18T10:40:00',
+    till: '2022-07-18T11:45:00',
     channelUuid: 'b7b691a2-42b6-4d21-82b8-c863edd0a8c8',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -3239,8 +3239,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T11:45:00',
-    till: '2022-05-25T12:45:00',
+    since: '2022-07-18T11:45:00',
+    till: '2022-07-18T12:45:00',
     channelUuid: 'b7b691a2-42b6-4d21-82b8-c863edd0a8c8',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -3271,8 +3271,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T12:45:00',
-    till: '2022-05-25T13:50:00',
+    since: '2022-07-18T12:45:00',
+    till: '2022-07-18T13:50:00',
     channelUuid: 'b7b691a2-42b6-4d21-82b8-c863edd0a8c8',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -3303,8 +3303,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T13:50:00',
-    till: '2022-05-25T15:55:00',
+    since: '2022-07-18T13:50:00',
+    till: '2022-07-18T15:55:00',
     channelUuid: 'b7b691a2-42b6-4d21-82b8-c863edd0a8c8',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -3335,8 +3335,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T15:55:00',
-    till: '2022-05-25T18:05:00',
+    since: '2022-07-18T15:55:00',
+    till: '2022-07-18T18:05:00',
     channelUuid: 'b7b691a2-42b6-4d21-82b8-c863edd0a8c8',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -3367,8 +3367,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T18:05:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T18:05:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: 'b7b691a2-42b6-4d21-82b8-c863edd0a8c8',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Slovakia',
@@ -3398,8 +3398,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: 'b7b691a2-42b6-4d21-82b8-c863edd0a8c8',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -3429,7 +3429,7 @@ export const epg = [
     id: '7994d6be-28a3-4d19-9418-ecebc6372720',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T22:50:00',
+    since: '2022-07-18T22:50:00',
     isTomorrow: true,
     till: '2022-05-26T01:10:00',
     channelUuid: 'b7b691a2-42b6-4d21-82b8-c863edd0a8c8',
@@ -3463,8 +3463,8 @@ export const epg = [
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
     isYesterday: true,
-    since: '2022-05-24T23:10:00',
-    till: '2022-05-25T02:15:00',
+    since: '2022-07-17T23:10:00',
+    till: '2022-07-18T02:15:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -3495,8 +3495,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T02:15:00',
-    till: '2022-05-25T04:40:00',
+    since: '2022-07-18T02:15:00',
+    till: '2022-07-18T04:40:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -3527,8 +3527,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T04:40:00',
-    till: '2022-05-25T05:25:00',
+    since: '2022-07-18T04:40:00',
+    till: '2022-07-18T05:25:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -3559,8 +3559,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T05:25:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:25:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -3591,8 +3591,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T08:25:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T08:25:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -3623,8 +3623,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T08:25:00',
-    till: '2022-05-25T10:10:00',
+    since: '2022-07-18T08:25:00',
+    till: '2022-07-18T10:10:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -3655,8 +3655,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T10:10:00',
-    till: '2022-05-25T10:40:00',
+    since: '2022-07-18T10:10:00',
+    till: '2022-07-18T10:40:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -3687,8 +3687,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T10:40:00',
-    till: '2022-05-25T11:40:00',
+    since: '2022-07-18T10:40:00',
+    till: '2022-07-18T11:40:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -3719,8 +3719,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T11:40:00',
-    till: '2022-05-25T12:40:00',
+    since: '2022-07-18T11:40:00',
+    till: '2022-07-18T12:40:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -3751,8 +3751,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T12:40:00',
-    till: '2022-05-25T13:45:00',
+    since: '2022-07-18T12:40:00',
+    till: '2022-07-18T13:45:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -3783,8 +3783,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T13:45:00',
-    till: '2022-05-25T14:15:00',
+    since: '2022-07-18T13:45:00',
+    till: '2022-07-18T14:15:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -3815,8 +3815,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T14:15:00',
-    till: '2022-05-25T14:40:00',
+    since: '2022-07-18T14:15:00',
+    till: '2022-07-18T14:40:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -3847,8 +3847,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T14:40:00',
-    till: '2022-05-25T15:45:00',
+    since: '2022-07-18T14:40:00',
+    till: '2022-07-18T15:45:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -3879,8 +3879,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T15:45:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:45:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -3914,8 +3914,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T16:45:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T16:45:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Comoros',
@@ -3944,8 +3944,8 @@ export const epg = [
     id: '7b2abef6-1ac4-43c8-9502-1fd2d85e81bf',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T16:45:00',
-    till: '2022-05-25T17:15:00',
+    since: '2022-07-18T16:45:00',
+    till: '2022-07-18T17:15:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -3976,8 +3976,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T17:15:00',
-    till: '2022-05-25T17:45:00',
+    since: '2022-07-18T17:15:00',
+    till: '2022-07-18T17:45:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -4008,8 +4008,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T17:45:00',
-    till: '2022-05-25T18:15:00',
+    since: '2022-07-18T17:45:00',
+    till: '2022-07-18T18:15:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -4040,8 +4040,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T18:15:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T18:15:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -4072,8 +4072,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:25:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:25:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -4107,8 +4107,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T19:25:00',
-    till: '2022-05-25T19:45:00',
+    since: '2022-07-18T19:25:00',
+    till: '2022-07-18T19:45:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Croatia',
@@ -4137,8 +4137,8 @@ export const epg = [
     id: '89943eed-7335-4567-91a4-07526063469c',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T19:45:00',
-    till: '2022-05-25T19:55:00',
+    since: '2022-07-18T19:45:00',
+    till: '2022-07-18T19:55:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -4169,8 +4169,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T19:55:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:55:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -4201,8 +4201,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -4233,7 +4233,7 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T22:00:00',
+    since: '2022-07-18T22:00:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: '79253119-b8fa-475c-970b-c7dd8dbfd6ca',
@@ -4267,8 +4267,8 @@ export const epg = [
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
     isYesterday: true,
-    since: '2022-05-24T23:25:00',
-    till: '2022-05-25T00:25:00',
+    since: '2022-07-17T23:25:00',
+    till: '2022-07-18T00:25:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -4298,8 +4298,8 @@ export const epg = [
     id: 'd9dbe137-cc16-4432-a09a-5e48e5ead218',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T00:25:00',
-    till: '2022-05-25T01:25:00',
+    since: '2022-07-18T00:25:00',
+    till: '2022-07-18T01:25:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -4330,8 +4330,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T01:25:00',
-    till: '2022-05-25T02:20:00',
+    since: '2022-07-18T01:25:00',
+    till: '2022-07-18T02:20:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -4362,8 +4362,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T02:20:00',
-    till: '2022-05-25T03:20:00',
+    since: '2022-07-18T02:20:00',
+    till: '2022-07-18T03:20:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -4394,8 +4394,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T03:20:00',
-    till: '2022-05-25T05:05:00',
+    since: '2022-07-18T03:20:00',
+    till: '2022-07-18T05:05:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -4426,8 +4426,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T05:05:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T05:05:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -4458,8 +4458,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:50:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:50:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -4490,8 +4490,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T05:50:00',
-    till: '2022-05-25T06:20:00',
+    since: '2022-07-18T05:50:00',
+    till: '2022-07-18T06:20:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -4522,8 +4522,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T06:20:00',
-    till: '2022-05-25T06:55:00',
+    since: '2022-07-18T06:20:00',
+    till: '2022-07-18T06:55:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -4554,8 +4554,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T06:55:00',
-    till: '2022-05-25T07:30:00',
+    since: '2022-07-18T06:55:00',
+    till: '2022-07-18T07:30:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -4586,8 +4586,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T07:30:00',
-    till: '2022-05-25T08:05:00',
+    since: '2022-07-18T07:30:00',
+    till: '2022-07-18T08:05:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -4618,8 +4618,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T08:05:00',
-    till: '2022-05-25T08:40:00',
+    since: '2022-07-18T08:05:00',
+    till: '2022-07-18T08:40:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -4649,8 +4649,8 @@ export const epg = [
     id: 'd1bc7875-4087-48f8-994a-9225873e0132',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T08:40:00',
-    till: '2022-05-25T09:10:00',
+    since: '2022-07-18T08:40:00',
+    till: '2022-07-18T09:10:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -4681,8 +4681,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T09:10:00',
-    till: '2022-05-25T09:40:00',
+    since: '2022-07-18T09:10:00',
+    till: '2022-07-18T09:40:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -4713,8 +4713,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T09:40:00',
-    till: '2022-05-25T10:15:00',
+    since: '2022-07-18T09:40:00',
+    till: '2022-07-18T10:15:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -4745,8 +4745,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T10:15:00',
-    till: '2022-05-25T10:45:00',
+    since: '2022-07-18T10:15:00',
+    till: '2022-07-18T10:45:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -4777,8 +4777,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T10:45:00',
-    till: '2022-05-25T11:50:00',
+    since: '2022-07-18T10:45:00',
+    till: '2022-07-18T11:50:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -4813,8 +4813,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T11:50:00',
-    till: '2022-05-25T12:50:00',
+    since: '2022-07-18T11:50:00',
+    till: '2022-07-18T12:50:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -4845,8 +4845,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T12:50:00',
-    till: '2022-05-25T13:20:00',
+    since: '2022-07-18T12:50:00',
+    till: '2022-07-18T13:20:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -4877,8 +4877,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T13:20:00',
-    till: '2022-05-25T13:50:00',
+    since: '2022-07-18T13:20:00',
+    till: '2022-07-18T13:50:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -4909,8 +4909,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T13:50:00',
-    till: '2022-05-25T14:05:00',
+    since: '2022-07-18T13:50:00',
+    till: '2022-07-18T14:05:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -4941,8 +4941,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T14:05:00',
-    till: '2022-05-25T15:05:00',
+    since: '2022-07-18T14:05:00',
+    till: '2022-07-18T15:05:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -4972,8 +4972,8 @@ export const epg = [
     id: 'f4482866-5542-43ce-9a09-aa2f76ab07bd',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T15:05:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:05:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -5004,8 +5004,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T17:10:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T17:10:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -5036,8 +5036,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T17:10:00',
-    till: '2022-05-25T17:40:00',
+    since: '2022-07-18T17:10:00',
+    till: '2022-07-18T17:40:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -5068,8 +5068,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T17:40:00',
-    till: '2022-05-25T18:20:00',
+    since: '2022-07-18T17:40:00',
+    till: '2022-07-18T18:20:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -5100,8 +5100,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T18:20:00',
-    till: '2022-05-25T18:55:00',
+    since: '2022-07-18T18:20:00',
+    till: '2022-07-18T18:55:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -5132,8 +5132,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T18:55:00',
-    till: '2022-05-25T19:55:00',
+    since: '2022-07-18T18:55:00',
+    till: '2022-07-18T19:55:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -5164,8 +5164,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T19:55:00',
-    till: '2022-05-25T20:55:00',
+    since: '2022-07-18T19:55:00',
+    till: '2022-07-18T20:55:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -5196,8 +5196,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T20:55:00',
-    till: '2022-05-25T21:55:00',
+    since: '2022-07-18T20:55:00',
+    till: '2022-07-18T21:55:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -5228,8 +5228,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T21:55:00',
-    till: '2022-05-25T23:35:00',
+    since: '2022-07-18T21:55:00',
+    till: '2022-07-18T23:35:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -5260,7 +5260,7 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T23:35:00',
+    since: '2022-07-18T23:35:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: '93f28484-0b5b-4990-adb3-54c29784f3db',
@@ -5294,8 +5294,8 @@ export const epg = [
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
     isYesterday: true,
-    since: '2022-05-24T23:50:00',
-    till: '2022-05-25T00:45:00',
+    since: '2022-07-17T23:50:00',
+    till: '2022-07-18T00:45:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -5326,8 +5326,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T00:45:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T00:45:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -5358,8 +5358,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:00:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:00:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -5390,8 +5390,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T02:00:00',
-    till: '2022-05-25T02:35:00',
+    since: '2022-07-18T02:00:00',
+    till: '2022-07-18T02:35:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Isle of Man',
@@ -5421,8 +5421,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T02:35:00',
-    till: '2022-05-25T03:00:00',
+    since: '2022-07-18T02:35:00',
+    till: '2022-07-18T03:00:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Guatemala',
@@ -5451,8 +5451,8 @@ export const epg = [
     id: '96313638-ed89-4594-a826-165350c349dc',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T03:00:00',
-    till: '2022-05-25T04:00:00',
+    since: '2022-07-18T03:00:00',
+    till: '2022-07-18T04:00:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -5483,8 +5483,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T04:00:00',
-    till: '2022-05-25T05:00:00',
+    since: '2022-07-18T04:00:00',
+    till: '2022-07-18T05:00:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -5515,8 +5515,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T05:00:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:00:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Maldives',
@@ -5546,8 +5546,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Hong Kong SAR China',
@@ -5577,8 +5577,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -5609,8 +5609,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -5641,8 +5641,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Ireland',
@@ -5672,8 +5672,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T11:00:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T11:00:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Tonga',
@@ -5703,8 +5703,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T11:00:00',
-    till: '2022-05-25T12:00:00',
+    since: '2022-07-18T11:00:00',
+    till: '2022-07-18T12:00:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -5734,8 +5734,8 @@ export const epg = [
     id: 'c5ea05b4-f048-461d-afe7-e71cd5eb22db',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T12:00:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:00:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -5765,8 +5765,8 @@ export const epg = [
     id: '875a5f8d-f6d4-47a5-a775-8299d590127f',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -5797,8 +5797,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:20:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:20:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -5829,8 +5829,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T14:20:00',
-    till: '2022-05-25T15:00:00',
+    since: '2022-07-18T14:20:00',
+    till: '2022-07-18T15:00:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -5861,8 +5861,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T15:00:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:00:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -5893,8 +5893,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -5925,8 +5925,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -5957,8 +5957,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:50:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:50:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -5989,8 +5989,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T19:50:00',
-    till: '2022-05-25T20:50:00',
+    since: '2022-07-18T19:50:00',
+    till: '2022-07-18T20:50:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Russia',
@@ -6020,8 +6020,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T20:50:00',
-    till: '2022-05-25T21:50:00',
+    since: '2022-07-18T20:50:00',
+    till: '2022-07-18T21:50:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -6052,8 +6052,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T21:50:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T21:50:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -6084,8 +6084,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T22:50:00',
-    till: '2022-05-25T23:50:00',
+    since: '2022-07-18T22:50:00',
+    till: '2022-07-18T23:50:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -6116,7 +6116,7 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T23:50:00',
+    since: '2022-07-18T23:50:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: 'eef7d00d-a198-4f17-8c03-077f7fd49a0e',
@@ -6148,8 +6148,8 @@ export const epg = [
     id: '896f16f3-fae5-48dd-9e56-f920690ea08c',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T00:00:00',
-    till: '2022-05-25T01:00:00',
+    since: '2022-07-18T00:00:00',
+    till: '2022-07-18T01:00:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -6180,8 +6180,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T01:00:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T01:00:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -6215,8 +6215,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:50:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:50:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -6246,8 +6246,8 @@ export const epg = [
     id: 'be7a55d8-2564-4346-add1-9d0bb42883af',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T02:50:00',
-    till: '2022-05-25T03:50:00',
+    since: '2022-07-18T02:50:00',
+    till: '2022-07-18T03:50:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -6278,8 +6278,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T03:50:00',
-    till: '2022-05-25T05:10:00',
+    since: '2022-07-18T03:50:00',
+    till: '2022-07-18T05:10:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -6310,8 +6310,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T05:10:00',
-    till: '2022-05-25T05:55:00',
+    since: '2022-07-18T05:10:00',
+    till: '2022-07-18T05:55:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -6345,8 +6345,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T05:55:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T05:55:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -6377,8 +6377,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -6409,8 +6409,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T09:05:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T09:05:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -6441,8 +6441,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T09:05:00',
-    till: '2022-05-25T09:45:00',
+    since: '2022-07-18T09:05:00',
+    till: '2022-07-18T09:45:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -6473,8 +6473,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T09:45:00',
-    till: '2022-05-25T09:58:00',
+    since: '2022-07-18T09:45:00',
+    till: '2022-07-18T09:58:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -6505,8 +6505,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T09:58:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:58:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -6537,8 +6537,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T10:35:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T10:35:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -6569,8 +6569,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T10:35:00',
-    till: '2022-05-25T11:30:00',
+    since: '2022-07-18T10:35:00',
+    till: '2022-07-18T11:30:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -6601,8 +6601,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T11:30:00',
-    till: '2022-05-25T12:35:00',
+    since: '2022-07-18T11:30:00',
+    till: '2022-07-18T12:35:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -6633,8 +6633,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T12:35:00',
-    till: '2022-05-25T13:05:00',
+    since: '2022-07-18T12:35:00',
+    till: '2022-07-18T13:05:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -6665,8 +6665,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T13:05:00',
-    till: '2022-05-25T13:35:00',
+    since: '2022-07-18T13:05:00',
+    till: '2022-07-18T13:35:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -6697,8 +6697,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T13:35:00',
-    till: '2022-05-25T14:35:00',
+    since: '2022-07-18T13:35:00',
+    till: '2022-07-18T14:35:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -6733,8 +6733,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T14:35:00',
-    till: '2022-05-25T15:45:00',
+    since: '2022-07-18T14:35:00',
+    till: '2022-07-18T15:45:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -6765,8 +6765,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T15:45:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:45:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -6800,8 +6800,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T16:05:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T16:05:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -6832,8 +6832,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T16:05:00',
-    till: '2022-05-25T16:55:00',
+    since: '2022-07-18T16:05:00',
+    till: '2022-07-18T16:55:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -6864,8 +6864,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T16:55:00',
-    till: '2022-05-25T17:45:00',
+    since: '2022-07-18T16:55:00',
+    till: '2022-07-18T17:45:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -6896,8 +6896,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T17:45:00',
-    till: '2022-05-25T17:58:00',
+    since: '2022-07-18T17:45:00',
+    till: '2022-07-18T17:58:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -6928,8 +6928,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T17:58:00',
-    till: '2022-05-25T18:00:00',
+    since: '2022-07-18T17:58:00',
+    till: '2022-07-18T18:00:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -6960,8 +6960,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T18:00:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T18:00:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -6992,8 +6992,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:00:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:00:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -7024,8 +7024,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T19:00:00',
-    till: '2022-05-25T19:40:00',
+    since: '2022-07-18T19:00:00',
+    till: '2022-07-18T19:40:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -7056,8 +7056,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T19:40:00',
-    till: '2022-05-25T19:45:00',
+    since: '2022-07-18T19:40:00',
+    till: '2022-07-18T19:45:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -7088,8 +7088,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T19:45:00',
-    till: '2022-05-25T19:58:00',
+    since: '2022-07-18T19:45:00',
+    till: '2022-07-18T19:58:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -7120,8 +7120,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T19:58:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:58:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -7156,8 +7156,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T21:00:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T21:00:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -7188,8 +7188,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T21:00:00',
-    till: '2022-05-25T21:30:00',
+    since: '2022-07-18T21:00:00',
+    till: '2022-07-18T21:30:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -7220,8 +7220,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T21:30:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T21:30:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -7252,8 +7252,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T22:00:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T22:00:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -7284,8 +7284,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T22:50:00',
-    till: '2022-05-25T23:50:00',
+    since: '2022-07-18T22:50:00',
+    till: '2022-07-18T23:50:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -7316,7 +7316,7 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T23:50:00',
+    since: '2022-07-18T23:50:00',
     isTomorrow: true,
     till: '2022-05-26T00:50:00',
     channelUuid: '99bc771f-9c09-4ca0-b5e3-7734c522378a',
@@ -7350,8 +7350,8 @@ export const epg = [
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
     isYesterday: true,
-    since: '2022-05-24T23:00:00',
-    till: '2022-05-25T01:20:00',
+    since: '2022-07-17T23:00:00',
+    till: '2022-07-18T01:20:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -7382,8 +7382,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T01:20:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T01:20:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -7414,8 +7414,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:00:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:00:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -7446,8 +7446,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T02:00:00',
-    till: '2022-05-25T02:45:00',
+    since: '2022-07-18T02:00:00',
+    till: '2022-07-18T02:45:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -7478,8 +7478,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T02:45:00',
-    till: '2022-05-25T03:15:00',
+    since: '2022-07-18T02:45:00',
+    till: '2022-07-18T03:15:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -7510,8 +7510,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T03:15:00',
-    till: '2022-05-25T03:45:00',
+    since: '2022-07-18T03:15:00',
+    till: '2022-07-18T03:45:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -7542,8 +7542,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T03:45:00',
-    till: '2022-05-25T04:15:00',
+    since: '2022-07-18T03:45:00',
+    till: '2022-07-18T04:15:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Suriname',
@@ -7573,8 +7573,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T04:15:00',
-    till: '2022-05-25T04:45:00',
+    since: '2022-07-18T04:15:00',
+    till: '2022-07-18T04:45:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -7605,8 +7605,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T04:45:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T04:45:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -7637,8 +7637,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:45:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:45:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -7673,8 +7673,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T05:45:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:45:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -7705,8 +7705,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -7737,8 +7737,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Montserrat',
@@ -7768,8 +7768,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -7800,8 +7800,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -7832,8 +7832,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T11:00:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T11:00:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -7867,8 +7867,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T11:00:00',
-    till: '2022-05-25T12:00:00',
+    since: '2022-07-18T11:00:00',
+    till: '2022-07-18T12:00:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Wallis and Futuna',
@@ -7898,8 +7898,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T12:00:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:00:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -7930,8 +7930,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -7965,8 +7965,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T15:00:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T15:00:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -7997,8 +7997,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T15:00:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:00:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -8029,8 +8029,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T17:35:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T17:35:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -8064,8 +8064,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T17:35:00',
-    till: '2022-05-25T19:00:00',
+    since: '2022-07-18T17:35:00',
+    till: '2022-07-18T19:00:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -8096,8 +8096,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T19:00:00',
-    till: '2022-05-25T19:35:00',
+    since: '2022-07-18T19:00:00',
+    till: '2022-07-18T19:35:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -8128,8 +8128,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T19:35:00',
-    till: '2022-05-25T20:05:00',
+    since: '2022-07-18T19:35:00',
+    till: '2022-07-18T20:05:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -8160,8 +8160,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T20:05:00',
-    till: '2022-05-25T21:00:00',
+    since: '2022-07-18T20:05:00',
+    till: '2022-07-18T21:00:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -8192,8 +8192,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T21:00:00',
-    till: '2022-05-25T23:30:00',
+    since: '2022-07-18T21:00:00',
+    till: '2022-07-18T23:30:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -8224,7 +8224,7 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T23:30:00',
+    since: '2022-07-18T23:30:00',
     isTomorrow: true,
     till: '2022-05-26T02:00:00',
     channelUuid: '60e6aa86-98c2-4992-8553-cad3c4dd6735',
@@ -8258,8 +8258,8 @@ export const epg = [
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
     isYesterday: true,
-    since: '2022-05-24T23:10:00',
-    till: '2022-05-25T02:15:00',
+    since: '2022-07-17T23:10:00',
+    till: '2022-07-18T02:15:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -8293,8 +8293,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T02:15:00',
-    till: '2022-05-25T04:40:00',
+    since: '2022-07-18T02:15:00',
+    till: '2022-07-18T04:40:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -8325,8 +8325,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T04:40:00',
-    till: '2022-05-25T05:25:00',
+    since: '2022-07-18T04:40:00',
+    till: '2022-07-18T05:25:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -8357,8 +8357,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T05:25:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:25:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -8388,8 +8388,8 @@ export const epg = [
     id: '7ab3ecbb-1847-4a7a-a02f-715d8cd45745',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T08:25:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T08:25:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -8420,8 +8420,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T08:25:00',
-    till: '2022-05-25T10:10:00',
+    since: '2022-07-18T08:25:00',
+    till: '2022-07-18T10:10:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -8452,8 +8452,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T10:10:00',
-    till: '2022-05-25T10:40:00',
+    since: '2022-07-18T10:10:00',
+    till: '2022-07-18T10:40:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -8484,8 +8484,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T10:40:00',
-    till: '2022-05-25T11:40:00',
+    since: '2022-07-18T10:40:00',
+    till: '2022-07-18T11:40:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -8516,8 +8516,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T11:40:00',
-    till: '2022-05-25T12:40:00',
+    since: '2022-07-18T11:40:00',
+    till: '2022-07-18T12:40:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -8547,8 +8547,8 @@ export const epg = [
     id: '79acb780-f153-48aa-a728-5aff24ece358',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T12:40:00',
-    till: '2022-05-25T13:45:00',
+    since: '2022-07-18T12:40:00',
+    till: '2022-07-18T13:45:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -8579,8 +8579,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T13:45:00',
-    till: '2022-05-25T14:15:00',
+    since: '2022-07-18T13:45:00',
+    till: '2022-07-18T14:15:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -8611,8 +8611,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T14:15:00',
-    till: '2022-05-25T14:40:00',
+    since: '2022-07-18T14:15:00',
+    till: '2022-07-18T14:40:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -8643,8 +8643,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T14:40:00',
-    till: '2022-05-25T15:45:00',
+    since: '2022-07-18T14:40:00',
+    till: '2022-07-18T15:45:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -8677,8 +8677,8 @@ export const epg = [
     id: '7a95185b-8895-4031-ba92-878a3e17d713',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T15:45:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:45:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -8709,8 +8709,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T16:45:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T16:45:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -8741,8 +8741,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T16:45:00',
-    till: '2022-05-25T17:15:00',
+    since: '2022-07-18T16:45:00',
+    till: '2022-07-18T17:15:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -8773,8 +8773,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T17:15:00',
-    till: '2022-05-25T17:45:00',
+    since: '2022-07-18T17:15:00',
+    till: '2022-07-18T17:45:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -8804,8 +8804,8 @@ export const epg = [
     id: 'a20de66e-d3ef-4084-a8f3-d711a58a1cb5',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T17:45:00',
-    till: '2022-05-25T18:15:00',
+    since: '2022-07-18T17:45:00',
+    till: '2022-07-18T18:15:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -8836,8 +8836,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T18:15:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T18:15:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -8867,8 +8867,8 @@ export const epg = [
     id: 'b8541295-5a3c-4c72-a4fc-6a059cf62a54',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:25:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:25:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -8899,8 +8899,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T19:25:00',
-    till: '2022-05-25T19:45:00',
+    since: '2022-07-18T19:25:00',
+    till: '2022-07-18T19:45:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -8934,8 +8934,8 @@ export const epg = [
     id: '5186f559-808e-4f31-827d-5c343eafd860',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T19:45:00',
-    till: '2022-05-25T19:55:00',
+    since: '2022-07-18T19:45:00',
+    till: '2022-07-18T19:55:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -8966,8 +8966,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T19:55:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:55:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -8998,8 +8998,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -9034,7 +9034,7 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T22:00:00',
+    since: '2022-07-18T22:00:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: '680aabe4-8e32-4423-8fea-790a83863f0a',
@@ -9068,8 +9068,8 @@ export const epg = [
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
     isYesterday: true,
-    since: '2022-05-24T23:50:00',
-    till: '2022-05-25T00:45:00',
+    since: '2022-07-17T23:50:00',
+    till: '2022-07-18T00:45:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Sweden',
@@ -9099,8 +9099,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T00:45:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T00:45:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Gambia',
@@ -9130,8 +9130,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:00:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:00:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -9162,8 +9162,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T02:00:00',
-    till: '2022-05-25T02:35:00',
+    since: '2022-07-18T02:00:00',
+    till: '2022-07-18T02:35:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -9194,8 +9194,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T02:35:00',
-    till: '2022-05-25T03:00:00',
+    since: '2022-07-18T02:35:00',
+    till: '2022-07-18T03:00:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -9226,8 +9226,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T03:00:00',
-    till: '2022-05-25T04:00:00',
+    since: '2022-07-18T03:00:00',
+    till: '2022-07-18T04:00:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -9258,8 +9258,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T04:00:00',
-    till: '2022-05-25T05:00:00',
+    since: '2022-07-18T04:00:00',
+    till: '2022-07-18T05:00:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -9294,8 +9294,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T05:00:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:00:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -9326,8 +9326,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -9358,8 +9358,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -9390,8 +9390,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -9422,8 +9422,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -9453,8 +9453,8 @@ export const epg = [
     id: '115a123c-d8bb-484f-b926-066ddc4455d9',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T11:00:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T11:00:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -9485,8 +9485,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T11:00:00',
-    till: '2022-05-25T12:00:00',
+    since: '2022-07-18T11:00:00',
+    till: '2022-07-18T12:00:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -9521,8 +9521,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T12:00:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:00:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -9553,8 +9553,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -9585,8 +9585,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:20:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:20:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -9621,8 +9621,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T14:20:00',
-    till: '2022-05-25T15:00:00',
+    since: '2022-07-18T14:20:00',
+    till: '2022-07-18T15:00:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -9653,8 +9653,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T15:00:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:00:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -9685,8 +9685,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -9717,8 +9717,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -9749,8 +9749,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:50:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:50:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -9781,8 +9781,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T19:50:00',
-    till: '2022-05-25T20:50:00',
+    since: '2022-07-18T19:50:00',
+    till: '2022-07-18T20:50:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -9813,8 +9813,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T20:50:00',
-    till: '2022-05-25T21:50:00',
+    since: '2022-07-18T20:50:00',
+    till: '2022-07-18T21:50:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -9845,8 +9845,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T21:50:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T21:50:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -9877,8 +9877,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T22:50:00',
-    till: '2022-05-25T23:50:00',
+    since: '2022-07-18T22:50:00',
+    till: '2022-07-18T23:50:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -9909,7 +9909,7 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T23:50:00',
+    since: '2022-07-18T23:50:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: 'c8dc3d4a-8100-4955-99cb-779513f10f24',
@@ -9943,8 +9943,8 @@ export const epg = [
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
     isYesterday: true,
-    since: '2022-05-24T23:10:00',
-    till: '2022-05-25T01:35:00',
+    since: '2022-07-17T23:10:00',
+    till: '2022-07-18T01:35:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -9975,8 +9975,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T01:35:00',
-    till: '2022-05-25T03:45:00',
+    since: '2022-07-18T01:35:00',
+    till: '2022-07-18T03:45:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -10007,8 +10007,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T03:45:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T03:45:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -10039,8 +10039,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:20:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:20:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -10071,8 +10071,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T05:20:00',
-    till: '2022-05-25T05:50:00',
+    since: '2022-07-18T05:20:00',
+    till: '2022-07-18T05:50:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -10103,8 +10103,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T05:50:00',
-    till: '2022-05-25T06:25:00',
+    since: '2022-07-18T05:50:00',
+    till: '2022-07-18T06:25:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -10135,8 +10135,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T06:25:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:25:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -10167,8 +10167,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T07:55:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T07:55:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -10199,8 +10199,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T07:55:00',
-    till: '2022-05-25T11:50:00',
+    since: '2022-07-18T07:55:00',
+    till: '2022-07-18T11:50:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -10231,8 +10231,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T11:50:00',
-    till: '2022-05-25T12:30:00',
+    since: '2022-07-18T11:50:00',
+    till: '2022-07-18T12:30:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -10262,8 +10262,8 @@ export const epg = [
     id: '7a97ce5c-11cf-4715-bba0-6ab873308056',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T12:30:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T12:30:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -10294,8 +10294,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:35:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:35:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -10326,8 +10326,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T14:35:00',
-    till: '2022-05-25T15:15:00',
+    since: '2022-07-18T14:35:00',
+    till: '2022-07-18T15:15:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -10358,8 +10358,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T15:15:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:15:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -10390,8 +10390,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T17:15:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T17:15:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -10422,8 +10422,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T17:15:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T17:15:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -10458,8 +10458,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:00:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:00:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -10490,8 +10490,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T18:00:00',
-    till: '2022-05-25T18:20:00',
+    since: '2022-07-18T18:00:00',
+    till: '2022-07-18T18:20:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -10526,8 +10526,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T18:20:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T18:20:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -10558,8 +10558,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:20:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:20:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -10590,8 +10590,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T19:20:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:20:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -10622,8 +10622,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T21:05:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T21:05:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -10654,8 +10654,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T21:05:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T21:05:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -10686,8 +10686,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T22:00:00',
-    till: '2022-05-25T23:05:00',
+    since: '2022-07-18T22:00:00',
+    till: '2022-07-18T23:05:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -10718,7 +10718,7 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T23:05:00',
+    since: '2022-07-18T23:05:00',
     isTomorrow: true,
     till: '2022-05-26T00:15:00',
     channelUuid: '2d3a957b-0749-4daf-87fb-869b4fb76f07',
@@ -10752,8 +10752,8 @@ export const epg = [
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
     isYesterday: true,
-    since: '2022-05-24T23:50:00',
-    till: '2022-05-25T00:45:00',
+    since: '2022-07-17T23:50:00',
+    till: '2022-07-18T00:45:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -10788,8 +10788,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T00:45:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T00:45:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -10820,8 +10820,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:00:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:00:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -10852,8 +10852,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T02:00:00',
-    till: '2022-05-25T02:35:00',
+    since: '2022-07-18T02:00:00',
+    till: '2022-07-18T02:35:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -10884,8 +10884,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T02:35:00',
-    till: '2022-05-25T03:00:00',
+    since: '2022-07-18T02:35:00',
+    till: '2022-07-18T03:00:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -10916,8 +10916,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T03:00:00',
-    till: '2022-05-25T04:00:00',
+    since: '2022-07-18T03:00:00',
+    till: '2022-07-18T04:00:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -10948,8 +10948,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T04:00:00',
-    till: '2022-05-25T05:00:00',
+    since: '2022-07-18T04:00:00',
+    till: '2022-07-18T05:00:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -10980,8 +10980,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T05:00:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:00:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -11012,8 +11012,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -11044,8 +11044,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -11076,8 +11076,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -11108,8 +11108,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -11140,8 +11140,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T11:00:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T11:00:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -11175,8 +11175,8 @@ export const epg = [
     id: '24c81c38-9313-4f4b-94cd-04b3389a904c',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T11:00:00',
-    till: '2022-05-25T12:00:00',
+    since: '2022-07-18T11:00:00',
+    till: '2022-07-18T12:00:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -11207,8 +11207,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T12:00:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:00:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -11239,8 +11239,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Greece',
@@ -11270,8 +11270,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:20:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:20:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -11302,8 +11302,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T14:20:00',
-    till: '2022-05-25T15:00:00',
+    since: '2022-07-18T14:20:00',
+    till: '2022-07-18T15:00:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -11338,8 +11338,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T15:00:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:00:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -11370,8 +11370,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -11402,8 +11402,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -11434,8 +11434,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:50:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:50:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -11470,8 +11470,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T19:50:00',
-    till: '2022-05-25T20:50:00',
+    since: '2022-07-18T19:50:00',
+    till: '2022-07-18T20:50:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -11502,8 +11502,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T20:50:00',
-    till: '2022-05-25T21:50:00',
+    since: '2022-07-18T20:50:00',
+    till: '2022-07-18T21:50:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -11534,8 +11534,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T21:50:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T21:50:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -11566,8 +11566,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T22:50:00',
-    till: '2022-05-25T23:50:00',
+    since: '2022-07-18T22:50:00',
+    till: '2022-07-18T23:50:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -11601,7 +11601,7 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T23:50:00',
+    since: '2022-07-18T23:50:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: '3fcc1e89-2c7b-42d8-aa0e-cb7b6335a60d',
@@ -11638,8 +11638,8 @@ export const epg = [
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
     isYesterday: true,
-    since: '2022-05-24T23:50:00',
-    till: '2022-05-25T00:55:00',
+    since: '2022-07-17T23:50:00',
+    till: '2022-07-18T00:55:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -11670,8 +11670,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T00:55:00',
-    till: '2022-05-25T02:35:00',
+    since: '2022-07-18T00:55:00',
+    till: '2022-07-18T02:35:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -11702,8 +11702,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T02:35:00',
-    till: '2022-05-25T03:30:00',
+    since: '2022-07-18T02:35:00',
+    till: '2022-07-18T03:30:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -11734,8 +11734,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T03:30:00',
-    till: '2022-05-25T04:15:00',
+    since: '2022-07-18T03:30:00',
+    till: '2022-07-18T04:15:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -11766,8 +11766,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T04:15:00',
-    till: '2022-05-25T04:30:00',
+    since: '2022-07-18T04:15:00',
+    till: '2022-07-18T04:30:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -11798,8 +11798,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T04:30:00',
-    till: '2022-05-25T05:10:00',
+    since: '2022-07-18T04:30:00',
+    till: '2022-07-18T05:10:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -11830,8 +11830,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T05:10:00',
-    till: '2022-05-25T05:35:00',
+    since: '2022-07-18T05:10:00',
+    till: '2022-07-18T05:35:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -11862,8 +11862,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T05:35:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:35:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -11893,8 +11893,8 @@ export const epg = [
     id: '816bc9e0-b7bf-48a6-a76a-d8ed7349d05f',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -11925,8 +11925,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T07:40:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T07:40:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -11957,8 +11957,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T07:40:00',
-    till: '2022-05-25T08:05:00',
+    since: '2022-07-18T07:40:00',
+    till: '2022-07-18T08:05:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -11989,8 +11989,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T08:05:00',
-    till: '2022-05-25T08:20:00',
+    since: '2022-07-18T08:05:00',
+    till: '2022-07-18T08:20:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -12021,8 +12021,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T08:20:00',
-    till: '2022-05-25T08:45:00',
+    since: '2022-07-18T08:20:00',
+    till: '2022-07-18T08:45:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Union of Soviet Socialist Republics',
@@ -12052,8 +12052,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T08:45:00',
-    till: '2022-05-25T09:15:00',
+    since: '2022-07-18T08:45:00',
+    till: '2022-07-18T09:15:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -12084,8 +12084,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T09:15:00',
-    till: '2022-05-25T10:20:00',
+    since: '2022-07-18T09:15:00',
+    till: '2022-07-18T10:20:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -12119,8 +12119,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T10:20:00',
-    till: '2022-05-25T11:15:00',
+    since: '2022-07-18T10:20:00',
+    till: '2022-07-18T11:15:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -12151,8 +12151,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T11:15:00',
-    till: '2022-05-25T11:50:00',
+    since: '2022-07-18T11:15:00',
+    till: '2022-07-18T11:50:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -12183,8 +12183,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T11:50:00',
-    till: '2022-05-25T13:45:00',
+    since: '2022-07-18T11:50:00',
+    till: '2022-07-18T13:45:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -12215,8 +12215,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T13:45:00',
-    till: '2022-05-25T13:55:00',
+    since: '2022-07-18T13:45:00',
+    till: '2022-07-18T13:55:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -12247,8 +12247,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T13:55:00',
-    till: '2022-05-25T14:55:00',
+    since: '2022-07-18T13:55:00',
+    till: '2022-07-18T14:55:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -12279,8 +12279,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T14:55:00',
-    till: '2022-05-25T15:55:00',
+    since: '2022-07-18T14:55:00',
+    till: '2022-07-18T15:55:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -12311,8 +12311,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T15:55:00',
-    till: '2022-05-25T17:00:00',
+    since: '2022-07-18T15:55:00',
+    till: '2022-07-18T17:00:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -12343,8 +12343,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T17:00:00',
-    till: '2022-05-25T17:20:00',
+    since: '2022-07-18T17:00:00',
+    till: '2022-07-18T17:20:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -12379,8 +12379,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T17:20:00',
-    till: '2022-05-25T17:30:00',
+    since: '2022-07-18T17:20:00',
+    till: '2022-07-18T17:30:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -12411,8 +12411,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T17:30:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T17:30:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -12446,8 +12446,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:25:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:25:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -12478,8 +12478,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T19:25:00',
-    till: '2022-05-25T19:30:00',
+    since: '2022-07-18T19:25:00',
+    till: '2022-07-18T19:30:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -12510,8 +12510,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T19:30:00',
-    till: '2022-05-25T20:05:00',
+    since: '2022-07-18T19:30:00',
+    till: '2022-07-18T20:05:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -12542,8 +12542,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T20:05:00',
-    till: '2022-05-25T20:10:00',
+    since: '2022-07-18T20:05:00',
+    till: '2022-07-18T20:10:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -12574,8 +12574,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T20:10:00',
-    till: '2022-05-25T20:35:00',
+    since: '2022-07-18T20:10:00',
+    till: '2022-07-18T20:35:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -12606,8 +12606,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T20:35:00',
-    till: '2022-05-25T21:35:00',
+    since: '2022-07-18T20:35:00',
+    till: '2022-07-18T21:35:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -12638,8 +12638,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T21:35:00',
-    till: '2022-05-25T23:30:00',
+    since: '2022-07-18T21:35:00',
+    till: '2022-07-18T23:30:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -12670,7 +12670,7 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T23:30:00',
+    since: '2022-07-18T23:30:00',
     isTomorrow: true,
     till: '2022-05-26T01:25:00',
     channelUuid: 'bd67b011-7574-48c5-9d98-2b3f05dd1382',
@@ -12704,8 +12704,8 @@ export const epg = [
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
     isYesterday: true,
-    since: '2022-05-24T23:10:00',
-    till: '2022-05-25T01:35:00',
+    since: '2022-07-17T23:10:00',
+    till: '2022-07-18T01:35:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -12736,8 +12736,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T01:35:00',
-    till: '2022-05-25T03:45:00',
+    since: '2022-07-18T01:35:00',
+    till: '2022-07-18T03:45:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -12768,8 +12768,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T03:45:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T03:45:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -12800,8 +12800,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:20:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:20:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -12832,8 +12832,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T05:20:00',
-    till: '2022-05-25T05:50:00',
+    since: '2022-07-18T05:20:00',
+    till: '2022-07-18T05:50:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -12864,8 +12864,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T05:50:00',
-    till: '2022-05-25T06:25:00',
+    since: '2022-07-18T05:50:00',
+    till: '2022-07-18T06:25:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -12896,8 +12896,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T06:25:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:25:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -12928,8 +12928,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T07:55:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T07:55:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -12960,8 +12960,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T07:55:00',
-    till: '2022-05-25T11:50:00',
+    since: '2022-07-18T07:55:00',
+    till: '2022-07-18T11:50:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Niue',
@@ -12991,8 +12991,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T11:50:00',
-    till: '2022-05-25T12:30:00',
+    since: '2022-07-18T11:50:00',
+    till: '2022-07-18T12:30:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -13023,8 +13023,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T12:30:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T12:30:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'U.S. Minor Outlying Islands',
@@ -13054,8 +13054,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:35:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:35:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -13086,8 +13086,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T14:35:00',
-    till: '2022-05-25T15:15:00',
+    since: '2022-07-18T14:35:00',
+    till: '2022-07-18T15:15:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -13118,8 +13118,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T15:15:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:15:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -13150,8 +13150,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T17:15:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T17:15:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -13182,8 +13182,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T17:15:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T17:15:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -13214,8 +13214,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:00:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:00:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -13250,8 +13250,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T18:00:00',
-    till: '2022-05-25T18:20:00',
+    since: '2022-07-18T18:00:00',
+    till: '2022-07-18T18:20:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -13282,8 +13282,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T18:20:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T18:20:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -13314,8 +13314,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:20:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:20:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -13346,8 +13346,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T19:20:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:20:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -13377,8 +13377,8 @@ export const epg = [
     id: '8345cd63-a117-4dda-8423-6028a2fefebb',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T21:05:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T21:05:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -13409,8 +13409,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T21:05:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T21:05:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -13441,8 +13441,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T22:00:00',
-    till: '2022-05-25T23:05:00',
+    since: '2022-07-18T22:00:00',
+    till: '2022-07-18T23:05:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -13473,7 +13473,7 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T23:05:00',
+    since: '2022-07-18T23:05:00',
     isTomorrow: true,
     till: '2022-05-26T00:15:00',
     channelUuid: 'be1540e2-71bf-47e2-bf95-214d701cb670',
@@ -13507,8 +13507,8 @@ export const epg = [
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
     isYesterday: true,
-    since: '2022-05-24T22:20:00',
-    till: '2022-05-25T00:25:00',
+    since: '2022-07-17T22:20:00',
+    till: '2022-07-18T00:25:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -13539,8 +13539,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T00:25:00',
-    till: '2022-05-25T01:30:00',
+    since: '2022-07-18T00:25:00',
+    till: '2022-07-18T01:30:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -13571,8 +13571,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T01:30:00',
-    till: '2022-05-25T02:50:00',
+    since: '2022-07-18T01:30:00',
+    till: '2022-07-18T02:50:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -13603,8 +13603,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T02:50:00',
-    till: '2022-05-25T04:05:00',
+    since: '2022-07-18T02:50:00',
+    till: '2022-07-18T04:05:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -13635,8 +13635,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T04:05:00',
-    till: '2022-05-25T04:30:00',
+    since: '2022-07-18T04:05:00',
+    till: '2022-07-18T04:30:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -13667,8 +13667,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T04:30:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T04:30:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -13699,8 +13699,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:30:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:30:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -13731,8 +13731,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T05:30:00',
-    till: '2022-05-25T06:30:00',
+    since: '2022-07-18T05:30:00',
+    till: '2022-07-18T06:30:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -13763,8 +13763,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T06:30:00',
-    till: '2022-05-25T07:30:00',
+    since: '2022-07-18T06:30:00',
+    till: '2022-07-18T07:30:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -13795,8 +13795,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T07:30:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:30:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -13826,8 +13826,8 @@ export const epg = [
     id: '76c645dd-fbb5-48d8-a0a2-aa73ed588eec',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T11:30:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T11:30:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -13858,8 +13858,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T11:30:00',
-    till: '2022-05-25T11:55:00',
+    since: '2022-07-18T11:30:00',
+    till: '2022-07-18T11:55:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -13890,8 +13890,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T11:55:00',
-    till: '2022-05-25T12:20:00',
+    since: '2022-07-18T11:55:00',
+    till: '2022-07-18T12:20:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -13922,8 +13922,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T12:20:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:20:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -13954,8 +13954,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:05:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:05:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -13986,8 +13986,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T14:05:00',
-    till: '2022-05-25T14:40:00',
+    since: '2022-07-18T14:05:00',
+    till: '2022-07-18T14:40:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -14018,8 +14018,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T14:40:00',
-    till: '2022-05-25T15:10:00',
+    since: '2022-07-18T14:40:00',
+    till: '2022-07-18T15:10:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -14050,8 +14050,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T15:10:00',
-    till: '2022-05-25T15:45:00',
+    since: '2022-07-18T15:10:00',
+    till: '2022-07-18T15:45:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -14082,8 +14082,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T15:45:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:45:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -14114,8 +14114,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T17:25:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T17:25:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -14146,8 +14146,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T17:25:00',
-    till: '2022-05-25T17:35:00',
+    since: '2022-07-18T17:25:00',
+    till: '2022-07-18T17:35:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -14178,8 +14178,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T17:35:00',
-    till: '2022-05-25T18:05:00',
+    since: '2022-07-18T17:35:00',
+    till: '2022-07-18T18:05:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -14210,8 +14210,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T18:05:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T18:05:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -14242,8 +14242,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:00:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:00:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -14274,8 +14274,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T19:00:00',
-    till: '2022-05-25T19:25:00',
+    since: '2022-07-18T19:00:00',
+    till: '2022-07-18T19:25:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -14306,8 +14306,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T19:25:00',
-    till: '2022-05-25T19:30:00',
+    since: '2022-07-18T19:25:00',
+    till: '2022-07-18T19:30:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -14338,8 +14338,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T19:30:00',
-    till: '2022-05-25T19:40:00',
+    since: '2022-07-18T19:30:00',
+    till: '2022-07-18T19:40:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -14370,8 +14370,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T19:40:00',
-    till: '2022-05-25T19:50:00',
+    since: '2022-07-18T19:40:00',
+    till: '2022-07-18T19:50:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -14402,8 +14402,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T19:50:00',
-    till: '2022-05-25T20:05:00',
+    since: '2022-07-18T19:50:00',
+    till: '2022-07-18T20:05:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -14434,8 +14434,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T20:05:00',
-    till: '2022-05-25T22:55:00',
+    since: '2022-07-18T20:05:00',
+    till: '2022-07-18T22:55:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -14466,7 +14466,7 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T22:55:00',
+    since: '2022-07-18T22:55:00',
     isTomorrow: true,
     till: '2022-05-26T00:50:00',
     channelUuid: 'a9df4673-d369-45f9-9863-2a6e0c4aa52d',
@@ -14500,8 +14500,8 @@ export const epg = [
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
     isYesterday: true,
-    since: '2022-05-24T23:15:00',
-    till: '2022-05-25T01:00:00',
+    since: '2022-07-17T23:15:00',
+    till: '2022-07-18T01:00:00',
     channelUuid: 'a942c23f-d6f0-477d-ac52-ed2264afbba7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -14532,8 +14532,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T01:00:00',
-    till: '2022-05-25T02:05:00',
+    since: '2022-07-18T01:00:00',
+    till: '2022-07-18T02:05:00',
     channelUuid: 'a942c23f-d6f0-477d-ac52-ed2264afbba7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -14564,8 +14564,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T02:05:00',
-    till: '2022-05-25T02:45:00',
+    since: '2022-07-18T02:05:00',
+    till: '2022-07-18T02:45:00',
     channelUuid: 'a942c23f-d6f0-477d-ac52-ed2264afbba7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -14596,8 +14596,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T02:45:00',
-    till: '2022-05-25T05:05:00',
+    since: '2022-07-18T02:45:00',
+    till: '2022-07-18T05:05:00',
     channelUuid: 'a942c23f-d6f0-477d-ac52-ed2264afbba7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -14628,8 +14628,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T05:05:00',
-    till: '2022-05-25T06:05:00',
+    since: '2022-07-18T05:05:00',
+    till: '2022-07-18T06:05:00',
     channelUuid: 'a942c23f-d6f0-477d-ac52-ed2264afbba7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -14664,8 +14664,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T06:05:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:05:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: 'a942c23f-d6f0-477d-ac52-ed2264afbba7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -14696,8 +14696,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T07:15:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T07:15:00',
     channelUuid: 'a942c23f-d6f0-477d-ac52-ed2264afbba7',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -14731,8 +14731,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T07:15:00',
-    till: '2022-05-25T07:50:00',
+    since: '2022-07-18T07:15:00',
+    till: '2022-07-18T07:50:00',
     channelUuid: 'a942c23f-d6f0-477d-ac52-ed2264afbba7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -14763,8 +14763,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T07:50:00',
-    till: '2022-05-25T09:40:00',
+    since: '2022-07-18T07:50:00',
+    till: '2022-07-18T09:40:00',
     channelUuid: 'a942c23f-d6f0-477d-ac52-ed2264afbba7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -14795,8 +14795,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T09:40:00',
-    till: '2022-05-25T10:40:00',
+    since: '2022-07-18T09:40:00',
+    till: '2022-07-18T10:40:00',
     channelUuid: 'a942c23f-d6f0-477d-ac52-ed2264afbba7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -14827,8 +14827,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T10:40:00',
-    till: '2022-05-25T11:45:00',
+    since: '2022-07-18T10:40:00',
+    till: '2022-07-18T11:45:00',
     channelUuid: 'a942c23f-d6f0-477d-ac52-ed2264afbba7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -14859,8 +14859,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T11:45:00',
-    till: '2022-05-25T12:45:00',
+    since: '2022-07-18T11:45:00',
+    till: '2022-07-18T12:45:00',
     channelUuid: 'a942c23f-d6f0-477d-ac52-ed2264afbba7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -14891,8 +14891,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T12:45:00',
-    till: '2022-05-25T13:50:00',
+    since: '2022-07-18T12:45:00',
+    till: '2022-07-18T13:50:00',
     channelUuid: 'a942c23f-d6f0-477d-ac52-ed2264afbba7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -14922,8 +14922,8 @@ export const epg = [
     id: '2cabccfb-e619-496e-908a-8c3763454e1f',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T13:50:00',
-    till: '2022-05-25T15:55:00',
+    since: '2022-07-18T13:50:00',
+    till: '2022-07-18T15:55:00',
     channelUuid: 'a942c23f-d6f0-477d-ac52-ed2264afbba7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -14954,8 +14954,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T15:55:00',
-    till: '2022-05-25T18:05:00',
+    since: '2022-07-18T15:55:00',
+    till: '2022-07-18T18:05:00',
     channelUuid: 'a942c23f-d6f0-477d-ac52-ed2264afbba7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -14986,8 +14986,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T18:05:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T18:05:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: 'a942c23f-d6f0-477d-ac52-ed2264afbba7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -15018,8 +15018,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: 'a942c23f-d6f0-477d-ac52-ed2264afbba7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -15050,7 +15050,7 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T22:50:00',
+    since: '2022-07-18T22:50:00',
     isTomorrow: true,
     till: '2022-05-26T01:10:00',
     channelUuid: 'a942c23f-d6f0-477d-ac52-ed2264afbba7',
@@ -15084,8 +15084,8 @@ export const epg = [
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
     isYesterday: true,
-    since: '2022-05-24T23:10:00',
-    till: '2022-05-25T02:15:00',
+    since: '2022-07-17T23:10:00',
+    till: '2022-07-18T02:15:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -15116,8 +15116,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T02:15:00',
-    till: '2022-05-25T04:40:00',
+    since: '2022-07-18T02:15:00',
+    till: '2022-07-18T04:40:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -15147,8 +15147,8 @@ export const epg = [
     id: '73269a43-ded2-417e-a5d9-4653671cc74e',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T04:40:00',
-    till: '2022-05-25T05:25:00',
+    since: '2022-07-18T04:40:00',
+    till: '2022-07-18T05:25:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -15179,8 +15179,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T05:25:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:25:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -15214,8 +15214,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T08:25:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T08:25:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -15246,8 +15246,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T08:25:00',
-    till: '2022-05-25T10:10:00',
+    since: '2022-07-18T08:25:00',
+    till: '2022-07-18T10:10:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -15278,8 +15278,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T10:10:00',
-    till: '2022-05-25T10:40:00',
+    since: '2022-07-18T10:10:00',
+    till: '2022-07-18T10:40:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -15310,8 +15310,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T10:40:00',
-    till: '2022-05-25T11:40:00',
+    since: '2022-07-18T10:40:00',
+    till: '2022-07-18T11:40:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -15341,8 +15341,8 @@ export const epg = [
     id: 'bdee3160-8b8b-453c-89de-7d649a77fed1',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T11:40:00',
-    till: '2022-05-25T12:40:00',
+    since: '2022-07-18T11:40:00',
+    till: '2022-07-18T12:40:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -15373,8 +15373,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T12:40:00',
-    till: '2022-05-25T13:45:00',
+    since: '2022-07-18T12:40:00',
+    till: '2022-07-18T13:45:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -15405,8 +15405,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T13:45:00',
-    till: '2022-05-25T14:15:00',
+    since: '2022-07-18T13:45:00',
+    till: '2022-07-18T14:15:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -15437,8 +15437,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T14:15:00',
-    till: '2022-05-25T14:40:00',
+    since: '2022-07-18T14:15:00',
+    till: '2022-07-18T14:40:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -15469,8 +15469,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T14:40:00',
-    till: '2022-05-25T15:45:00',
+    since: '2022-07-18T14:40:00',
+    till: '2022-07-18T15:45:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -15501,8 +15501,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T15:45:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:45:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -15532,8 +15532,8 @@ export const epg = [
     id: '31fcf810-e7c7-4412-b725-a44ddd0d54c0',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T16:45:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T16:45:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -15564,8 +15564,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T16:45:00',
-    till: '2022-05-25T17:15:00',
+    since: '2022-07-18T16:45:00',
+    till: '2022-07-18T17:15:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -15595,8 +15595,8 @@ export const epg = [
     id: 'fe3e6042-bf73-41e6-8811-d60c1c591e93',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T17:15:00',
-    till: '2022-05-25T17:45:00',
+    since: '2022-07-18T17:15:00',
+    till: '2022-07-18T17:45:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -15627,8 +15627,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T17:45:00',
-    till: '2022-05-25T18:15:00',
+    since: '2022-07-18T17:45:00',
+    till: '2022-07-18T18:15:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -15658,8 +15658,8 @@ export const epg = [
     id: 'bff54f5d-e958-41b0-a14a-47c3dc4f5d6d',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T18:15:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T18:15:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -15690,8 +15690,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:25:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:25:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -15722,8 +15722,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T19:25:00',
-    till: '2022-05-25T19:45:00',
+    since: '2022-07-18T19:25:00',
+    till: '2022-07-18T19:45:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -15754,8 +15754,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T19:45:00',
-    till: '2022-05-25T19:55:00',
+    since: '2022-07-18T19:45:00',
+    till: '2022-07-18T19:55:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -15786,8 +15786,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T19:55:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:55:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -15818,8 +15818,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -15850,7 +15850,7 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T22:00:00',
+    since: '2022-07-18T22:00:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: '50b4d490-43ff-43c6-9e52-02e12d81bec4',
@@ -15884,8 +15884,8 @@ export const epg = [
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
     isYesterday: true,
-    since: '2022-05-24T23:25:00',
-    till: '2022-05-25T00:25:00',
+    since: '2022-07-17T23:25:00',
+    till: '2022-07-18T00:25:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Moldova',
@@ -15915,8 +15915,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T00:25:00',
-    till: '2022-05-25T01:25:00',
+    since: '2022-07-18T00:25:00',
+    till: '2022-07-18T01:25:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Sierra Leone',
@@ -15946,8 +15946,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T01:25:00',
-    till: '2022-05-25T02:20:00',
+    since: '2022-07-18T01:25:00',
+    till: '2022-07-18T02:20:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -15977,8 +15977,8 @@ export const epg = [
     id: '6d52d429-3f65-4e85-9145-3c32958e7f0a',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T02:20:00',
-    till: '2022-05-25T03:20:00',
+    since: '2022-07-18T02:20:00',
+    till: '2022-07-18T03:20:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -16009,8 +16009,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T03:20:00',
-    till: '2022-05-25T05:05:00',
+    since: '2022-07-18T03:20:00',
+    till: '2022-07-18T05:05:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -16041,8 +16041,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T05:05:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T05:05:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -16073,8 +16073,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:50:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:50:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -16105,8 +16105,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T05:50:00',
-    till: '2022-05-25T06:20:00',
+    since: '2022-07-18T05:50:00',
+    till: '2022-07-18T06:20:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -16140,8 +16140,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T06:20:00',
-    till: '2022-05-25T06:55:00',
+    since: '2022-07-18T06:20:00',
+    till: '2022-07-18T06:55:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -16176,8 +16176,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T06:55:00',
-    till: '2022-05-25T07:30:00',
+    since: '2022-07-18T06:55:00',
+    till: '2022-07-18T07:30:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -16208,8 +16208,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T07:30:00',
-    till: '2022-05-25T08:05:00',
+    since: '2022-07-18T07:30:00',
+    till: '2022-07-18T08:05:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -16240,8 +16240,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T08:05:00',
-    till: '2022-05-25T08:40:00',
+    since: '2022-07-18T08:05:00',
+    till: '2022-07-18T08:40:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -16272,8 +16272,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T08:40:00',
-    till: '2022-05-25T09:10:00',
+    since: '2022-07-18T08:40:00',
+    till: '2022-07-18T09:10:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -16304,8 +16304,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T09:10:00',
-    till: '2022-05-25T09:40:00',
+    since: '2022-07-18T09:10:00',
+    till: '2022-07-18T09:40:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -16336,8 +16336,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T09:40:00',
-    till: '2022-05-25T10:15:00',
+    since: '2022-07-18T09:40:00',
+    till: '2022-07-18T10:15:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -16368,8 +16368,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T10:15:00',
-    till: '2022-05-25T10:45:00',
+    since: '2022-07-18T10:15:00',
+    till: '2022-07-18T10:45:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -16400,8 +16400,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T10:45:00',
-    till: '2022-05-25T11:50:00',
+    since: '2022-07-18T10:45:00',
+    till: '2022-07-18T11:50:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -16436,8 +16436,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T11:50:00',
-    till: '2022-05-25T12:50:00',
+    since: '2022-07-18T11:50:00',
+    till: '2022-07-18T12:50:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -16468,8 +16468,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T12:50:00',
-    till: '2022-05-25T13:20:00',
+    since: '2022-07-18T12:50:00',
+    till: '2022-07-18T13:20:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -16500,8 +16500,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T13:20:00',
-    till: '2022-05-25T13:50:00',
+    since: '2022-07-18T13:20:00',
+    till: '2022-07-18T13:50:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -16532,8 +16532,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T13:50:00',
-    till: '2022-05-25T14:05:00',
+    since: '2022-07-18T13:50:00',
+    till: '2022-07-18T14:05:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -16564,8 +16564,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T14:05:00',
-    till: '2022-05-25T15:05:00',
+    since: '2022-07-18T14:05:00',
+    till: '2022-07-18T15:05:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -16596,8 +16596,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T15:05:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:05:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -16628,8 +16628,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T17:10:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T17:10:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -16660,8 +16660,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T17:10:00',
-    till: '2022-05-25T17:40:00',
+    since: '2022-07-18T17:10:00',
+    till: '2022-07-18T17:40:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -16696,8 +16696,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T17:40:00',
-    till: '2022-05-25T18:20:00',
+    since: '2022-07-18T17:40:00',
+    till: '2022-07-18T18:20:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -16728,8 +16728,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T18:20:00',
-    till: '2022-05-25T18:55:00',
+    since: '2022-07-18T18:20:00',
+    till: '2022-07-18T18:55:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -16760,8 +16760,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T18:55:00',
-    till: '2022-05-25T19:55:00',
+    since: '2022-07-18T18:55:00',
+    till: '2022-07-18T19:55:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -16792,8 +16792,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T19:55:00',
-    till: '2022-05-25T20:55:00',
+    since: '2022-07-18T19:55:00',
+    till: '2022-07-18T20:55:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -16827,8 +16827,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T20:55:00',
-    till: '2022-05-25T21:55:00',
+    since: '2022-07-18T20:55:00',
+    till: '2022-07-18T21:55:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -16859,8 +16859,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T21:55:00',
-    till: '2022-05-25T23:35:00',
+    since: '2022-07-18T21:55:00',
+    till: '2022-07-18T23:35:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -16890,7 +16890,7 @@ export const epg = [
     id: '58084b8d-b603-40b3-b559-4c4d5c762fb9',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T23:35:00',
+    since: '2022-07-18T23:35:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: '0c540758-9727-4335-82a7-87e7e886a3fd',
@@ -16924,8 +16924,8 @@ export const epg = [
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
     isYesterday: true,
-    since: '2022-05-24T23:50:00',
-    till: '2022-05-25T00:45:00',
+    since: '2022-07-17T23:50:00',
+    till: '2022-07-18T00:45:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -16956,8 +16956,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T00:45:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T00:45:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -16988,8 +16988,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:00:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:00:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -17019,8 +17019,8 @@ export const epg = [
     id: 'b34fb3bb-0170-46db-b4eb-60c81b68a1bc',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T02:00:00',
-    till: '2022-05-25T02:35:00',
+    since: '2022-07-18T02:00:00',
+    till: '2022-07-18T02:35:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -17050,8 +17050,8 @@ export const epg = [
     id: '0a1783bd-ffd7-4789-ab25-5d90efa9970c',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T02:35:00',
-    till: '2022-05-25T03:00:00',
+    since: '2022-07-18T02:35:00',
+    till: '2022-07-18T03:00:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -17082,8 +17082,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T03:00:00',
-    till: '2022-05-25T04:00:00',
+    since: '2022-07-18T03:00:00',
+    till: '2022-07-18T04:00:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -17114,8 +17114,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T04:00:00',
-    till: '2022-05-25T05:00:00',
+    since: '2022-07-18T04:00:00',
+    till: '2022-07-18T05:00:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -17146,8 +17146,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T05:00:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:00:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -17178,8 +17178,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -17209,8 +17209,8 @@ export const epg = [
     id: 'bf9772ab-9fc7-4fca-baf6-83c8651b07a6',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -17241,8 +17241,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -17273,8 +17273,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -17308,8 +17308,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T11:00:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T11:00:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -17340,8 +17340,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T11:00:00',
-    till: '2022-05-25T12:00:00',
+    since: '2022-07-18T11:00:00',
+    till: '2022-07-18T12:00:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -17372,8 +17372,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T12:00:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:00:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -17404,8 +17404,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -17436,8 +17436,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:20:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:20:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -17468,8 +17468,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T14:20:00',
-    till: '2022-05-25T15:00:00',
+    since: '2022-07-18T14:20:00',
+    till: '2022-07-18T15:00:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -17499,8 +17499,8 @@ export const epg = [
     id: '0c859360-d811-457e-ac83-2499f7a9b836',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T15:00:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:00:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -17531,8 +17531,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -17563,8 +17563,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -17598,8 +17598,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:50:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:50:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -17630,8 +17630,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T19:50:00',
-    till: '2022-05-25T20:50:00',
+    since: '2022-07-18T19:50:00',
+    till: '2022-07-18T20:50:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -17661,8 +17661,8 @@ export const epg = [
     id: 'e215f432-ebb7-4b07-ad68-829ed39afadc',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T20:50:00',
-    till: '2022-05-25T21:50:00',
+    since: '2022-07-18T20:50:00',
+    till: '2022-07-18T21:50:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -17693,8 +17693,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T21:50:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T21:50:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -17725,8 +17725,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T22:50:00',
-    till: '2022-05-25T23:50:00',
+    since: '2022-07-18T22:50:00',
+    till: '2022-07-18T23:50:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -17757,7 +17757,7 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T23:50:00',
+    since: '2022-07-18T23:50:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: '66e586af-db63-4806-8d58-3ab3a2bb43e5',
@@ -17790,8 +17790,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T00:00:00',
-    till: '2022-05-25T01:00:00',
+    since: '2022-07-18T00:00:00',
+    till: '2022-07-18T01:00:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -17822,8 +17822,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T01:00:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T01:00:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -17854,8 +17854,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:50:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:50:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -17886,8 +17886,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T02:50:00',
-    till: '2022-05-25T03:50:00',
+    since: '2022-07-18T02:50:00',
+    till: '2022-07-18T03:50:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -17918,8 +17918,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T03:50:00',
-    till: '2022-05-25T05:10:00',
+    since: '2022-07-18T03:50:00',
+    till: '2022-07-18T05:10:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -17950,8 +17950,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T05:10:00',
-    till: '2022-05-25T05:55:00',
+    since: '2022-07-18T05:10:00',
+    till: '2022-07-18T05:55:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -17982,8 +17982,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T05:55:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T05:55:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -18014,8 +18014,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -18046,8 +18046,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T09:05:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T09:05:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -18078,8 +18078,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T09:05:00',
-    till: '2022-05-25T09:45:00',
+    since: '2022-07-18T09:05:00',
+    till: '2022-07-18T09:45:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Bahamas',
@@ -18109,8 +18109,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T09:45:00',
-    till: '2022-05-25T09:58:00',
+    since: '2022-07-18T09:45:00',
+    till: '2022-07-18T09:58:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -18141,8 +18141,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T09:58:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:58:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -18173,8 +18173,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T10:35:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T10:35:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -18205,8 +18205,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T10:35:00',
-    till: '2022-05-25T11:30:00',
+    since: '2022-07-18T10:35:00',
+    till: '2022-07-18T11:30:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Palestinian Territories',
@@ -18236,8 +18236,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T11:30:00',
-    till: '2022-05-25T12:35:00',
+    since: '2022-07-18T11:30:00',
+    till: '2022-07-18T12:35:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -18268,8 +18268,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T12:35:00',
-    till: '2022-05-25T13:05:00',
+    since: '2022-07-18T12:35:00',
+    till: '2022-07-18T13:05:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -18300,8 +18300,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T13:05:00',
-    till: '2022-05-25T13:35:00',
+    since: '2022-07-18T13:05:00',
+    till: '2022-07-18T13:35:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -18332,8 +18332,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T13:35:00',
-    till: '2022-05-25T14:35:00',
+    since: '2022-07-18T13:35:00',
+    till: '2022-07-18T14:35:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -18364,8 +18364,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T14:35:00',
-    till: '2022-05-25T15:45:00',
+    since: '2022-07-18T14:35:00',
+    till: '2022-07-18T15:45:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -18399,8 +18399,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T15:45:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:45:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -18431,8 +18431,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T16:05:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T16:05:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -18463,8 +18463,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T16:05:00',
-    till: '2022-05-25T16:55:00',
+    since: '2022-07-18T16:05:00',
+    till: '2022-07-18T16:55:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -18495,8 +18495,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T16:55:00',
-    till: '2022-05-25T17:45:00',
+    since: '2022-07-18T16:55:00',
+    till: '2022-07-18T17:45:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -18527,8 +18527,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T17:45:00',
-    till: '2022-05-25T17:58:00',
+    since: '2022-07-18T17:45:00',
+    till: '2022-07-18T17:58:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -18559,8 +18559,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T17:58:00',
-    till: '2022-05-25T18:00:00',
+    since: '2022-07-18T17:58:00',
+    till: '2022-07-18T18:00:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -18591,8 +18591,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T18:00:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T18:00:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -18627,8 +18627,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:00:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:00:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -18659,8 +18659,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T19:00:00',
-    till: '2022-05-25T19:40:00',
+    since: '2022-07-18T19:00:00',
+    till: '2022-07-18T19:40:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -18691,8 +18691,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T19:40:00',
-    till: '2022-05-25T19:45:00',
+    since: '2022-07-18T19:40:00',
+    till: '2022-07-18T19:45:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -18727,8 +18727,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T19:45:00',
-    till: '2022-05-25T19:58:00',
+    since: '2022-07-18T19:45:00',
+    till: '2022-07-18T19:58:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -18759,8 +18759,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T19:58:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:58:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -18791,8 +18791,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T21:00:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T21:00:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -18823,8 +18823,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T21:00:00',
-    till: '2022-05-25T21:30:00',
+    since: '2022-07-18T21:00:00',
+    till: '2022-07-18T21:30:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -18855,8 +18855,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T21:30:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T21:30:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -18887,8 +18887,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T22:00:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T22:00:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -18923,8 +18923,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T22:50:00',
-    till: '2022-05-25T23:50:00',
+    since: '2022-07-18T22:50:00',
+    till: '2022-07-18T23:50:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -18955,7 +18955,7 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T23:50:00',
+    since: '2022-07-18T23:50:00',
     isTomorrow: true,
     till: '2022-05-26T00:50:00',
     channelUuid: '6f75d936-49d3-40ab-b394-897db4154231',
@@ -18989,8 +18989,8 @@ export const epg = [
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
     isYesterday: true,
-    since: '2022-05-24T23:00:00',
-    till: '2022-05-25T01:20:00',
+    since: '2022-07-17T23:00:00',
+    till: '2022-07-18T01:20:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -19025,8 +19025,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T01:20:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T01:20:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -19056,8 +19056,8 @@ export const epg = [
     id: 'a3f1064d-c136-4b68-80bc-32db749d73cb',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:00:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:00:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -19088,8 +19088,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T02:00:00',
-    till: '2022-05-25T02:45:00',
+    since: '2022-07-18T02:00:00',
+    till: '2022-07-18T02:45:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -19120,8 +19120,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T02:45:00',
-    till: '2022-05-25T03:15:00',
+    since: '2022-07-18T02:45:00',
+    till: '2022-07-18T03:15:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -19152,8 +19152,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T03:15:00',
-    till: '2022-05-25T03:45:00',
+    since: '2022-07-18T03:15:00',
+    till: '2022-07-18T03:45:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -19184,8 +19184,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T03:45:00',
-    till: '2022-05-25T04:15:00',
+    since: '2022-07-18T03:45:00',
+    till: '2022-07-18T04:15:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -19216,8 +19216,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T04:15:00',
-    till: '2022-05-25T04:45:00',
+    since: '2022-07-18T04:15:00',
+    till: '2022-07-18T04:45:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -19248,8 +19248,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T04:45:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T04:45:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -19280,8 +19280,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:45:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:45:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -19311,8 +19311,8 @@ export const epg = [
     id: '48b98d72-96e4-44ce-b35f-867f702dfbc8',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T05:45:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:45:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -19343,8 +19343,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -19375,8 +19375,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -19411,8 +19411,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -19443,8 +19443,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -19475,8 +19475,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T11:00:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T11:00:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -19507,8 +19507,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T11:00:00',
-    till: '2022-05-25T12:00:00',
+    since: '2022-07-18T11:00:00',
+    till: '2022-07-18T12:00:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -19539,8 +19539,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T12:00:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:00:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -19571,8 +19571,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -19603,8 +19603,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T15:00:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T15:00:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -19635,8 +19635,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T15:00:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:00:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -19667,8 +19667,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T17:35:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T17:35:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -19702,8 +19702,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T17:35:00',
-    till: '2022-05-25T19:00:00',
+    since: '2022-07-18T17:35:00',
+    till: '2022-07-18T19:00:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -19734,8 +19734,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T19:00:00',
-    till: '2022-05-25T19:35:00',
+    since: '2022-07-18T19:00:00',
+    till: '2022-07-18T19:35:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -19766,8 +19766,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T19:35:00',
-    till: '2022-05-25T20:05:00',
+    since: '2022-07-18T19:35:00',
+    till: '2022-07-18T20:05:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -19798,8 +19798,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T20:05:00',
-    till: '2022-05-25T21:00:00',
+    since: '2022-07-18T20:05:00',
+    till: '2022-07-18T21:00:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -19830,8 +19830,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T21:00:00',
-    till: '2022-05-25T23:30:00',
+    since: '2022-07-18T21:00:00',
+    till: '2022-07-18T23:30:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -19862,7 +19862,7 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T23:30:00',
+    since: '2022-07-18T23:30:00',
     isTomorrow: true,
     till: '2022-05-26T02:00:00',
     channelUuid: '63fbd188-81d4-4977-93a7-a54915a16a3b',
@@ -19896,8 +19896,8 @@ export const epg = [
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
     isYesterday: true,
-    since: '2022-05-24T23:10:00',
-    till: '2022-05-25T02:15:00',
+    since: '2022-07-17T23:10:00',
+    till: '2022-07-18T02:15:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -19928,8 +19928,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T02:15:00',
-    till: '2022-05-25T04:40:00',
+    since: '2022-07-18T02:15:00',
+    till: '2022-07-18T04:40:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -19960,8 +19960,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T04:40:00',
-    till: '2022-05-25T05:25:00',
+    since: '2022-07-18T04:40:00',
+    till: '2022-07-18T05:25:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -19992,8 +19992,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T05:25:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:25:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -20024,8 +20024,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T08:25:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T08:25:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -20059,8 +20059,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T08:25:00',
-    till: '2022-05-25T10:10:00',
+    since: '2022-07-18T08:25:00',
+    till: '2022-07-18T10:10:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -20091,8 +20091,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T10:10:00',
-    till: '2022-05-25T10:40:00',
+    since: '2022-07-18T10:10:00',
+    till: '2022-07-18T10:40:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -20123,8 +20123,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T10:40:00',
-    till: '2022-05-25T11:40:00',
+    since: '2022-07-18T10:40:00',
+    till: '2022-07-18T11:40:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -20155,8 +20155,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T11:40:00',
-    till: '2022-05-25T12:40:00',
+    since: '2022-07-18T11:40:00',
+    till: '2022-07-18T12:40:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -20187,8 +20187,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T12:40:00',
-    till: '2022-05-25T13:45:00',
+    since: '2022-07-18T12:40:00',
+    till: '2022-07-18T13:45:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -20219,8 +20219,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T13:45:00',
-    till: '2022-05-25T14:15:00',
+    since: '2022-07-18T13:45:00',
+    till: '2022-07-18T14:15:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -20251,8 +20251,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T14:15:00',
-    till: '2022-05-25T14:40:00',
+    since: '2022-07-18T14:15:00',
+    till: '2022-07-18T14:40:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -20283,8 +20283,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T14:40:00',
-    till: '2022-05-25T15:45:00',
+    since: '2022-07-18T14:40:00',
+    till: '2022-07-18T15:45:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -20315,8 +20315,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T15:45:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:45:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -20347,8 +20347,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T16:45:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T16:45:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -20379,8 +20379,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T16:45:00',
-    till: '2022-05-25T17:15:00',
+    since: '2022-07-18T16:45:00',
+    till: '2022-07-18T17:15:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -20411,8 +20411,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T17:15:00',
-    till: '2022-05-25T17:45:00',
+    since: '2022-07-18T17:15:00',
+    till: '2022-07-18T17:45:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -20443,8 +20443,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T17:45:00',
-    till: '2022-05-25T18:15:00',
+    since: '2022-07-18T17:45:00',
+    till: '2022-07-18T18:15:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'San Marino',
@@ -20474,8 +20474,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T18:15:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T18:15:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -20506,8 +20506,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:25:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:25:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -20538,8 +20538,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T19:25:00',
-    till: '2022-05-25T19:45:00',
+    since: '2022-07-18T19:25:00',
+    till: '2022-07-18T19:45:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -20570,8 +20570,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T19:45:00',
-    till: '2022-05-25T19:55:00',
+    since: '2022-07-18T19:45:00',
+    till: '2022-07-18T19:55:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -20602,8 +20602,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T19:55:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:55:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -20634,8 +20634,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -20666,7 +20666,7 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T22:00:00',
+    since: '2022-07-18T22:00:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: 'db5e3faa-e691-4e9f-9797-a48493f781e9',
@@ -20700,8 +20700,8 @@ export const epg = [
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
     isYesterday: true,
-    since: '2022-05-24T23:50:00',
-    till: '2022-05-25T00:45:00',
+    since: '2022-07-17T23:50:00',
+    till: '2022-07-18T00:45:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -20732,8 +20732,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T00:45:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T00:45:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -20764,8 +20764,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:00:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:00:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -20796,8 +20796,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T02:00:00',
-    till: '2022-05-25T02:35:00',
+    since: '2022-07-18T02:00:00',
+    till: '2022-07-18T02:35:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -20832,8 +20832,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T02:35:00',
-    till: '2022-05-25T03:00:00',
+    since: '2022-07-18T02:35:00',
+    till: '2022-07-18T03:00:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -20864,8 +20864,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T03:00:00',
-    till: '2022-05-25T04:00:00',
+    since: '2022-07-18T03:00:00',
+    till: '2022-07-18T04:00:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -20896,8 +20896,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T04:00:00',
-    till: '2022-05-25T05:00:00',
+    since: '2022-07-18T04:00:00',
+    till: '2022-07-18T05:00:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -20928,8 +20928,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T05:00:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:00:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -20960,8 +20960,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -20992,8 +20992,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -21024,8 +21024,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -21056,8 +21056,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -21092,8 +21092,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T11:00:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T11:00:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -21124,8 +21124,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T11:00:00',
-    till: '2022-05-25T12:00:00',
+    since: '2022-07-18T11:00:00',
+    till: '2022-07-18T12:00:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -21159,8 +21159,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T12:00:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:00:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -21191,8 +21191,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Greece',
@@ -21222,8 +21222,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:20:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:20:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -21254,8 +21254,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T14:20:00',
-    till: '2022-05-25T15:00:00',
+    since: '2022-07-18T14:20:00',
+    till: '2022-07-18T15:00:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -21286,8 +21286,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T15:00:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:00:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -21318,8 +21318,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -21350,8 +21350,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -21382,8 +21382,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:50:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:50:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -21414,8 +21414,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T19:50:00',
-    till: '2022-05-25T20:50:00',
+    since: '2022-07-18T19:50:00',
+    till: '2022-07-18T20:50:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -21446,8 +21446,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T20:50:00',
-    till: '2022-05-25T21:50:00',
+    since: '2022-07-18T20:50:00',
+    till: '2022-07-18T21:50:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -21478,8 +21478,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T21:50:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T21:50:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -21510,8 +21510,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T22:50:00',
-    till: '2022-05-25T23:50:00',
+    since: '2022-07-18T22:50:00',
+    till: '2022-07-18T23:50:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -21542,7 +21542,7 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T23:50:00',
+    since: '2022-07-18T23:50:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: '9fd193a6-ccf1-49fe-991d-3dd18cda3382',
@@ -21576,8 +21576,8 @@ export const epg = [
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
     isYesterday: true,
-    since: '2022-05-24T23:10:00',
-    till: '2022-05-25T01:35:00',
+    since: '2022-07-17T23:10:00',
+    till: '2022-07-18T01:35:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -21608,8 +21608,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T01:35:00',
-    till: '2022-05-25T03:45:00',
+    since: '2022-07-18T01:35:00',
+    till: '2022-07-18T03:45:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Brazil',
@@ -21639,8 +21639,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T03:45:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T03:45:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -21671,8 +21671,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:20:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:20:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -21703,8 +21703,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T05:20:00',
-    till: '2022-05-25T05:50:00',
+    since: '2022-07-18T05:20:00',
+    till: '2022-07-18T05:50:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -21735,8 +21735,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T05:50:00',
-    till: '2022-05-25T06:25:00',
+    since: '2022-07-18T05:50:00',
+    till: '2022-07-18T06:25:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Israel',
@@ -21766,8 +21766,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T06:25:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:25:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -21798,8 +21798,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T07:55:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T07:55:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -21830,8 +21830,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T07:55:00',
-    till: '2022-05-25T11:50:00',
+    since: '2022-07-18T07:55:00',
+    till: '2022-07-18T11:50:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -21862,8 +21862,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T11:50:00',
-    till: '2022-05-25T12:30:00',
+    since: '2022-07-18T11:50:00',
+    till: '2022-07-18T12:30:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -21897,8 +21897,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T12:30:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T12:30:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -21929,8 +21929,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:35:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:35:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -21961,8 +21961,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T14:35:00',
-    till: '2022-05-25T15:15:00',
+    since: '2022-07-18T14:35:00',
+    till: '2022-07-18T15:15:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Saint Kitts and Nevis',
@@ -21992,8 +21992,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T15:15:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:15:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -22027,8 +22027,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T17:15:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T17:15:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -22059,8 +22059,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T17:15:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T17:15:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -22091,8 +22091,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:00:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:00:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -22123,8 +22123,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T18:00:00',
-    till: '2022-05-25T18:20:00',
+    since: '2022-07-18T18:00:00',
+    till: '2022-07-18T18:20:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -22154,8 +22154,8 @@ export const epg = [
     id: 'a29b90c8-8087-48f5-8547-8ffba631ad22',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T18:20:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T18:20:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -22186,8 +22186,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:20:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:20:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -22218,8 +22218,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T19:20:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:20:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -22250,8 +22250,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T21:05:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T21:05:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -22281,8 +22281,8 @@ export const epg = [
     id: 'eebc1aff-471f-4376-a0e2-9215f386b459',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T21:05:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T21:05:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -22313,8 +22313,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T22:00:00',
-    till: '2022-05-25T23:05:00',
+    since: '2022-07-18T22:00:00',
+    till: '2022-07-18T23:05:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -22345,7 +22345,7 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T23:05:00',
+    since: '2022-07-18T23:05:00',
     isTomorrow: true,
     till: '2022-05-26T00:15:00',
     channelUuid: 'a3dea77a-478f-4b6a-8026-9a00216d681f',
@@ -22382,8 +22382,8 @@ export const epg = [
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
     isYesterday: true,
-    since: '2022-05-24T23:50:00',
-    till: '2022-05-25T00:45:00',
+    since: '2022-07-17T23:50:00',
+    till: '2022-07-18T00:45:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -22413,8 +22413,8 @@ export const epg = [
     id: '7c1330be-34e3-4208-a2bf-c9944fcf8b70',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T00:45:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T00:45:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -22445,8 +22445,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:00:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:00:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -22477,8 +22477,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T02:00:00',
-    till: '2022-05-25T02:35:00',
+    since: '2022-07-18T02:00:00',
+    till: '2022-07-18T02:35:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -22509,8 +22509,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T02:35:00',
-    till: '2022-05-25T03:00:00',
+    since: '2022-07-18T02:35:00',
+    till: '2022-07-18T03:00:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -22541,8 +22541,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T03:00:00',
-    till: '2022-05-25T04:00:00',
+    since: '2022-07-18T03:00:00',
+    till: '2022-07-18T04:00:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -22573,8 +22573,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T04:00:00',
-    till: '2022-05-25T05:00:00',
+    since: '2022-07-18T04:00:00',
+    till: '2022-07-18T05:00:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -22605,8 +22605,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T05:00:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:00:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -22637,8 +22637,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -22669,8 +22669,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -22701,8 +22701,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Nicaragua',
@@ -22732,8 +22732,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -22764,8 +22764,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T11:00:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T11:00:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -22796,8 +22796,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T11:00:00',
-    till: '2022-05-25T12:00:00',
+    since: '2022-07-18T11:00:00',
+    till: '2022-07-18T12:00:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -22828,8 +22828,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T12:00:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:00:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -22860,8 +22860,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -22892,8 +22892,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:20:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:20:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -22924,8 +22924,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T14:20:00',
-    till: '2022-05-25T15:00:00',
+    since: '2022-07-18T14:20:00',
+    till: '2022-07-18T15:00:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -22956,8 +22956,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T15:00:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:00:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -22988,8 +22988,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -23020,8 +23020,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -23052,8 +23052,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:50:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:50:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -23084,8 +23084,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T19:50:00',
-    till: '2022-05-25T20:50:00',
+    since: '2022-07-18T19:50:00',
+    till: '2022-07-18T20:50:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -23115,8 +23115,8 @@ export const epg = [
     id: '312d1316-5f75-46d1-9581-71444ad08738',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T20:50:00',
-    till: '2022-05-25T21:50:00',
+    since: '2022-07-18T20:50:00',
+    till: '2022-07-18T21:50:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -23147,8 +23147,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T21:50:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T21:50:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -23179,8 +23179,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T22:50:00',
-    till: '2022-05-25T23:50:00',
+    since: '2022-07-18T22:50:00',
+    till: '2022-07-18T23:50:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -23211,7 +23211,7 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T23:50:00',
+    since: '2022-07-18T23:50:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: '68f67818-b06c-4b0c-90c2-d78d5f418f83',
@@ -23248,8 +23248,8 @@ export const epg = [
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
     isYesterday: true,
-    since: '2022-05-24T23:50:00',
-    till: '2022-05-25T00:55:00',
+    since: '2022-07-17T23:50:00',
+    till: '2022-07-18T00:55:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -23280,8 +23280,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T00:55:00',
-    till: '2022-05-25T02:35:00',
+    since: '2022-07-18T00:55:00',
+    till: '2022-07-18T02:35:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -23312,8 +23312,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T02:35:00',
-    till: '2022-05-25T03:30:00',
+    since: '2022-07-18T02:35:00',
+    till: '2022-07-18T03:30:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -23344,8 +23344,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T03:30:00',
-    till: '2022-05-25T04:15:00',
+    since: '2022-07-18T03:30:00',
+    till: '2022-07-18T04:15:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -23376,8 +23376,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T04:15:00',
-    till: '2022-05-25T04:30:00',
+    since: '2022-07-18T04:15:00',
+    till: '2022-07-18T04:30:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -23408,8 +23408,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T04:30:00',
-    till: '2022-05-25T05:10:00',
+    since: '2022-07-18T04:30:00',
+    till: '2022-07-18T05:10:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -23440,8 +23440,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T05:10:00',
-    till: '2022-05-25T05:35:00',
+    since: '2022-07-18T05:10:00',
+    till: '2022-07-18T05:35:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -23472,8 +23472,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T05:35:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:35:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -23504,8 +23504,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -23536,8 +23536,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T07:40:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T07:40:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -23572,8 +23572,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T07:40:00',
-    till: '2022-05-25T08:05:00',
+    since: '2022-07-18T07:40:00',
+    till: '2022-07-18T08:05:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -23604,8 +23604,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T08:05:00',
-    till: '2022-05-25T08:20:00',
+    since: '2022-07-18T08:05:00',
+    till: '2022-07-18T08:20:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -23636,8 +23636,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T08:20:00',
-    till: '2022-05-25T08:45:00',
+    since: '2022-07-18T08:20:00',
+    till: '2022-07-18T08:45:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -23668,8 +23668,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T08:45:00',
-    till: '2022-05-25T09:15:00',
+    since: '2022-07-18T08:45:00',
+    till: '2022-07-18T09:15:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -23700,8 +23700,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T09:15:00',
-    till: '2022-05-25T10:20:00',
+    since: '2022-07-18T09:15:00',
+    till: '2022-07-18T10:20:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -23732,8 +23732,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T10:20:00',
-    till: '2022-05-25T11:15:00',
+    since: '2022-07-18T10:20:00',
+    till: '2022-07-18T11:15:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -23764,8 +23764,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T11:15:00',
-    till: '2022-05-25T11:50:00',
+    since: '2022-07-18T11:15:00',
+    till: '2022-07-18T11:50:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Namibia',
@@ -23795,8 +23795,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T11:50:00',
-    till: '2022-05-25T13:45:00',
+    since: '2022-07-18T11:50:00',
+    till: '2022-07-18T13:45:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -23827,8 +23827,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T13:45:00',
-    till: '2022-05-25T13:55:00',
+    since: '2022-07-18T13:45:00',
+    till: '2022-07-18T13:55:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -23859,8 +23859,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T13:55:00',
-    till: '2022-05-25T14:55:00',
+    since: '2022-07-18T13:55:00',
+    till: '2022-07-18T14:55:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -23891,8 +23891,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T14:55:00',
-    till: '2022-05-25T15:55:00',
+    since: '2022-07-18T14:55:00',
+    till: '2022-07-18T15:55:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -23923,8 +23923,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T15:55:00',
-    till: '2022-05-25T17:00:00',
+    since: '2022-07-18T15:55:00',
+    till: '2022-07-18T17:00:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -23955,8 +23955,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T17:00:00',
-    till: '2022-05-25T17:20:00',
+    since: '2022-07-18T17:00:00',
+    till: '2022-07-18T17:20:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -23987,8 +23987,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T17:20:00',
-    till: '2022-05-25T17:30:00',
+    since: '2022-07-18T17:20:00',
+    till: '2022-07-18T17:30:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -24019,8 +24019,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T17:30:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T17:30:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -24051,8 +24051,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:25:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:25:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -24086,8 +24086,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T19:25:00',
-    till: '2022-05-25T19:30:00',
+    since: '2022-07-18T19:25:00',
+    till: '2022-07-18T19:30:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -24118,8 +24118,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T19:30:00',
-    till: '2022-05-25T20:05:00',
+    since: '2022-07-18T19:30:00',
+    till: '2022-07-18T20:05:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -24150,8 +24150,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T20:05:00',
-    till: '2022-05-25T20:10:00',
+    since: '2022-07-18T20:05:00',
+    till: '2022-07-18T20:10:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -24182,8 +24182,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T20:10:00',
-    till: '2022-05-25T20:35:00',
+    since: '2022-07-18T20:10:00',
+    till: '2022-07-18T20:35:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -24214,8 +24214,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T20:35:00',
-    till: '2022-05-25T21:35:00',
+    since: '2022-07-18T20:35:00',
+    till: '2022-07-18T21:35:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -24246,8 +24246,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T21:35:00',
-    till: '2022-05-25T23:30:00',
+    since: '2022-07-18T21:35:00',
+    till: '2022-07-18T23:30:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -24278,7 +24278,7 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T23:30:00',
+    since: '2022-07-18T23:30:00',
     isTomorrow: true,
     till: '2022-05-26T01:25:00',
     channelUuid: '4b5d5b85-01bf-4ddf-830f-7150f9e8e31d',
@@ -24312,8 +24312,8 @@ export const epg = [
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
     isYesterday: true,
-    since: '2022-05-24T23:10:00',
-    till: '2022-05-25T01:35:00',
+    since: '2022-07-17T23:10:00',
+    till: '2022-07-18T01:35:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -24344,8 +24344,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T01:35:00',
-    till: '2022-05-25T03:45:00',
+    since: '2022-07-18T01:35:00',
+    till: '2022-07-18T03:45:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -24379,8 +24379,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T03:45:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T03:45:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -24411,8 +24411,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:20:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:20:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -24443,8 +24443,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T05:20:00',
-    till: '2022-05-25T05:50:00',
+    since: '2022-07-18T05:20:00',
+    till: '2022-07-18T05:50:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -24475,8 +24475,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T05:50:00',
-    till: '2022-05-25T06:25:00',
+    since: '2022-07-18T05:50:00',
+    till: '2022-07-18T06:25:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -24507,8 +24507,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T06:25:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:25:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -24539,8 +24539,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T07:55:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T07:55:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -24570,8 +24570,8 @@ export const epg = [
     id: 'e24dac61-1a08-4083-8bea-c38d95dfaf29',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T07:55:00',
-    till: '2022-05-25T11:50:00',
+    since: '2022-07-18T07:55:00',
+    till: '2022-07-18T11:50:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -24602,8 +24602,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T11:50:00',
-    till: '2022-05-25T12:30:00',
+    since: '2022-07-18T11:50:00',
+    till: '2022-07-18T12:30:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -24633,8 +24633,8 @@ export const epg = [
     id: 'b2403a48-fb82-4a96-8962-15443b248ae5',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T12:30:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T12:30:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -24664,8 +24664,8 @@ export const epg = [
     id: 'f2db3b43-e62f-473c-9873-1bac8646cb3e',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:35:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:35:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -24696,8 +24696,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T14:35:00',
-    till: '2022-05-25T15:15:00',
+    since: '2022-07-18T14:35:00',
+    till: '2022-07-18T15:15:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -24728,8 +24728,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T15:15:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:15:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -24760,8 +24760,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T17:15:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T17:15:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -24795,8 +24795,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T17:15:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T17:15:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -24827,8 +24827,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:00:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:00:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -24859,8 +24859,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T18:00:00',
-    till: '2022-05-25T18:20:00',
+    since: '2022-07-18T18:00:00',
+    till: '2022-07-18T18:20:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -24891,8 +24891,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T18:20:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T18:20:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -24923,8 +24923,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:20:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:20:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -24955,8 +24955,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T19:20:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:20:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -24987,8 +24987,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T21:05:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T21:05:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -25022,8 +25022,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T21:05:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T21:05:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -25054,8 +25054,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T22:00:00',
-    till: '2022-05-25T23:05:00',
+    since: '2022-07-18T22:00:00',
+    till: '2022-07-18T23:05:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -25086,7 +25086,7 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T23:05:00',
+    since: '2022-07-18T23:05:00',
     isTomorrow: true,
     till: '2022-05-26T00:15:00',
     channelUuid: 'de4fbbc5-058b-4509-921c-2ec9f895bd0f',
@@ -25120,8 +25120,8 @@ export const epg = [
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
     isYesterday: true,
-    since: '2022-05-24T22:20:00',
-    till: '2022-05-25T00:25:00',
+    since: '2022-07-17T22:20:00',
+    till: '2022-07-18T00:25:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -25152,8 +25152,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T00:25:00',
-    till: '2022-05-25T01:30:00',
+    since: '2022-07-18T00:25:00',
+    till: '2022-07-18T01:30:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -25184,8 +25184,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T01:30:00',
-    till: '2022-05-25T02:50:00',
+    since: '2022-07-18T01:30:00',
+    till: '2022-07-18T02:50:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -25216,8 +25216,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T02:50:00',
-    till: '2022-05-25T04:05:00',
+    since: '2022-07-18T02:50:00',
+    till: '2022-07-18T04:05:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -25248,8 +25248,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T04:05:00',
-    till: '2022-05-25T04:30:00',
+    since: '2022-07-18T04:05:00',
+    till: '2022-07-18T04:30:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -25280,8 +25280,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T04:30:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T04:30:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -25312,8 +25312,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:30:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:30:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -25343,8 +25343,8 @@ export const epg = [
     id: '0424a250-da81-4bbf-966e-4c192ae92b30',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T05:30:00',
-    till: '2022-05-25T06:30:00',
+    since: '2022-07-18T05:30:00',
+    till: '2022-07-18T06:30:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -25375,8 +25375,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T06:30:00',
-    till: '2022-05-25T07:30:00',
+    since: '2022-07-18T06:30:00',
+    till: '2022-07-18T07:30:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -25406,8 +25406,8 @@ export const epg = [
     id: 'f66b5df1-217b-4e17-b00a-b10bd0bb707f',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T07:30:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:30:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -25438,8 +25438,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T11:30:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T11:30:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -25470,8 +25470,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T11:30:00',
-    till: '2022-05-25T11:55:00',
+    since: '2022-07-18T11:30:00',
+    till: '2022-07-18T11:55:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -25502,8 +25502,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T11:55:00',
-    till: '2022-05-25T12:20:00',
+    since: '2022-07-18T11:55:00',
+    till: '2022-07-18T12:20:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -25534,8 +25534,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T12:20:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:20:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -25565,8 +25565,8 @@ export const epg = [
     id: 'f39bfc33-b157-4c86-9139-bafea5d6013c',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:05:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:05:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -25597,8 +25597,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T14:05:00',
-    till: '2022-05-25T14:40:00',
+    since: '2022-07-18T14:05:00',
+    till: '2022-07-18T14:40:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -25629,8 +25629,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T14:40:00',
-    till: '2022-05-25T15:10:00',
+    since: '2022-07-18T14:40:00',
+    till: '2022-07-18T15:10:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -25661,8 +25661,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T15:10:00',
-    till: '2022-05-25T15:45:00',
+    since: '2022-07-18T15:10:00',
+    till: '2022-07-18T15:45:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -25697,8 +25697,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T15:45:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:45:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -25729,8 +25729,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T17:25:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T17:25:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -25764,8 +25764,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T17:25:00',
-    till: '2022-05-25T17:35:00',
+    since: '2022-07-18T17:25:00',
+    till: '2022-07-18T17:35:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -25796,8 +25796,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T17:35:00',
-    till: '2022-05-25T18:05:00',
+    since: '2022-07-18T17:35:00',
+    till: '2022-07-18T18:05:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -25828,8 +25828,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T18:05:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T18:05:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -25860,8 +25860,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:00:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:00:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -25892,8 +25892,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T19:00:00',
-    till: '2022-05-25T19:25:00',
+    since: '2022-07-18T19:00:00',
+    till: '2022-07-18T19:25:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -25924,8 +25924,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T19:25:00',
-    till: '2022-05-25T19:30:00',
+    since: '2022-07-18T19:25:00',
+    till: '2022-07-18T19:30:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -25956,8 +25956,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T19:30:00',
-    till: '2022-05-25T19:40:00',
+    since: '2022-07-18T19:30:00',
+    till: '2022-07-18T19:40:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -25988,8 +25988,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T19:40:00',
-    till: '2022-05-25T19:50:00',
+    since: '2022-07-18T19:40:00',
+    till: '2022-07-18T19:50:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -26023,8 +26023,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T19:50:00',
-    till: '2022-05-25T20:05:00',
+    since: '2022-07-18T19:50:00',
+    till: '2022-07-18T20:05:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -26055,8 +26055,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T20:05:00',
-    till: '2022-05-25T22:55:00',
+    since: '2022-07-18T20:05:00',
+    till: '2022-07-18T22:55:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -26087,7 +26087,7 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T22:55:00',
+    since: '2022-07-18T22:55:00',
     isTomorrow: true,
     till: '2022-05-26T00:50:00',
     channelUuid: 'ba14564d-60f0-444b-8f6e-97ff4f585f1a',
@@ -26121,8 +26121,8 @@ export const epg = [
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
     isYesterday: true,
-    since: '2022-05-24T23:15:00',
-    till: '2022-05-25T01:00:00',
+    since: '2022-07-17T23:15:00',
+    till: '2022-07-18T01:00:00',
     channelUuid: 'c9aa4681-1f51-4944-98d9-97fd63759f29',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -26153,8 +26153,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T01:00:00',
-    till: '2022-05-25T02:05:00',
+    since: '2022-07-18T01:00:00',
+    till: '2022-07-18T02:05:00',
     channelUuid: 'c9aa4681-1f51-4944-98d9-97fd63759f29',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -26185,8 +26185,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T02:05:00',
-    till: '2022-05-25T02:45:00',
+    since: '2022-07-18T02:05:00',
+    till: '2022-07-18T02:45:00',
     channelUuid: 'c9aa4681-1f51-4944-98d9-97fd63759f29',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -26217,8 +26217,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T02:45:00',
-    till: '2022-05-25T05:05:00',
+    since: '2022-07-18T02:45:00',
+    till: '2022-07-18T05:05:00',
     channelUuid: 'c9aa4681-1f51-4944-98d9-97fd63759f29',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -26253,8 +26253,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T05:05:00',
-    till: '2022-05-25T06:05:00',
+    since: '2022-07-18T05:05:00',
+    till: '2022-07-18T06:05:00',
     channelUuid: 'c9aa4681-1f51-4944-98d9-97fd63759f29',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -26288,8 +26288,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T06:05:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:05:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: 'c9aa4681-1f51-4944-98d9-97fd63759f29',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -26320,8 +26320,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T07:15:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T07:15:00',
     channelUuid: 'c9aa4681-1f51-4944-98d9-97fd63759f29',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -26352,8 +26352,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T07:15:00',
-    till: '2022-05-25T07:50:00',
+    since: '2022-07-18T07:15:00',
+    till: '2022-07-18T07:50:00',
     channelUuid: 'c9aa4681-1f51-4944-98d9-97fd63759f29',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -26387,8 +26387,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T07:50:00',
-    till: '2022-05-25T09:40:00',
+    since: '2022-07-18T07:50:00',
+    till: '2022-07-18T09:40:00',
     channelUuid: 'c9aa4681-1f51-4944-98d9-97fd63759f29',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -26419,8 +26419,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T09:40:00',
-    till: '2022-05-25T10:40:00',
+    since: '2022-07-18T09:40:00',
+    till: '2022-07-18T10:40:00',
     channelUuid: 'c9aa4681-1f51-4944-98d9-97fd63759f29',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -26451,8 +26451,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T10:40:00',
-    till: '2022-05-25T11:45:00',
+    since: '2022-07-18T10:40:00',
+    till: '2022-07-18T11:45:00',
     channelUuid: 'c9aa4681-1f51-4944-98d9-97fd63759f29',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -26483,8 +26483,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T11:45:00',
-    till: '2022-05-25T12:45:00',
+    since: '2022-07-18T11:45:00',
+    till: '2022-07-18T12:45:00',
     channelUuid: 'c9aa4681-1f51-4944-98d9-97fd63759f29',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -26515,8 +26515,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T12:45:00',
-    till: '2022-05-25T13:50:00',
+    since: '2022-07-18T12:45:00',
+    till: '2022-07-18T13:50:00',
     channelUuid: 'c9aa4681-1f51-4944-98d9-97fd63759f29',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -26547,8 +26547,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T13:50:00',
-    till: '2022-05-25T15:55:00',
+    since: '2022-07-18T13:50:00',
+    till: '2022-07-18T15:55:00',
     channelUuid: 'c9aa4681-1f51-4944-98d9-97fd63759f29',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -26579,8 +26579,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T15:55:00',
-    till: '2022-05-25T18:05:00',
+    since: '2022-07-18T15:55:00',
+    till: '2022-07-18T18:05:00',
     channelUuid: 'c9aa4681-1f51-4944-98d9-97fd63759f29',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -26611,8 +26611,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T18:05:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T18:05:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: 'c9aa4681-1f51-4944-98d9-97fd63759f29',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -26642,8 +26642,8 @@ export const epg = [
     id: '3cbdfc5a-27f3-44d3-801b-adc35f47832f',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: 'c9aa4681-1f51-4944-98d9-97fd63759f29',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -26674,7 +26674,7 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T22:50:00',
+    since: '2022-07-18T22:50:00',
     isTomorrow: true,
     till: '2022-05-26T01:10:00',
     channelUuid: 'c9aa4681-1f51-4944-98d9-97fd63759f29',
@@ -26707,8 +26707,8 @@ export const epg = [
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
     isYesterday: true,
-    since: '2022-05-24T23:10:00',
-    till: '2022-05-25T02:15:00',
+    since: '2022-07-17T23:10:00',
+    till: '2022-07-18T02:15:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -26739,8 +26739,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T02:15:00',
-    till: '2022-05-25T04:40:00',
+    since: '2022-07-18T02:15:00',
+    till: '2022-07-18T04:40:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -26771,8 +26771,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T04:40:00',
-    till: '2022-05-25T05:25:00',
+    since: '2022-07-18T04:40:00',
+    till: '2022-07-18T05:25:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -26803,8 +26803,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T05:25:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:25:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -26835,8 +26835,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T08:25:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T08:25:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -26867,8 +26867,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T08:25:00',
-    till: '2022-05-25T10:10:00',
+    since: '2022-07-18T08:25:00',
+    till: '2022-07-18T10:10:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -26899,8 +26899,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T10:10:00',
-    till: '2022-05-25T10:40:00',
+    since: '2022-07-18T10:10:00',
+    till: '2022-07-18T10:40:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -26931,8 +26931,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T10:40:00',
-    till: '2022-05-25T11:40:00',
+    since: '2022-07-18T10:40:00',
+    till: '2022-07-18T11:40:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -26963,8 +26963,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T11:40:00',
-    till: '2022-05-25T12:40:00',
+    since: '2022-07-18T11:40:00',
+    till: '2022-07-18T12:40:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -26995,8 +26995,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T12:40:00',
-    till: '2022-05-25T13:45:00',
+    since: '2022-07-18T12:40:00',
+    till: '2022-07-18T13:45:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -27027,8 +27027,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T13:45:00',
-    till: '2022-05-25T14:15:00',
+    since: '2022-07-18T13:45:00',
+    till: '2022-07-18T14:15:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -27059,8 +27059,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T14:15:00',
-    till: '2022-05-25T14:40:00',
+    since: '2022-07-18T14:15:00',
+    till: '2022-07-18T14:40:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -27091,8 +27091,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T14:40:00',
-    till: '2022-05-25T15:45:00',
+    since: '2022-07-18T14:40:00',
+    till: '2022-07-18T15:45:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -27126,8 +27126,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T15:45:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:45:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -27158,8 +27158,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T16:45:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T16:45:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -27190,8 +27190,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T16:45:00',
-    till: '2022-05-25T17:15:00',
+    since: '2022-07-18T16:45:00',
+    till: '2022-07-18T17:15:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -27222,8 +27222,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T17:15:00',
-    till: '2022-05-25T17:45:00',
+    since: '2022-07-18T17:15:00',
+    till: '2022-07-18T17:45:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -27254,8 +27254,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T17:45:00',
-    till: '2022-05-25T18:15:00',
+    since: '2022-07-18T17:45:00',
+    till: '2022-07-18T18:15:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -27286,8 +27286,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T18:15:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T18:15:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -27321,8 +27321,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:25:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:25:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -27353,8 +27353,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T19:25:00',
-    till: '2022-05-25T19:45:00',
+    since: '2022-07-18T19:25:00',
+    till: '2022-07-18T19:45:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -27385,8 +27385,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T19:45:00',
-    till: '2022-05-25T19:55:00',
+    since: '2022-07-18T19:45:00',
+    till: '2022-07-18T19:55:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -27417,8 +27417,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T19:55:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:55:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Sri Lanka',
@@ -27447,8 +27447,8 @@ export const epg = [
     id: '788b2947-d330-4db1-9e29-b5e24f2fb6ab',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -27479,7 +27479,7 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T22:00:00',
+    since: '2022-07-18T22:00:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: '89f340e5-d74a-447e-b488-dcfd9fd964ca',
@@ -27516,8 +27516,8 @@ export const epg = [
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
     isYesterday: true,
-    since: '2022-05-24T23:25:00',
-    till: '2022-05-25T00:25:00',
+    since: '2022-07-17T23:25:00',
+    till: '2022-07-18T00:25:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -27548,8 +27548,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T00:25:00',
-    till: '2022-05-25T01:25:00',
+    since: '2022-07-18T00:25:00',
+    till: '2022-07-18T01:25:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -27580,8 +27580,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T01:25:00',
-    till: '2022-05-25T02:20:00',
+    since: '2022-07-18T01:25:00',
+    till: '2022-07-18T02:20:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -27612,8 +27612,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T02:20:00',
-    till: '2022-05-25T03:20:00',
+    since: '2022-07-18T02:20:00',
+    till: '2022-07-18T03:20:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -27644,8 +27644,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T03:20:00',
-    till: '2022-05-25T05:05:00',
+    since: '2022-07-18T03:20:00',
+    till: '2022-07-18T05:05:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -27676,8 +27676,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T05:05:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T05:05:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -27708,8 +27708,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:50:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:50:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -27740,8 +27740,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T05:50:00',
-    till: '2022-05-25T06:20:00',
+    since: '2022-07-18T05:50:00',
+    till: '2022-07-18T06:20:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -27772,8 +27772,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T06:20:00',
-    till: '2022-05-25T06:55:00',
+    since: '2022-07-18T06:20:00',
+    till: '2022-07-18T06:55:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -27804,8 +27804,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T06:55:00',
-    till: '2022-05-25T07:30:00',
+    since: '2022-07-18T06:55:00',
+    till: '2022-07-18T07:30:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -27836,8 +27836,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T07:30:00',
-    till: '2022-05-25T08:05:00',
+    since: '2022-07-18T07:30:00',
+    till: '2022-07-18T08:05:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -27868,8 +27868,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T08:05:00',
-    till: '2022-05-25T08:40:00',
+    since: '2022-07-18T08:05:00',
+    till: '2022-07-18T08:40:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -27900,8 +27900,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T08:40:00',
-    till: '2022-05-25T09:10:00',
+    since: '2022-07-18T08:40:00',
+    till: '2022-07-18T09:10:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -27932,8 +27932,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T09:10:00',
-    till: '2022-05-25T09:40:00',
+    since: '2022-07-18T09:10:00',
+    till: '2022-07-18T09:40:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -27964,8 +27964,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T09:40:00',
-    till: '2022-05-25T10:15:00',
+    since: '2022-07-18T09:40:00',
+    till: '2022-07-18T10:15:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -27995,8 +27995,8 @@ export const epg = [
     id: '6fa8ace3-4d89-44f6-92b1-8b958c6b0414',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T10:15:00',
-    till: '2022-05-25T10:45:00',
+    since: '2022-07-18T10:15:00',
+    till: '2022-07-18T10:45:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -28027,8 +28027,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T10:45:00',
-    till: '2022-05-25T11:50:00',
+    since: '2022-07-18T10:45:00',
+    till: '2022-07-18T11:50:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -28059,8 +28059,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T11:50:00',
-    till: '2022-05-25T12:50:00',
+    since: '2022-07-18T11:50:00',
+    till: '2022-07-18T12:50:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -28091,8 +28091,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T12:50:00',
-    till: '2022-05-25T13:20:00',
+    since: '2022-07-18T12:50:00',
+    till: '2022-07-18T13:20:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -28122,8 +28122,8 @@ export const epg = [
     id: 'e949ee3e-e83e-4576-8341-67e37d48636f',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T13:20:00',
-    till: '2022-05-25T13:50:00',
+    since: '2022-07-18T13:20:00',
+    till: '2022-07-18T13:50:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -28154,8 +28154,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T13:50:00',
-    till: '2022-05-25T14:05:00',
+    since: '2022-07-18T13:50:00',
+    till: '2022-07-18T14:05:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -28190,8 +28190,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T14:05:00',
-    till: '2022-05-25T15:05:00',
+    since: '2022-07-18T14:05:00',
+    till: '2022-07-18T15:05:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -28222,8 +28222,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T15:05:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:05:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -28254,8 +28254,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T17:10:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T17:10:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -28286,8 +28286,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T17:10:00',
-    till: '2022-05-25T17:40:00',
+    since: '2022-07-18T17:10:00',
+    till: '2022-07-18T17:40:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -28318,8 +28318,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T17:40:00',
-    till: '2022-05-25T18:20:00',
+    since: '2022-07-18T17:40:00',
+    till: '2022-07-18T18:20:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -28350,8 +28350,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T18:20:00',
-    till: '2022-05-25T18:55:00',
+    since: '2022-07-18T18:20:00',
+    till: '2022-07-18T18:55:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -28382,8 +28382,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T18:55:00',
-    till: '2022-05-25T19:55:00',
+    since: '2022-07-18T18:55:00',
+    till: '2022-07-18T19:55:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -28418,8 +28418,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T19:55:00',
-    till: '2022-05-25T20:55:00',
+    since: '2022-07-18T19:55:00',
+    till: '2022-07-18T20:55:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -28450,8 +28450,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T20:55:00',
-    till: '2022-05-25T21:55:00',
+    since: '2022-07-18T20:55:00',
+    till: '2022-07-18T21:55:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -28482,8 +28482,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T21:55:00',
-    till: '2022-05-25T23:35:00',
+    since: '2022-07-18T21:55:00',
+    till: '2022-07-18T23:35:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -28514,7 +28514,7 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T23:35:00',
+    since: '2022-07-18T23:35:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: '64c6a31b-1e90-45ab-85e8-03d797ee4723',
@@ -28548,8 +28548,8 @@ export const epg = [
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
     isYesterday: true,
-    since: '2022-05-24T23:50:00',
-    till: '2022-05-25T00:45:00',
+    since: '2022-07-17T23:50:00',
+    till: '2022-07-18T00:45:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -28580,8 +28580,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T00:45:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T00:45:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Gambia',
@@ -28611,8 +28611,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:00:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:00:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -28643,8 +28643,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T02:00:00',
-    till: '2022-05-25T02:35:00',
+    since: '2022-07-18T02:00:00',
+    till: '2022-07-18T02:35:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -28675,8 +28675,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T02:35:00',
-    till: '2022-05-25T03:00:00',
+    since: '2022-07-18T02:35:00',
+    till: '2022-07-18T03:00:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -28707,8 +28707,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T03:00:00',
-    till: '2022-05-25T04:00:00',
+    since: '2022-07-18T03:00:00',
+    till: '2022-07-18T04:00:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -28739,8 +28739,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T04:00:00',
-    till: '2022-05-25T05:00:00',
+    since: '2022-07-18T04:00:00',
+    till: '2022-07-18T05:00:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -28771,8 +28771,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T05:00:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:00:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Maldives',
@@ -28802,8 +28802,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -28836,8 +28836,8 @@ export const epg = [
     id: '1769f9be-0a23-44b1-8b64-8d3ce4c0203a',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -28868,8 +28868,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -28903,8 +28903,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -28935,8 +28935,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T11:00:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T11:00:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -28967,8 +28967,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T11:00:00',
-    till: '2022-05-25T12:00:00',
+    since: '2022-07-18T11:00:00',
+    till: '2022-07-18T12:00:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -28999,8 +28999,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T12:00:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:00:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -29031,8 +29031,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -29063,8 +29063,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:20:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:20:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -29095,8 +29095,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T14:20:00',
-    till: '2022-05-25T15:00:00',
+    since: '2022-07-18T14:20:00',
+    till: '2022-07-18T15:00:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -29127,8 +29127,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T15:00:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:00:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -29159,8 +29159,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -29191,8 +29191,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -29223,8 +29223,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:50:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:50:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Pakistan',
@@ -29254,8 +29254,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T19:50:00',
-    till: '2022-05-25T20:50:00',
+    since: '2022-07-18T19:50:00',
+    till: '2022-07-18T20:50:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -29286,8 +29286,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T20:50:00',
-    till: '2022-05-25T21:50:00',
+    since: '2022-07-18T20:50:00',
+    till: '2022-07-18T21:50:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -29318,8 +29318,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T21:50:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T21:50:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -29350,8 +29350,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T22:50:00',
-    till: '2022-05-25T23:50:00',
+    since: '2022-07-18T22:50:00',
+    till: '2022-07-18T23:50:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -29382,7 +29382,7 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T23:50:00',
+    since: '2022-07-18T23:50:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: 'b178d1c5-a24e-4c66-b8e6-5320a9a72eda',
@@ -29415,8 +29415,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T00:00:00',
-    till: '2022-05-25T01:00:00',
+    since: '2022-07-18T00:00:00',
+    till: '2022-07-18T01:00:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -29447,8 +29447,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T01:00:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T01:00:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -29479,8 +29479,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:50:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:50:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -29511,8 +29511,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T02:50:00',
-    till: '2022-05-25T03:50:00',
+    since: '2022-07-18T02:50:00',
+    till: '2022-07-18T03:50:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -29543,8 +29543,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T03:50:00',
-    till: '2022-05-25T05:10:00',
+    since: '2022-07-18T03:50:00',
+    till: '2022-07-18T05:10:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Dominica',
@@ -29574,8 +29574,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T05:10:00',
-    till: '2022-05-25T05:55:00',
+    since: '2022-07-18T05:10:00',
+    till: '2022-07-18T05:55:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -29606,8 +29606,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T05:55:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T05:55:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -29638,8 +29638,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -29670,8 +29670,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T09:05:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T09:05:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -29705,8 +29705,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T09:05:00',
-    till: '2022-05-25T09:45:00',
+    since: '2022-07-18T09:05:00',
+    till: '2022-07-18T09:45:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -29736,8 +29736,8 @@ export const epg = [
     id: '3dca21c0-05d4-4e5e-adde-ab0dba76bc1d',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T09:45:00',
-    till: '2022-05-25T09:58:00',
+    since: '2022-07-18T09:45:00',
+    till: '2022-07-18T09:58:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -29768,8 +29768,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T09:58:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:58:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -29800,8 +29800,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T10:35:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T10:35:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -29832,8 +29832,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T10:35:00',
-    till: '2022-05-25T11:30:00',
+    since: '2022-07-18T10:35:00',
+    till: '2022-07-18T11:30:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -29864,8 +29864,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T11:30:00',
-    till: '2022-05-25T12:35:00',
+    since: '2022-07-18T11:30:00',
+    till: '2022-07-18T12:35:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -29896,8 +29896,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T12:35:00',
-    till: '2022-05-25T13:05:00',
+    since: '2022-07-18T12:35:00',
+    till: '2022-07-18T13:05:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -29928,8 +29928,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T13:05:00',
-    till: '2022-05-25T13:35:00',
+    since: '2022-07-18T13:05:00',
+    till: '2022-07-18T13:35:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -29960,8 +29960,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T13:35:00',
-    till: '2022-05-25T14:35:00',
+    since: '2022-07-18T13:35:00',
+    till: '2022-07-18T14:35:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -29992,8 +29992,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T14:35:00',
-    till: '2022-05-25T15:45:00',
+    since: '2022-07-18T14:35:00',
+    till: '2022-07-18T15:45:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -30024,8 +30024,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T15:45:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:45:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -30056,8 +30056,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T16:05:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T16:05:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -30088,8 +30088,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T16:05:00',
-    till: '2022-05-25T16:55:00',
+    since: '2022-07-18T16:05:00',
+    till: '2022-07-18T16:55:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -30120,8 +30120,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T16:55:00',
-    till: '2022-05-25T17:45:00',
+    since: '2022-07-18T16:55:00',
+    till: '2022-07-18T17:45:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -30152,8 +30152,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T17:45:00',
-    till: '2022-05-25T17:58:00',
+    since: '2022-07-18T17:45:00',
+    till: '2022-07-18T17:58:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -30183,8 +30183,8 @@ export const epg = [
     id: '79c0a108-cafe-4019-9d8e-c749fc1f5e68',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T17:58:00',
-    till: '2022-05-25T18:00:00',
+    since: '2022-07-18T17:58:00',
+    till: '2022-07-18T18:00:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -30215,8 +30215,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T18:00:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T18:00:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -30247,8 +30247,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:00:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:00:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -30282,8 +30282,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T19:00:00',
-    till: '2022-05-25T19:40:00',
+    since: '2022-07-18T19:00:00',
+    till: '2022-07-18T19:40:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -30314,8 +30314,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T19:40:00',
-    till: '2022-05-25T19:45:00',
+    since: '2022-07-18T19:40:00',
+    till: '2022-07-18T19:45:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -30346,8 +30346,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T19:45:00',
-    till: '2022-05-25T19:58:00',
+    since: '2022-07-18T19:45:00',
+    till: '2022-07-18T19:58:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -30378,8 +30378,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T19:58:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:58:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -30410,8 +30410,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T21:00:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T21:00:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -30442,8 +30442,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T21:00:00',
-    till: '2022-05-25T21:30:00',
+    since: '2022-07-18T21:00:00',
+    till: '2022-07-18T21:30:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -30474,8 +30474,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T21:30:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T21:30:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -30510,8 +30510,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T22:00:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T22:00:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -30542,8 +30542,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T22:50:00',
-    till: '2022-05-25T23:50:00',
+    since: '2022-07-18T22:50:00',
+    till: '2022-07-18T23:50:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -30574,7 +30574,7 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T23:50:00',
+    since: '2022-07-18T23:50:00',
     isTomorrow: true,
     till: '2022-05-26T00:50:00',
     channelUuid: '7ea4aaef-02ad-4b83-8302-ae120068f327',
@@ -30608,8 +30608,8 @@ export const epg = [
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
     isYesterday: true,
-    since: '2022-05-24T23:00:00',
-    till: '2022-05-25T01:20:00',
+    since: '2022-07-17T23:00:00',
+    till: '2022-07-18T01:20:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -30640,8 +30640,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T01:20:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T01:20:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -30671,8 +30671,8 @@ export const epg = [
     id: 'aef07c94-c6e8-40e3-af63-569015787577',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:00:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:00:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -30703,8 +30703,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T02:00:00',
-    till: '2022-05-25T02:45:00',
+    since: '2022-07-18T02:00:00',
+    till: '2022-07-18T02:45:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -30735,8 +30735,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T02:45:00',
-    till: '2022-05-25T03:15:00',
+    since: '2022-07-18T02:45:00',
+    till: '2022-07-18T03:15:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -30770,8 +30770,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T03:15:00',
-    till: '2022-05-25T03:45:00',
+    since: '2022-07-18T03:15:00',
+    till: '2022-07-18T03:45:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -30802,8 +30802,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T03:45:00',
-    till: '2022-05-25T04:15:00',
+    since: '2022-07-18T03:45:00',
+    till: '2022-07-18T04:15:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -30834,8 +30834,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T04:15:00',
-    till: '2022-05-25T04:45:00',
+    since: '2022-07-18T04:15:00',
+    till: '2022-07-18T04:45:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -30866,8 +30866,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T04:45:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T04:45:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -30898,8 +30898,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:45:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:45:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -30930,8 +30930,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T05:45:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:45:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -30962,8 +30962,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -30994,8 +30994,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Montserrat',
@@ -31025,8 +31025,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -31057,8 +31057,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -31089,8 +31089,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T11:00:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T11:00:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -31121,8 +31121,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T11:00:00',
-    till: '2022-05-25T12:00:00',
+    since: '2022-07-18T11:00:00',
+    till: '2022-07-18T12:00:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -31153,8 +31153,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T12:00:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:00:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -31185,8 +31185,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -31221,8 +31221,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T15:00:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T15:00:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -31253,8 +31253,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T15:00:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:00:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -31285,8 +31285,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T17:35:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T17:35:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -31317,8 +31317,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T17:35:00',
-    till: '2022-05-25T19:00:00',
+    since: '2022-07-18T17:35:00',
+    till: '2022-07-18T19:00:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -31349,8 +31349,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T19:00:00',
-    till: '2022-05-25T19:35:00',
+    since: '2022-07-18T19:00:00',
+    till: '2022-07-18T19:35:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -31380,8 +31380,8 @@ export const epg = [
     id: '92d5b19c-2463-4d48-a296-fb2a6eae8edc',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T19:35:00',
-    till: '2022-05-25T20:05:00',
+    since: '2022-07-18T19:35:00',
+    till: '2022-07-18T20:05:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -31412,8 +31412,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T20:05:00',
-    till: '2022-05-25T21:00:00',
+    since: '2022-07-18T20:05:00',
+    till: '2022-07-18T21:00:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -31444,8 +31444,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T21:00:00',
-    till: '2022-05-25T23:30:00',
+    since: '2022-07-18T21:00:00',
+    till: '2022-07-18T23:30:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -31476,7 +31476,7 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T23:30:00',
+    since: '2022-07-18T23:30:00',
     isTomorrow: true,
     till: '2022-05-26T02:00:00',
     channelUuid: 'd9727fc5-71aa-47d4-859e-88770dd37ba9',
@@ -31510,8 +31510,8 @@ export const epg = [
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
     isYesterday: true,
-    since: '2022-05-24T23:10:00',
-    till: '2022-05-25T02:15:00',
+    since: '2022-07-17T23:10:00',
+    till: '2022-07-18T02:15:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -31542,8 +31542,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T02:15:00',
-    till: '2022-05-25T04:40:00',
+    since: '2022-07-18T02:15:00',
+    till: '2022-07-18T04:40:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -31574,8 +31574,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T04:40:00',
-    till: '2022-05-25T05:25:00',
+    since: '2022-07-18T04:40:00',
+    till: '2022-07-18T05:25:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -31606,8 +31606,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T05:25:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:25:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -31638,8 +31638,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T08:25:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T08:25:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -31670,8 +31670,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T08:25:00',
-    till: '2022-05-25T10:10:00',
+    since: '2022-07-18T08:25:00',
+    till: '2022-07-18T10:10:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -31702,8 +31702,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T10:10:00',
-    till: '2022-05-25T10:40:00',
+    since: '2022-07-18T10:10:00',
+    till: '2022-07-18T10:40:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -31734,8 +31734,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T10:40:00',
-    till: '2022-05-25T11:40:00',
+    since: '2022-07-18T10:40:00',
+    till: '2022-07-18T11:40:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -31766,8 +31766,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T11:40:00',
-    till: '2022-05-25T12:40:00',
+    since: '2022-07-18T11:40:00',
+    till: '2022-07-18T12:40:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -31798,8 +31798,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T12:40:00',
-    till: '2022-05-25T13:45:00',
+    since: '2022-07-18T12:40:00',
+    till: '2022-07-18T13:45:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Bangladesh',
@@ -31829,8 +31829,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T13:45:00',
-    till: '2022-05-25T14:15:00',
+    since: '2022-07-18T13:45:00',
+    till: '2022-07-18T14:15:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -31861,8 +31861,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T14:15:00',
-    till: '2022-05-25T14:40:00',
+    since: '2022-07-18T14:15:00',
+    till: '2022-07-18T14:40:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -31893,8 +31893,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T14:40:00',
-    till: '2022-05-25T15:45:00',
+    since: '2022-07-18T14:40:00',
+    till: '2022-07-18T15:45:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -31925,8 +31925,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T15:45:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:45:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -31957,8 +31957,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T16:45:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T16:45:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -31989,8 +31989,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T16:45:00',
-    till: '2022-05-25T17:15:00',
+    since: '2022-07-18T16:45:00',
+    till: '2022-07-18T17:15:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -32021,8 +32021,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T17:15:00',
-    till: '2022-05-25T17:45:00',
+    since: '2022-07-18T17:15:00',
+    till: '2022-07-18T17:45:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -32053,8 +32053,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T17:45:00',
-    till: '2022-05-25T18:15:00',
+    since: '2022-07-18T17:45:00',
+    till: '2022-07-18T18:15:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -32085,8 +32085,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T18:15:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T18:15:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -32117,8 +32117,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:25:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:25:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -32149,8 +32149,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T19:25:00',
-    till: '2022-05-25T19:45:00',
+    since: '2022-07-18T19:25:00',
+    till: '2022-07-18T19:45:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -32184,8 +32184,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T19:45:00',
-    till: '2022-05-25T19:55:00',
+    since: '2022-07-18T19:45:00',
+    till: '2022-07-18T19:55:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -32216,8 +32216,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T19:55:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:55:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Sri Lanka',
@@ -32247,8 +32247,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -32279,7 +32279,7 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T22:00:00',
+    since: '2022-07-18T22:00:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: 'cb73eca1-75a5-4890-a22b-8c34cd22a115',
@@ -32313,8 +32313,8 @@ export const epg = [
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
     isYesterday: true,
-    since: '2022-05-24T23:50:00',
-    till: '2022-05-25T00:45:00',
+    since: '2022-07-17T23:50:00',
+    till: '2022-07-18T00:45:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -32345,8 +32345,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T00:45:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T00:45:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -32380,8 +32380,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:00:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:00:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'France',
@@ -32411,8 +32411,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T02:00:00',
-    till: '2022-05-25T02:35:00',
+    since: '2022-07-18T02:00:00',
+    till: '2022-07-18T02:35:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -32443,8 +32443,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T02:35:00',
-    till: '2022-05-25T03:00:00',
+    since: '2022-07-18T02:35:00',
+    till: '2022-07-18T03:00:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -32475,8 +32475,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T03:00:00',
-    till: '2022-05-25T04:00:00',
+    since: '2022-07-18T03:00:00',
+    till: '2022-07-18T04:00:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Tajikistan',
@@ -32506,8 +32506,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T04:00:00',
-    till: '2022-05-25T05:00:00',
+    since: '2022-07-18T04:00:00',
+    till: '2022-07-18T05:00:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -32538,8 +32538,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T05:00:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:00:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -32570,8 +32570,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -32602,8 +32602,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -32634,8 +32634,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -32666,8 +32666,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -32702,8 +32702,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T11:00:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T11:00:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -32734,8 +32734,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T11:00:00',
-    till: '2022-05-25T12:00:00',
+    since: '2022-07-18T11:00:00',
+    till: '2022-07-18T12:00:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -32766,8 +32766,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T12:00:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:00:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -32798,8 +32798,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -32830,8 +32830,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:20:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:20:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -32862,8 +32862,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T14:20:00',
-    till: '2022-05-25T15:00:00',
+    since: '2022-07-18T14:20:00',
+    till: '2022-07-18T15:00:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Bosnia and Herzegovina',
@@ -32893,8 +32893,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T15:00:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:00:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -32925,8 +32925,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -32957,8 +32957,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -32989,8 +32989,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:50:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:50:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -33021,8 +33021,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T19:50:00',
-    till: '2022-05-25T20:50:00',
+    since: '2022-07-18T19:50:00',
+    till: '2022-07-18T20:50:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -33053,8 +33053,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T20:50:00',
-    till: '2022-05-25T21:50:00',
+    since: '2022-07-18T20:50:00',
+    till: '2022-07-18T21:50:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -33085,8 +33085,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T21:50:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T21:50:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -33117,8 +33117,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T22:50:00',
-    till: '2022-05-25T23:50:00',
+    since: '2022-07-18T22:50:00',
+    till: '2022-07-18T23:50:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -33149,7 +33149,7 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T23:50:00',
+    since: '2022-07-18T23:50:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: '9f69a943-c88f-407c-8219-694042f0c318',
@@ -33182,8 +33182,8 @@ export const epg = [
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
     isYesterday: true,
-    since: '2022-05-24T23:10:00',
-    till: '2022-05-25T01:35:00',
+    since: '2022-07-17T23:10:00',
+    till: '2022-07-18T01:35:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -33214,8 +33214,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T01:35:00',
-    till: '2022-05-25T03:45:00',
+    since: '2022-07-18T01:35:00',
+    till: '2022-07-18T03:45:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -33245,8 +33245,8 @@ export const epg = [
     id: '977113da-b7b7-403e-9fd8-1229ba75dd92',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T03:45:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T03:45:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -33277,8 +33277,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:20:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:20:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -33309,8 +33309,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T05:20:00',
-    till: '2022-05-25T05:50:00',
+    since: '2022-07-18T05:20:00',
+    till: '2022-07-18T05:50:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -33341,8 +33341,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T05:50:00',
-    till: '2022-05-25T06:25:00',
+    since: '2022-07-18T05:50:00',
+    till: '2022-07-18T06:25:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -33373,8 +33373,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T06:25:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:25:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -33409,8 +33409,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T07:55:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T07:55:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -33441,8 +33441,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T07:55:00',
-    till: '2022-05-25T11:50:00',
+    since: '2022-07-18T07:55:00',
+    till: '2022-07-18T11:50:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -33473,8 +33473,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T11:50:00',
-    till: '2022-05-25T12:30:00',
+    since: '2022-07-18T11:50:00',
+    till: '2022-07-18T12:30:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -33505,8 +33505,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T12:30:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T12:30:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -33537,8 +33537,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:35:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:35:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -33569,8 +33569,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T14:35:00',
-    till: '2022-05-25T15:15:00',
+    since: '2022-07-18T14:35:00',
+    till: '2022-07-18T15:15:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -33604,8 +33604,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T15:15:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:15:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -33640,8 +33640,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T17:15:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T17:15:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -33672,8 +33672,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T17:15:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T17:15:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -33704,8 +33704,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:00:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:00:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -33739,8 +33739,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T18:00:00',
-    till: '2022-05-25T18:20:00',
+    since: '2022-07-18T18:00:00',
+    till: '2022-07-18T18:20:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -33771,8 +33771,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T18:20:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T18:20:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Uganda',
@@ -33802,8 +33802,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:20:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:20:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -33834,8 +33834,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T19:20:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:20:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -33866,8 +33866,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T21:05:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T21:05:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -33897,8 +33897,8 @@ export const epg = [
     id: '66ed50b1-8b97-4fb0-b366-4e77054fb311',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T21:05:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T21:05:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -33929,8 +33929,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T22:00:00',
-    till: '2022-05-25T23:05:00',
+    since: '2022-07-18T22:00:00',
+    till: '2022-07-18T23:05:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -33961,7 +33961,7 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T23:05:00',
+    since: '2022-07-18T23:05:00',
     isTomorrow: true,
     till: '2022-05-26T00:15:00',
     channelUuid: 'a3a253b3-b53e-4ed6-9359-219a3fafbef3',
@@ -33995,8 +33995,8 @@ export const epg = [
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
     isYesterday: true,
-    since: '2022-05-24T23:50:00',
-    till: '2022-05-25T00:45:00',
+    since: '2022-07-17T23:50:00',
+    till: '2022-07-18T00:45:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -34027,8 +34027,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T00:45:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T00:45:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -34059,8 +34059,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:00:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:00:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -34091,8 +34091,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T02:00:00',
-    till: '2022-05-25T02:35:00',
+    since: '2022-07-18T02:00:00',
+    till: '2022-07-18T02:35:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -34123,8 +34123,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T02:35:00',
-    till: '2022-05-25T03:00:00',
+    since: '2022-07-18T02:35:00',
+    till: '2022-07-18T03:00:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -34155,8 +34155,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T03:00:00',
-    till: '2022-05-25T04:00:00',
+    since: '2022-07-18T03:00:00',
+    till: '2022-07-18T04:00:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -34187,8 +34187,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T04:00:00',
-    till: '2022-05-25T05:00:00',
+    since: '2022-07-18T04:00:00',
+    till: '2022-07-18T05:00:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -34219,8 +34219,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T05:00:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:00:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -34251,8 +34251,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -34283,8 +34283,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -34315,8 +34315,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -34347,8 +34347,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -34379,8 +34379,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T11:00:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T11:00:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -34411,8 +34411,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T11:00:00',
-    till: '2022-05-25T12:00:00',
+    since: '2022-07-18T11:00:00',
+    till: '2022-07-18T12:00:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -34443,8 +34443,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T12:00:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:00:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -34475,8 +34475,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -34507,8 +34507,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:20:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:20:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -34539,8 +34539,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T14:20:00',
-    till: '2022-05-25T15:00:00',
+    since: '2022-07-18T14:20:00',
+    till: '2022-07-18T15:00:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -34571,8 +34571,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T15:00:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:00:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -34603,8 +34603,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -34634,8 +34634,8 @@ export const epg = [
     id: '226fc197-7bf9-4d85-819f-d24266a010cb',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -34666,8 +34666,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:50:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:50:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -34697,8 +34697,8 @@ export const epg = [
     id: '09e7cef0-b913-4e2e-bc7d-04aa79e41fec',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T19:50:00',
-    till: '2022-05-25T20:50:00',
+    since: '2022-07-18T19:50:00',
+    till: '2022-07-18T20:50:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -34729,8 +34729,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T20:50:00',
-    till: '2022-05-25T21:50:00',
+    since: '2022-07-18T20:50:00',
+    till: '2022-07-18T21:50:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -34761,8 +34761,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T21:50:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T21:50:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -34793,8 +34793,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T22:50:00',
-    till: '2022-05-25T23:50:00',
+    since: '2022-07-18T22:50:00',
+    till: '2022-07-18T23:50:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -34825,7 +34825,7 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T23:50:00',
+    since: '2022-07-18T23:50:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: 'b7ebc6df-ab26-4dcb-875e-1ae73a78f64a',
@@ -34859,8 +34859,8 @@ export const epg = [
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
     isYesterday: true,
-    since: '2022-05-24T23:50:00',
-    till: '2022-05-25T00:55:00',
+    since: '2022-07-17T23:50:00',
+    till: '2022-07-18T00:55:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -34891,8 +34891,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T00:55:00',
-    till: '2022-05-25T02:35:00',
+    since: '2022-07-18T00:55:00',
+    till: '2022-07-18T02:35:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Mozambique',
@@ -34922,8 +34922,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T02:35:00',
-    till: '2022-05-25T03:30:00',
+    since: '2022-07-18T02:35:00',
+    till: '2022-07-18T03:30:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -34954,8 +34954,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T03:30:00',
-    till: '2022-05-25T04:15:00',
+    since: '2022-07-18T03:30:00',
+    till: '2022-07-18T04:15:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -34986,8 +34986,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T04:15:00',
-    till: '2022-05-25T04:30:00',
+    since: '2022-07-18T04:15:00',
+    till: '2022-07-18T04:30:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Israel',
@@ -35017,8 +35017,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T04:30:00',
-    till: '2022-05-25T05:10:00',
+    since: '2022-07-18T04:30:00',
+    till: '2022-07-18T05:10:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -35049,8 +35049,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T05:10:00',
-    till: '2022-05-25T05:35:00',
+    since: '2022-07-18T05:10:00',
+    till: '2022-07-18T05:35:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -35081,8 +35081,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T05:35:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:35:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -35113,8 +35113,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -35145,8 +35145,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T07:40:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T07:40:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -35177,8 +35177,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T07:40:00',
-    till: '2022-05-25T08:05:00',
+    since: '2022-07-18T07:40:00',
+    till: '2022-07-18T08:05:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -35209,8 +35209,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T08:05:00',
-    till: '2022-05-25T08:20:00',
+    since: '2022-07-18T08:05:00',
+    till: '2022-07-18T08:20:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -35241,8 +35241,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T08:20:00',
-    till: '2022-05-25T08:45:00',
+    since: '2022-07-18T08:20:00',
+    till: '2022-07-18T08:45:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -35273,8 +35273,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T08:45:00',
-    till: '2022-05-25T09:15:00',
+    since: '2022-07-18T08:45:00',
+    till: '2022-07-18T09:15:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -35305,8 +35305,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T09:15:00',
-    till: '2022-05-25T10:20:00',
+    since: '2022-07-18T09:15:00',
+    till: '2022-07-18T10:20:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -35337,8 +35337,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T10:20:00',
-    till: '2022-05-25T11:15:00',
+    since: '2022-07-18T10:20:00',
+    till: '2022-07-18T11:15:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -35369,8 +35369,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T11:15:00',
-    till: '2022-05-25T11:50:00',
+    since: '2022-07-18T11:15:00',
+    till: '2022-07-18T11:50:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -35405,8 +35405,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T11:50:00',
-    till: '2022-05-25T13:45:00',
+    since: '2022-07-18T11:50:00',
+    till: '2022-07-18T13:45:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -35437,8 +35437,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T13:45:00',
-    till: '2022-05-25T13:55:00',
+    since: '2022-07-18T13:45:00',
+    till: '2022-07-18T13:55:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -35469,8 +35469,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T13:55:00',
-    till: '2022-05-25T14:55:00',
+    since: '2022-07-18T13:55:00',
+    till: '2022-07-18T14:55:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -35501,8 +35501,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T14:55:00',
-    till: '2022-05-25T15:55:00',
+    since: '2022-07-18T14:55:00',
+    till: '2022-07-18T15:55:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -35533,8 +35533,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T15:55:00',
-    till: '2022-05-25T17:00:00',
+    since: '2022-07-18T15:55:00',
+    till: '2022-07-18T17:00:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -35565,8 +35565,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T17:00:00',
-    till: '2022-05-25T17:20:00',
+    since: '2022-07-18T17:00:00',
+    till: '2022-07-18T17:20:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -35597,8 +35597,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T17:20:00',
-    till: '2022-05-25T17:30:00',
+    since: '2022-07-18T17:20:00',
+    till: '2022-07-18T17:30:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -35629,8 +35629,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T17:30:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T17:30:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -35661,8 +35661,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:25:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:25:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -35693,8 +35693,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T19:25:00',
-    till: '2022-05-25T19:30:00',
+    since: '2022-07-18T19:25:00',
+    till: '2022-07-18T19:30:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -35729,8 +35729,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T19:30:00',
-    till: '2022-05-25T20:05:00',
+    since: '2022-07-18T19:30:00',
+    till: '2022-07-18T20:05:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -35761,8 +35761,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T20:05:00',
-    till: '2022-05-25T20:10:00',
+    since: '2022-07-18T20:05:00',
+    till: '2022-07-18T20:10:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -35793,8 +35793,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T20:10:00',
-    till: '2022-05-25T20:35:00',
+    since: '2022-07-18T20:10:00',
+    till: '2022-07-18T20:35:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -35825,8 +35825,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T20:35:00',
-    till: '2022-05-25T21:35:00',
+    since: '2022-07-18T20:35:00',
+    till: '2022-07-18T21:35:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -35857,8 +35857,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T21:35:00',
-    till: '2022-05-25T23:30:00',
+    since: '2022-07-18T21:35:00',
+    till: '2022-07-18T23:30:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -35889,7 +35889,7 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T23:30:00',
+    since: '2022-07-18T23:30:00',
     isTomorrow: true,
     till: '2022-05-26T01:25:00',
     channelUuid: 'ce7965ae-5458-4da8-a1f4-3e83631b0b25',
@@ -35923,8 +35923,8 @@ export const epg = [
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
     isYesterday: true,
-    since: '2022-05-24T23:10:00',
-    till: '2022-05-25T01:35:00',
+    since: '2022-07-17T23:10:00',
+    till: '2022-07-18T01:35:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -35955,8 +35955,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T01:35:00',
-    till: '2022-05-25T03:45:00',
+    since: '2022-07-18T01:35:00',
+    till: '2022-07-18T03:45:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -35987,8 +35987,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T03:45:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T03:45:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -36019,8 +36019,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:20:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:20:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -36051,8 +36051,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T05:20:00',
-    till: '2022-05-25T05:50:00',
+    since: '2022-07-18T05:20:00',
+    till: '2022-07-18T05:50:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -36082,8 +36082,8 @@ export const epg = [
     id: 'de7e17f9-0c04-4397-8be6-7e59bd494063',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T05:50:00',
-    till: '2022-05-25T06:25:00',
+    since: '2022-07-18T05:50:00',
+    till: '2022-07-18T06:25:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -36114,8 +36114,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T06:25:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:25:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -36146,8 +36146,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T07:55:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T07:55:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -36178,8 +36178,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T07:55:00',
-    till: '2022-05-25T11:50:00',
+    since: '2022-07-18T07:55:00',
+    till: '2022-07-18T11:50:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -36210,8 +36210,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T11:50:00',
-    till: '2022-05-25T12:30:00',
+    since: '2022-07-18T11:50:00',
+    till: '2022-07-18T12:30:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -36242,8 +36242,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T12:30:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T12:30:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -36274,8 +36274,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:35:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:35:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -36306,8 +36306,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T14:35:00',
-    till: '2022-05-25T15:15:00',
+    since: '2022-07-18T14:35:00',
+    till: '2022-07-18T15:15:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -36337,8 +36337,8 @@ export const epg = [
     id: '400b746d-fe2d-4be1-820c-adb1aa64cf1e',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T15:15:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:15:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -36368,8 +36368,8 @@ export const epg = [
     id: '16139346-81f1-433b-bc3e-7c63ba1f3aac',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T17:15:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T17:15:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -36400,8 +36400,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T17:15:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T17:15:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -36432,8 +36432,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:00:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:00:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -36464,8 +36464,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T18:00:00',
-    till: '2022-05-25T18:20:00',
+    since: '2022-07-18T18:00:00',
+    till: '2022-07-18T18:20:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -36500,8 +36500,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T18:20:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T18:20:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -36536,8 +36536,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:20:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:20:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -36568,8 +36568,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T19:20:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:20:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -36600,8 +36600,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T21:05:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T21:05:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -36636,8 +36636,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T21:05:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T21:05:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -36668,8 +36668,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T22:00:00',
-    till: '2022-05-25T23:05:00',
+    since: '2022-07-18T22:00:00',
+    till: '2022-07-18T23:05:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -36700,7 +36700,7 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T23:05:00',
+    since: '2022-07-18T23:05:00',
     isTomorrow: true,
     till: '2022-05-26T00:15:00',
     channelUuid: '1e4946ef-1710-495a-af63-dac7b8fccdf2',
@@ -36734,8 +36734,8 @@ export const epg = [
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
     isYesterday: true,
-    since: '2022-05-24T22:20:00',
-    till: '2022-05-25T00:25:00',
+    since: '2022-07-17T22:20:00',
+    till: '2022-07-18T00:25:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -36766,8 +36766,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T00:25:00',
-    till: '2022-05-25T01:30:00',
+    since: '2022-07-18T00:25:00',
+    till: '2022-07-18T01:30:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -36798,8 +36798,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T01:30:00',
-    till: '2022-05-25T02:50:00',
+    since: '2022-07-18T01:30:00',
+    till: '2022-07-18T02:50:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -36830,8 +36830,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T02:50:00',
-    till: '2022-05-25T04:05:00',
+    since: '2022-07-18T02:50:00',
+    till: '2022-07-18T04:05:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -36862,8 +36862,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T04:05:00',
-    till: '2022-05-25T04:30:00',
+    since: '2022-07-18T04:05:00',
+    till: '2022-07-18T04:30:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -36894,8 +36894,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T04:30:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T04:30:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -36925,8 +36925,8 @@ export const epg = [
     id: '3ba5705a-97e2-46f7-8428-4c2fadf7a9c3',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:30:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:30:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -36957,8 +36957,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T05:30:00',
-    till: '2022-05-25T06:30:00',
+    since: '2022-07-18T05:30:00',
+    till: '2022-07-18T06:30:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -36989,8 +36989,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T06:30:00',
-    till: '2022-05-25T07:30:00',
+    since: '2022-07-18T06:30:00',
+    till: '2022-07-18T07:30:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -37021,8 +37021,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T07:30:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:30:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -37056,8 +37056,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T11:30:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T11:30:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -37088,8 +37088,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T11:30:00',
-    till: '2022-05-25T11:55:00',
+    since: '2022-07-18T11:30:00',
+    till: '2022-07-18T11:55:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -37120,8 +37120,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T11:55:00',
-    till: '2022-05-25T12:20:00',
+    since: '2022-07-18T11:55:00',
+    till: '2022-07-18T12:20:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -37152,8 +37152,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T12:20:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:20:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -37188,8 +37188,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:05:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:05:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -37224,8 +37224,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T14:05:00',
-    till: '2022-05-25T14:40:00',
+    since: '2022-07-18T14:05:00',
+    till: '2022-07-18T14:40:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -37256,8 +37256,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T14:40:00',
-    till: '2022-05-25T15:10:00',
+    since: '2022-07-18T14:40:00',
+    till: '2022-07-18T15:10:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Equatorial Guinea',
@@ -37287,8 +37287,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T15:10:00',
-    till: '2022-05-25T15:45:00',
+    since: '2022-07-18T15:10:00',
+    till: '2022-07-18T15:45:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -37319,8 +37319,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T15:45:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:45:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -37351,8 +37351,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T17:25:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T17:25:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -37387,8 +37387,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T17:25:00',
-    till: '2022-05-25T17:35:00',
+    since: '2022-07-18T17:25:00',
+    till: '2022-07-18T17:35:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Lithuania',
@@ -37418,8 +37418,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T17:35:00',
-    till: '2022-05-25T18:05:00',
+    since: '2022-07-18T17:35:00',
+    till: '2022-07-18T18:05:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -37450,8 +37450,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T18:05:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T18:05:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -37482,8 +37482,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:00:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:00:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -37514,8 +37514,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T19:00:00',
-    till: '2022-05-25T19:25:00',
+    since: '2022-07-18T19:00:00',
+    till: '2022-07-18T19:25:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -37546,8 +37546,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T19:25:00',
-    till: '2022-05-25T19:30:00',
+    since: '2022-07-18T19:25:00',
+    till: '2022-07-18T19:30:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -37582,8 +37582,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T19:30:00',
-    till: '2022-05-25T19:40:00',
+    since: '2022-07-18T19:30:00',
+    till: '2022-07-18T19:40:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -37613,8 +37613,8 @@ export const epg = [
     id: 'e9e7f6dd-3179-452a-9e28-19cabb65282d',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T19:40:00',
-    till: '2022-05-25T19:50:00',
+    since: '2022-07-18T19:40:00',
+    till: '2022-07-18T19:50:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -37645,8 +37645,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T19:50:00',
-    till: '2022-05-25T20:05:00',
+    since: '2022-07-18T19:50:00',
+    till: '2022-07-18T20:05:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -37681,8 +37681,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T20:05:00',
-    till: '2022-05-25T22:55:00',
+    since: '2022-07-18T20:05:00',
+    till: '2022-07-18T22:55:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -37713,7 +37713,7 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T22:55:00',
+    since: '2022-07-18T22:55:00',
     isTomorrow: true,
     till: '2022-05-26T00:50:00',
     channelUuid: 'e74c84b5-cfe8-4fde-bbfb-e909d746f031',
@@ -37747,8 +37747,8 @@ export const epg = [
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
     isYesterday: true,
-    since: '2022-05-24T23:15:00',
-    till: '2022-05-25T01:00:00',
+    since: '2022-07-17T23:15:00',
+    till: '2022-07-18T01:00:00',
     channelUuid: 'df5f55e7-e0e0-4dc8-8768-25deef6c4ac7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -37779,8 +37779,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T01:00:00',
-    till: '2022-05-25T02:05:00',
+    since: '2022-07-18T01:00:00',
+    till: '2022-07-18T02:05:00',
     channelUuid: 'df5f55e7-e0e0-4dc8-8768-25deef6c4ac7',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -37814,8 +37814,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T02:05:00',
-    till: '2022-05-25T02:45:00',
+    since: '2022-07-18T02:05:00',
+    till: '2022-07-18T02:45:00',
     channelUuid: 'df5f55e7-e0e0-4dc8-8768-25deef6c4ac7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -37850,8 +37850,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T02:45:00',
-    till: '2022-05-25T05:05:00',
+    since: '2022-07-18T02:45:00',
+    till: '2022-07-18T05:05:00',
     channelUuid: 'df5f55e7-e0e0-4dc8-8768-25deef6c4ac7',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -37885,8 +37885,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T05:05:00',
-    till: '2022-05-25T06:05:00',
+    since: '2022-07-18T05:05:00',
+    till: '2022-07-18T06:05:00',
     channelUuid: 'df5f55e7-e0e0-4dc8-8768-25deef6c4ac7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -37917,8 +37917,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T06:05:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:05:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: 'df5f55e7-e0e0-4dc8-8768-25deef6c4ac7',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -37952,8 +37952,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T07:15:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T07:15:00',
     channelUuid: 'df5f55e7-e0e0-4dc8-8768-25deef6c4ac7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -37984,8 +37984,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T07:15:00',
-    till: '2022-05-25T07:50:00',
+    since: '2022-07-18T07:15:00',
+    till: '2022-07-18T07:50:00',
     channelUuid: 'df5f55e7-e0e0-4dc8-8768-25deef6c4ac7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -38016,8 +38016,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T07:50:00',
-    till: '2022-05-25T09:40:00',
+    since: '2022-07-18T07:50:00',
+    till: '2022-07-18T09:40:00',
     channelUuid: 'df5f55e7-e0e0-4dc8-8768-25deef6c4ac7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -38048,8 +38048,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T09:40:00',
-    till: '2022-05-25T10:40:00',
+    since: '2022-07-18T09:40:00',
+    till: '2022-07-18T10:40:00',
     channelUuid: 'df5f55e7-e0e0-4dc8-8768-25deef6c4ac7',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Syria',
@@ -38079,8 +38079,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T10:40:00',
-    till: '2022-05-25T11:45:00',
+    since: '2022-07-18T10:40:00',
+    till: '2022-07-18T11:45:00',
     channelUuid: 'df5f55e7-e0e0-4dc8-8768-25deef6c4ac7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -38111,8 +38111,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T11:45:00',
-    till: '2022-05-25T12:45:00',
+    since: '2022-07-18T11:45:00',
+    till: '2022-07-18T12:45:00',
     channelUuid: 'df5f55e7-e0e0-4dc8-8768-25deef6c4ac7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -38143,8 +38143,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T12:45:00',
-    till: '2022-05-25T13:50:00',
+    since: '2022-07-18T12:45:00',
+    till: '2022-07-18T13:50:00',
     channelUuid: 'df5f55e7-e0e0-4dc8-8768-25deef6c4ac7',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Singapore',
@@ -38174,8 +38174,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T13:50:00',
-    till: '2022-05-25T15:55:00',
+    since: '2022-07-18T13:50:00',
+    till: '2022-07-18T15:55:00',
     channelUuid: 'df5f55e7-e0e0-4dc8-8768-25deef6c4ac7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -38206,8 +38206,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T15:55:00',
-    till: '2022-05-25T18:05:00',
+    since: '2022-07-18T15:55:00',
+    till: '2022-07-18T18:05:00',
     channelUuid: 'df5f55e7-e0e0-4dc8-8768-25deef6c4ac7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -38238,8 +38238,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T18:05:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T18:05:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: 'df5f55e7-e0e0-4dc8-8768-25deef6c4ac7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -38270,8 +38270,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: 'df5f55e7-e0e0-4dc8-8768-25deef6c4ac7',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -38302,7 +38302,7 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T22:50:00',
+    since: '2022-07-18T22:50:00',
     isTomorrow: true,
     till: '2022-05-26T01:10:00',
     channelUuid: 'df5f55e7-e0e0-4dc8-8768-25deef6c4ac7',
@@ -38336,8 +38336,8 @@ export const epg = [
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
     isYesterday: true,
-    since: '2022-05-24T23:10:00',
-    till: '2022-05-25T02:15:00',
+    since: '2022-07-17T23:10:00',
+    till: '2022-07-18T02:15:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -38368,8 +38368,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T02:15:00',
-    till: '2022-05-25T04:40:00',
+    since: '2022-07-18T02:15:00',
+    till: '2022-07-18T04:40:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -38400,8 +38400,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T04:40:00',
-    till: '2022-05-25T05:25:00',
+    since: '2022-07-18T04:40:00',
+    till: '2022-07-18T05:25:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -38432,8 +38432,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T05:25:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:25:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -38464,8 +38464,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T08:25:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T08:25:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -38496,8 +38496,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T08:25:00',
-    till: '2022-05-25T10:10:00',
+    since: '2022-07-18T08:25:00',
+    till: '2022-07-18T10:10:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -38528,8 +38528,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T10:10:00',
-    till: '2022-05-25T10:40:00',
+    since: '2022-07-18T10:10:00',
+    till: '2022-07-18T10:40:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -38560,8 +38560,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T10:40:00',
-    till: '2022-05-25T11:40:00',
+    since: '2022-07-18T10:40:00',
+    till: '2022-07-18T11:40:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -38592,8 +38592,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T11:40:00',
-    till: '2022-05-25T12:40:00',
+    since: '2022-07-18T11:40:00',
+    till: '2022-07-18T12:40:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -38624,8 +38624,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T12:40:00',
-    till: '2022-05-25T13:45:00',
+    since: '2022-07-18T12:40:00',
+    till: '2022-07-18T13:45:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -38656,8 +38656,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T13:45:00',
-    till: '2022-05-25T14:15:00',
+    since: '2022-07-18T13:45:00',
+    till: '2022-07-18T14:15:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -38688,8 +38688,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T14:15:00',
-    till: '2022-05-25T14:40:00',
+    since: '2022-07-18T14:15:00',
+    till: '2022-07-18T14:40:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -38720,8 +38720,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T14:40:00',
-    till: '2022-05-25T15:45:00',
+    since: '2022-07-18T14:40:00',
+    till: '2022-07-18T15:45:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -38755,8 +38755,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T15:45:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:45:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -38790,8 +38790,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T16:45:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T16:45:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -38822,8 +38822,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T16:45:00',
-    till: '2022-05-25T17:15:00',
+    since: '2022-07-18T16:45:00',
+    till: '2022-07-18T17:15:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -38854,8 +38854,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T17:15:00',
-    till: '2022-05-25T17:45:00',
+    since: '2022-07-18T17:15:00',
+    till: '2022-07-18T17:45:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -38886,8 +38886,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T17:45:00',
-    till: '2022-05-25T18:15:00',
+    since: '2022-07-18T17:45:00',
+    till: '2022-07-18T18:15:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -38918,8 +38918,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T18:15:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T18:15:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -38950,8 +38950,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:25:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:25:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -38982,8 +38982,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T19:25:00',
-    till: '2022-05-25T19:45:00',
+    since: '2022-07-18T19:25:00',
+    till: '2022-07-18T19:45:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -39018,8 +39018,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T19:45:00',
-    till: '2022-05-25T19:55:00',
+    since: '2022-07-18T19:45:00',
+    till: '2022-07-18T19:55:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -39050,8 +39050,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T19:55:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:55:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -39082,8 +39082,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -39114,7 +39114,7 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T22:00:00',
+    since: '2022-07-18T22:00:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: '128a0bfe-46b8-4389-8d12-228a4cd70458',
@@ -39147,8 +39147,8 @@ export const epg = [
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
     isYesterday: true,
-    since: '2022-05-24T23:25:00',
-    till: '2022-05-25T00:25:00',
+    since: '2022-07-17T23:25:00',
+    till: '2022-07-18T00:25:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -39179,8 +39179,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T00:25:00',
-    till: '2022-05-25T01:25:00',
+    since: '2022-07-18T00:25:00',
+    till: '2022-07-18T01:25:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -39211,8 +39211,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T01:25:00',
-    till: '2022-05-25T02:20:00',
+    since: '2022-07-18T01:25:00',
+    till: '2022-07-18T02:20:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -39247,8 +39247,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T02:20:00',
-    till: '2022-05-25T03:20:00',
+    since: '2022-07-18T02:20:00',
+    till: '2022-07-18T03:20:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -39279,8 +39279,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T03:20:00',
-    till: '2022-05-25T05:05:00',
+    since: '2022-07-18T03:20:00',
+    till: '2022-07-18T05:05:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -39311,8 +39311,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T05:05:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T05:05:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -39342,8 +39342,8 @@ export const epg = [
     id: '1dac87fd-69b7-421a-bc08-df7199062d8c',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:50:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:50:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -39374,8 +39374,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T05:50:00',
-    till: '2022-05-25T06:20:00',
+    since: '2022-07-18T05:50:00',
+    till: '2022-07-18T06:20:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -39406,8 +39406,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T06:20:00',
-    till: '2022-05-25T06:55:00',
+    since: '2022-07-18T06:20:00',
+    till: '2022-07-18T06:55:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -39438,8 +39438,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T06:55:00',
-    till: '2022-05-25T07:30:00',
+    since: '2022-07-18T06:55:00',
+    till: '2022-07-18T07:30:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -39472,8 +39472,8 @@ export const epg = [
     id: '2b6d669b-b3c1-4588-ae54-029a5096c2fe',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T07:30:00',
-    till: '2022-05-25T08:05:00',
+    since: '2022-07-18T07:30:00',
+    till: '2022-07-18T08:05:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -39504,8 +39504,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T08:05:00',
-    till: '2022-05-25T08:40:00',
+    since: '2022-07-18T08:05:00',
+    till: '2022-07-18T08:40:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -39536,8 +39536,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T08:40:00',
-    till: '2022-05-25T09:10:00',
+    since: '2022-07-18T08:40:00',
+    till: '2022-07-18T09:10:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -39568,8 +39568,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T09:10:00',
-    till: '2022-05-25T09:40:00',
+    since: '2022-07-18T09:10:00',
+    till: '2022-07-18T09:40:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -39600,8 +39600,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T09:40:00',
-    till: '2022-05-25T10:15:00',
+    since: '2022-07-18T09:40:00',
+    till: '2022-07-18T10:15:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -39632,8 +39632,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T10:15:00',
-    till: '2022-05-25T10:45:00',
+    since: '2022-07-18T10:15:00',
+    till: '2022-07-18T10:45:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -39664,8 +39664,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T10:45:00',
-    till: '2022-05-25T11:50:00',
+    since: '2022-07-18T10:45:00',
+    till: '2022-07-18T11:50:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -39696,8 +39696,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T11:50:00',
-    till: '2022-05-25T12:50:00',
+    since: '2022-07-18T11:50:00',
+    till: '2022-07-18T12:50:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -39728,8 +39728,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T12:50:00',
-    till: '2022-05-25T13:20:00',
+    since: '2022-07-18T12:50:00',
+    till: '2022-07-18T13:20:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -39760,8 +39760,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T13:20:00',
-    till: '2022-05-25T13:50:00',
+    since: '2022-07-18T13:20:00',
+    till: '2022-07-18T13:50:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -39796,8 +39796,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T13:50:00',
-    till: '2022-05-25T14:05:00',
+    since: '2022-07-18T13:50:00',
+    till: '2022-07-18T14:05:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -39832,8 +39832,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T14:05:00',
-    till: '2022-05-25T15:05:00',
+    since: '2022-07-18T14:05:00',
+    till: '2022-07-18T15:05:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -39864,8 +39864,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T15:05:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:05:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -39896,8 +39896,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T17:10:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T17:10:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -39928,8 +39928,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T17:10:00',
-    till: '2022-05-25T17:40:00',
+    since: '2022-07-18T17:10:00',
+    till: '2022-07-18T17:40:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -39960,8 +39960,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T17:40:00',
-    till: '2022-05-25T18:20:00',
+    since: '2022-07-18T17:40:00',
+    till: '2022-07-18T18:20:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -39992,8 +39992,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T18:20:00',
-    till: '2022-05-25T18:55:00',
+    since: '2022-07-18T18:20:00',
+    till: '2022-07-18T18:55:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -40024,8 +40024,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T18:55:00',
-    till: '2022-05-25T19:55:00',
+    since: '2022-07-18T18:55:00',
+    till: '2022-07-18T19:55:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -40056,8 +40056,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T19:55:00',
-    till: '2022-05-25T20:55:00',
+    since: '2022-07-18T19:55:00',
+    till: '2022-07-18T20:55:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -40088,8 +40088,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T20:55:00',
-    till: '2022-05-25T21:55:00',
+    since: '2022-07-18T20:55:00',
+    till: '2022-07-18T21:55:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -40120,8 +40120,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T21:55:00',
-    till: '2022-05-25T23:35:00',
+    since: '2022-07-18T21:55:00',
+    till: '2022-07-18T23:35:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -40152,7 +40152,7 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T23:35:00',
+    since: '2022-07-18T23:35:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: 'e85aa900-02d8-433a-a291-f96841922d5a',
@@ -40186,8 +40186,8 @@ export const epg = [
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
     isYesterday: true,
-    since: '2022-05-24T23:50:00',
-    till: '2022-05-25T00:45:00',
+    since: '2022-07-17T23:50:00',
+    till: '2022-07-18T00:45:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -40218,8 +40218,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T00:45:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T00:45:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -40250,8 +40250,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:00:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:00:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -40282,8 +40282,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T02:00:00',
-    till: '2022-05-25T02:35:00',
+    since: '2022-07-18T02:00:00',
+    till: '2022-07-18T02:35:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -40314,8 +40314,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T02:35:00',
-    till: '2022-05-25T03:00:00',
+    since: '2022-07-18T02:35:00',
+    till: '2022-07-18T03:00:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -40346,8 +40346,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T03:00:00',
-    till: '2022-05-25T04:00:00',
+    since: '2022-07-18T03:00:00',
+    till: '2022-07-18T04:00:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -40378,8 +40378,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T04:00:00',
-    till: '2022-05-25T05:00:00',
+    since: '2022-07-18T04:00:00',
+    till: '2022-07-18T05:00:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -40410,8 +40410,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T05:00:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:00:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -40442,8 +40442,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -40474,8 +40474,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -40506,8 +40506,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -40538,8 +40538,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Ireland',
@@ -40569,8 +40569,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T11:00:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T11:00:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -40601,8 +40601,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T11:00:00',
-    till: '2022-05-25T12:00:00',
+    since: '2022-07-18T11:00:00',
+    till: '2022-07-18T12:00:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -40633,8 +40633,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T12:00:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:00:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -40665,8 +40665,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -40697,8 +40697,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:20:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:20:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -40729,8 +40729,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T14:20:00',
-    till: '2022-05-25T15:00:00',
+    since: '2022-07-18T14:20:00',
+    till: '2022-07-18T15:00:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -40764,8 +40764,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T15:00:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:00:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -40796,8 +40796,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -40828,8 +40828,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -40860,8 +40860,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:50:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:50:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -40892,8 +40892,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T19:50:00',
-    till: '2022-05-25T20:50:00',
+    since: '2022-07-18T19:50:00',
+    till: '2022-07-18T20:50:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -40924,8 +40924,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T20:50:00',
-    till: '2022-05-25T21:50:00',
+    since: '2022-07-18T20:50:00',
+    till: '2022-07-18T21:50:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -40956,8 +40956,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T21:50:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T21:50:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -40992,8 +40992,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T22:50:00',
-    till: '2022-05-25T23:50:00',
+    since: '2022-07-18T22:50:00',
+    till: '2022-07-18T23:50:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -41024,7 +41024,7 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T23:50:00',
+    since: '2022-07-18T23:50:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: '4c6f1b0f-12c0-4cdd-8267-7c37fb2cd1db',
@@ -41057,8 +41057,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T00:00:00',
-    till: '2022-05-25T01:00:00',
+    since: '2022-07-18T00:00:00',
+    till: '2022-07-18T01:00:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -41089,8 +41089,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T01:00:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T01:00:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -41121,8 +41121,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:50:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:50:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -41153,8 +41153,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T02:50:00',
-    till: '2022-05-25T03:50:00',
+    since: '2022-07-18T02:50:00',
+    till: '2022-07-18T03:50:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -41185,8 +41185,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T03:50:00',
-    till: '2022-05-25T05:10:00',
+    since: '2022-07-18T03:50:00',
+    till: '2022-07-18T05:10:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -41217,8 +41217,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T05:10:00',
-    till: '2022-05-25T05:55:00',
+    since: '2022-07-18T05:10:00',
+    till: '2022-07-18T05:55:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -41249,8 +41249,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T05:55:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T05:55:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -41281,8 +41281,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -41313,8 +41313,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T09:05:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T09:05:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -41345,8 +41345,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T09:05:00',
-    till: '2022-05-25T09:45:00',
+    since: '2022-07-18T09:05:00',
+    till: '2022-07-18T09:45:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -41377,8 +41377,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T09:45:00',
-    till: '2022-05-25T09:58:00',
+    since: '2022-07-18T09:45:00',
+    till: '2022-07-18T09:58:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -41411,8 +41411,8 @@ export const epg = [
     id: 'a2a2a464-8d47-4326-9dfd-4048a5b3abd1',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T09:58:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:58:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -41443,8 +41443,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T10:35:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T10:35:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -41475,8 +41475,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T10:35:00',
-    till: '2022-05-25T11:30:00',
+    since: '2022-07-18T10:35:00',
+    till: '2022-07-18T11:30:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -41507,8 +41507,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T11:30:00',
-    till: '2022-05-25T12:35:00',
+    since: '2022-07-18T11:30:00',
+    till: '2022-07-18T12:35:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -41538,8 +41538,8 @@ export const epg = [
     id: '38d9039d-1819-49c8-8026-a7aca3ed3bf4',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T12:35:00',
-    till: '2022-05-25T13:05:00',
+    since: '2022-07-18T12:35:00',
+    till: '2022-07-18T13:05:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -41570,8 +41570,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T13:05:00',
-    till: '2022-05-25T13:35:00',
+    since: '2022-07-18T13:05:00',
+    till: '2022-07-18T13:35:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -41601,8 +41601,8 @@ export const epg = [
     id: '9833c11b-cc92-48e5-b6a9-ce693428d4e6',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T13:35:00',
-    till: '2022-05-25T14:35:00',
+    since: '2022-07-18T13:35:00',
+    till: '2022-07-18T14:35:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -41633,8 +41633,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T14:35:00',
-    till: '2022-05-25T15:45:00',
+    since: '2022-07-18T14:35:00',
+    till: '2022-07-18T15:45:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -41665,8 +41665,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T15:45:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:45:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -41697,8 +41697,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T16:05:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T16:05:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -41729,8 +41729,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T16:05:00',
-    till: '2022-05-25T16:55:00',
+    since: '2022-07-18T16:05:00',
+    till: '2022-07-18T16:55:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -41761,8 +41761,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T16:55:00',
-    till: '2022-05-25T17:45:00',
+    since: '2022-07-18T16:55:00',
+    till: '2022-07-18T17:45:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -41793,8 +41793,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T17:45:00',
-    till: '2022-05-25T17:58:00',
+    since: '2022-07-18T17:45:00',
+    till: '2022-07-18T17:58:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -41825,8 +41825,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T17:58:00',
-    till: '2022-05-25T18:00:00',
+    since: '2022-07-18T17:58:00',
+    till: '2022-07-18T18:00:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -41857,8 +41857,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T18:00:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T18:00:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -41889,8 +41889,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:00:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:00:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -41924,8 +41924,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T19:00:00',
-    till: '2022-05-25T19:40:00',
+    since: '2022-07-18T19:00:00',
+    till: '2022-07-18T19:40:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -41956,8 +41956,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T19:40:00',
-    till: '2022-05-25T19:45:00',
+    since: '2022-07-18T19:40:00',
+    till: '2022-07-18T19:45:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -41988,8 +41988,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T19:45:00',
-    till: '2022-05-25T19:58:00',
+    since: '2022-07-18T19:45:00',
+    till: '2022-07-18T19:58:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -42020,8 +42020,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T19:58:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:58:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -42052,8 +42052,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T21:00:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T21:00:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -42084,8 +42084,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T21:00:00',
-    till: '2022-05-25T21:30:00',
+    since: '2022-07-18T21:00:00',
+    till: '2022-07-18T21:30:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -42115,8 +42115,8 @@ export const epg = [
     id: 'd94fa6bb-ac4e-4192-8c39-59aef5ae9f42',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T21:30:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T21:30:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -42147,8 +42147,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T22:00:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T22:00:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -42179,8 +42179,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T22:50:00',
-    till: '2022-05-25T23:50:00',
+    since: '2022-07-18T22:50:00',
+    till: '2022-07-18T23:50:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -42211,7 +42211,7 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T23:50:00',
+    since: '2022-07-18T23:50:00',
     isTomorrow: true,
     till: '2022-05-26T00:50:00',
     channelUuid: '882688cf-c2c8-40e4-bc79-49904443bea1',
@@ -42245,8 +42245,8 @@ export const epg = [
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
     isYesterday: true,
-    since: '2022-05-24T23:00:00',
-    till: '2022-05-25T01:20:00',
+    since: '2022-07-17T23:00:00',
+    till: '2022-07-18T01:20:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -42277,8 +42277,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T01:20:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T01:20:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -42309,8 +42309,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:00:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:00:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -42340,8 +42340,8 @@ export const epg = [
     id: '1ca8cfca-e0b6-460e-adf2-764e25c32fbe',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T02:00:00',
-    till: '2022-05-25T02:45:00',
+    since: '2022-07-18T02:00:00',
+    till: '2022-07-18T02:45:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -42372,8 +42372,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T02:45:00',
-    till: '2022-05-25T03:15:00',
+    since: '2022-07-18T02:45:00',
+    till: '2022-07-18T03:15:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -42408,8 +42408,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T03:15:00',
-    till: '2022-05-25T03:45:00',
+    since: '2022-07-18T03:15:00',
+    till: '2022-07-18T03:45:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -42440,8 +42440,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T03:45:00',
-    till: '2022-05-25T04:15:00',
+    since: '2022-07-18T03:45:00',
+    till: '2022-07-18T04:15:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -42472,8 +42472,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T04:15:00',
-    till: '2022-05-25T04:45:00',
+    since: '2022-07-18T04:15:00',
+    till: '2022-07-18T04:45:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -42504,8 +42504,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T04:45:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T04:45:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -42540,8 +42540,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:45:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:45:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -42572,8 +42572,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T05:45:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:45:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -42604,8 +42604,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -42636,8 +42636,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -42668,8 +42668,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -42700,8 +42700,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -42732,8 +42732,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T11:00:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T11:00:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -42764,8 +42764,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T11:00:00',
-    till: '2022-05-25T12:00:00',
+    since: '2022-07-18T11:00:00',
+    till: '2022-07-18T12:00:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -42796,8 +42796,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T12:00:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:00:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -42828,8 +42828,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -42860,8 +42860,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T15:00:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T15:00:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -42892,8 +42892,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T15:00:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:00:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -42924,8 +42924,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T17:35:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T17:35:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -42960,8 +42960,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T17:35:00',
-    till: '2022-05-25T19:00:00',
+    since: '2022-07-18T17:35:00',
+    till: '2022-07-18T19:00:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -42992,8 +42992,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T19:00:00',
-    till: '2022-05-25T19:35:00',
+    since: '2022-07-18T19:00:00',
+    till: '2022-07-18T19:35:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -43024,8 +43024,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T19:35:00',
-    till: '2022-05-25T20:05:00',
+    since: '2022-07-18T19:35:00',
+    till: '2022-07-18T20:05:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Armenia',
@@ -43055,8 +43055,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T20:05:00',
-    till: '2022-05-25T21:00:00',
+    since: '2022-07-18T20:05:00',
+    till: '2022-07-18T21:00:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -43087,8 +43087,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T21:00:00',
-    till: '2022-05-25T23:30:00',
+    since: '2022-07-18T21:00:00',
+    till: '2022-07-18T23:30:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -43119,7 +43119,7 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T23:30:00',
+    since: '2022-07-18T23:30:00',
     isTomorrow: true,
     till: '2022-05-26T02:00:00',
     channelUuid: '5b982f0c-85fb-47ae-ae94-88ebf9799f96',
@@ -43153,8 +43153,8 @@ export const epg = [
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
     isYesterday: true,
-    since: '2022-05-24T23:10:00',
-    till: '2022-05-25T02:15:00',
+    since: '2022-07-17T23:10:00',
+    till: '2022-07-18T02:15:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -43189,8 +43189,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T02:15:00',
-    till: '2022-05-25T04:40:00',
+    since: '2022-07-18T02:15:00',
+    till: '2022-07-18T04:40:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -43221,8 +43221,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T04:40:00',
-    till: '2022-05-25T05:25:00',
+    since: '2022-07-18T04:40:00',
+    till: '2022-07-18T05:25:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -43253,8 +43253,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T05:25:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:25:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -43285,8 +43285,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T08:25:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T08:25:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -43317,8 +43317,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T08:25:00',
-    till: '2022-05-25T10:10:00',
+    since: '2022-07-18T08:25:00',
+    till: '2022-07-18T10:10:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -43348,8 +43348,8 @@ export const epg = [
     id: '55e24ee6-278a-4d32-b4ff-6a61945b50b8',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T10:10:00',
-    till: '2022-05-25T10:40:00',
+    since: '2022-07-18T10:10:00',
+    till: '2022-07-18T10:40:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -43380,8 +43380,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T10:40:00',
-    till: '2022-05-25T11:40:00',
+    since: '2022-07-18T10:40:00',
+    till: '2022-07-18T11:40:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -43412,8 +43412,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T11:40:00',
-    till: '2022-05-25T12:40:00',
+    since: '2022-07-18T11:40:00',
+    till: '2022-07-18T12:40:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -43444,8 +43444,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T12:40:00',
-    till: '2022-05-25T13:45:00',
+    since: '2022-07-18T12:40:00',
+    till: '2022-07-18T13:45:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -43476,8 +43476,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T13:45:00',
-    till: '2022-05-25T14:15:00',
+    since: '2022-07-18T13:45:00',
+    till: '2022-07-18T14:15:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -43508,8 +43508,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T14:15:00',
-    till: '2022-05-25T14:40:00',
+    since: '2022-07-18T14:15:00',
+    till: '2022-07-18T14:40:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -43540,8 +43540,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T14:40:00',
-    till: '2022-05-25T15:45:00',
+    since: '2022-07-18T14:40:00',
+    till: '2022-07-18T15:45:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -43572,8 +43572,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T15:45:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:45:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -43607,8 +43607,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T16:45:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T16:45:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -43639,8 +43639,8 @@ export const epg = [
     description:
       'Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.',
     title: 'The Good Doctor',
-    since: '2022-05-25T16:45:00',
-    till: '2022-05-25T17:15:00',
+    since: '2022-07-18T16:45:00',
+    till: '2022-07-18T17:15:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/6Ys6koNajP5ld9EIMfOSQrRquki.jpg',
@@ -43671,8 +43671,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T17:15:00',
-    till: '2022-05-25T17:45:00',
+    since: '2022-07-18T17:15:00',
+    till: '2022-07-18T17:45:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -43706,8 +43706,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T17:45:00',
-    till: '2022-05-25T18:15:00',
+    since: '2022-07-18T17:45:00',
+    till: '2022-07-18T18:15:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -43738,8 +43738,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T18:15:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T18:15:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -43770,8 +43770,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:25:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:25:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -43802,8 +43802,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T19:25:00',
-    till: '2022-05-25T19:45:00',
+    since: '2022-07-18T19:25:00',
+    till: '2022-07-18T19:45:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -43834,8 +43834,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T19:45:00',
-    till: '2022-05-25T19:55:00',
+    since: '2022-07-18T19:45:00',
+    till: '2022-07-18T19:55:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -43866,8 +43866,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T19:55:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:55:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -43898,8 +43898,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -43930,7 +43930,7 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T22:00:00',
+    since: '2022-07-18T22:00:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: '75e9b431-79d2-49b2-8483-32ad55637702',
@@ -43964,8 +43964,8 @@ export const epg = [
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
     isYesterday: true,
-    since: '2022-05-24T23:50:00',
-    till: '2022-05-25T00:45:00',
+    since: '2022-07-17T23:50:00',
+    till: '2022-07-18T00:45:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -43996,8 +43996,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T00:45:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T00:45:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -44028,8 +44028,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:00:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:00:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -44063,8 +44063,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T02:00:00',
-    till: '2022-05-25T02:35:00',
+    since: '2022-07-18T02:00:00',
+    till: '2022-07-18T02:35:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -44095,8 +44095,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T02:35:00',
-    till: '2022-05-25T03:00:00',
+    since: '2022-07-18T02:35:00',
+    till: '2022-07-18T03:00:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -44127,8 +44127,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T03:00:00',
-    till: '2022-05-25T04:00:00',
+    since: '2022-07-18T03:00:00',
+    till: '2022-07-18T04:00:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -44159,8 +44159,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T04:00:00',
-    till: '2022-05-25T05:00:00',
+    since: '2022-07-18T04:00:00',
+    till: '2022-07-18T05:00:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -44191,8 +44191,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T05:00:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:00:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -44223,8 +44223,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -44255,8 +44255,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -44287,8 +44287,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Nicaragua',
@@ -44318,8 +44318,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -44350,8 +44350,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T11:00:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T11:00:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -44382,8 +44382,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T11:00:00',
-    till: '2022-05-25T12:00:00',
+    since: '2022-07-18T11:00:00',
+    till: '2022-07-18T12:00:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -44414,8 +44414,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T12:00:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:00:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -44446,8 +44446,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Greece',
@@ -44477,8 +44477,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:20:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:20:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -44509,8 +44509,8 @@ export const epg = [
     description:
       'A gifted young teen tries to survive life with his dimwitted, dysfunctional family.',
     title: 'Malcolm in the Middle',
-    since: '2022-05-25T14:20:00',
-    till: '2022-05-25T15:00:00',
+    since: '2022-07-18T14:20:00',
+    till: '2022-07-18T15:00:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/ysaA0BInz4071p3LKqAQnWKZCsK.jpg',
@@ -44541,8 +44541,8 @@ export const epg = [
     description:
       'A doctor (Shepard) gets caught up in a war between two aliens (Edwards, Forster).',
     title: 'Peacemaker',
-    since: '2022-05-25T15:00:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:00:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w500_and_h282_face/ctxm191q5o3axFzQsvNPlbKoSYv.jpg',
@@ -44576,8 +44576,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -44608,8 +44608,8 @@ export const epg = [
     description:
       'Follow Timmy Turner\'s cousin, Vivian "Viv" Turner, and her new stepbrother, Roy Ragland, as they navigate life in Dimmsdale with the help of their fairy godparents, Wanda and Cosmo.',
     title: 'The Fairly OddParents',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/jlruzecsif3tkCSoHlUaPR01O7U.jpg',
@@ -44640,8 +44640,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:50:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:50:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -44672,8 +44672,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T19:50:00',
-    till: '2022-05-25T20:50:00',
+    since: '2022-07-18T19:50:00',
+    till: '2022-07-18T20:50:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -44704,8 +44704,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T20:50:00',
-    till: '2022-05-25T21:50:00',
+    since: '2022-07-18T20:50:00',
+    till: '2022-07-18T21:50:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -44736,8 +44736,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T21:50:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T21:50:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -44768,8 +44768,8 @@ export const epg = [
     description:
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
-    since: '2022-05-25T22:50:00',
-    till: '2022-05-25T23:50:00',
+    since: '2022-07-18T22:50:00',
+    till: '2022-07-18T23:50:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -44800,7 +44800,7 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T23:50:00',
+    since: '2022-07-18T23:50:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: 'cbed36d8-6f84-4844-84b2-c4c3876d19e3',
@@ -44834,8 +44834,8 @@ export const epg = [
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
     isYesterday: true,
-    since: '2022-05-24T23:10:00',
-    till: '2022-05-25T01:35:00',
+    since: '2022-07-17T23:10:00',
+    till: '2022-07-18T01:35:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -44866,8 +44866,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T01:35:00',
-    till: '2022-05-25T03:45:00',
+    since: '2022-07-18T01:35:00',
+    till: '2022-07-18T03:45:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -44898,8 +44898,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T03:45:00',
-    till: '2022-05-25T05:15:00',
+    since: '2022-07-18T03:45:00',
+    till: '2022-07-18T05:15:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -44929,8 +44929,8 @@ export const epg = [
     id: '5eebc496-e940-41c5-9047-39c26d26d75a',
     description: 'Comedian Jimmy Fallon hosts a late-night talk show.',
     title: 'Late Night with Jimmy Fallon',
-    since: '2022-05-25T05:15:00',
-    till: '2022-05-25T05:20:00',
+    since: '2022-07-18T05:15:00',
+    till: '2022-07-18T05:20:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uu5FuSKleCLh0Kq2pmGzlPH3aeS.jpg',
@@ -44961,8 +44961,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T05:20:00',
-    till: '2022-05-25T05:50:00',
+    since: '2022-07-18T05:20:00',
+    till: '2022-07-18T05:50:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -44993,8 +44993,8 @@ export const epg = [
     description:
       'Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.',
     title: 'The X-Files',
-    since: '2022-05-25T05:50:00',
-    till: '2022-05-25T06:25:00',
+    since: '2022-07-18T05:50:00',
+    till: '2022-07-18T06:25:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/bti49Yh5yXrRvsionBGwbh4UKlP.jpg',
@@ -45025,8 +45025,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T06:25:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:25:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -45057,8 +45057,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T07:55:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T07:55:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -45089,8 +45089,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T07:55:00',
-    till: '2022-05-25T11:50:00',
+    since: '2022-07-18T07:55:00',
+    till: '2022-07-18T11:50:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -45121,8 +45121,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T11:50:00',
-    till: '2022-05-25T12:30:00',
+    since: '2022-07-18T11:50:00',
+    till: '2022-07-18T12:30:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -45153,8 +45153,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T12:30:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T12:30:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -45185,8 +45185,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:35:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:35:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -45217,8 +45217,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T14:35:00',
-    till: '2022-05-25T15:15:00',
+    since: '2022-07-18T14:35:00',
+    till: '2022-07-18T15:15:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -45249,8 +45249,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T15:15:00',
-    till: '2022-05-25T16:15:00',
+    since: '2022-07-18T15:15:00',
+    till: '2022-07-18T16:15:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -45281,8 +45281,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T16:15:00',
-    till: '2022-05-25T17:15:00',
+    since: '2022-07-18T16:15:00',
+    till: '2022-07-18T17:15:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -45313,8 +45313,8 @@ export const epg = [
     description:
       'Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.',
     title: 'Friends',
-    since: '2022-05-25T17:15:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T17:15:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg',
@@ -45345,8 +45345,8 @@ export const epg = [
     description:
       'During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.',
     title: 'The Silent Sea',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:00:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:00:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg',
@@ -45377,8 +45377,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T18:00:00',
-    till: '2022-05-25T18:20:00',
+    since: '2022-07-18T18:00:00',
+    till: '2022-07-18T18:20:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -45409,8 +45409,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T18:20:00',
-    till: '2022-05-25T18:30:00',
+    since: '2022-07-18T18:20:00',
+    till: '2022-07-18T18:30:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -45445,8 +45445,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T18:30:00',
-    till: '2022-05-25T19:20:00',
+    since: '2022-07-18T18:30:00',
+    till: '2022-07-18T19:20:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -45477,8 +45477,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T19:20:00',
-    till: '2022-05-25T20:00:00',
+    since: '2022-07-18T19:20:00',
+    till: '2022-07-18T20:00:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -45509,8 +45509,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T20:00:00',
-    till: '2022-05-25T21:05:00',
+    since: '2022-07-18T20:00:00',
+    till: '2022-07-18T21:05:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -45541,8 +45541,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T21:05:00',
-    till: '2022-05-25T22:00:00',
+    since: '2022-07-18T21:05:00',
+    till: '2022-07-18T22:00:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -45573,8 +45573,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T22:00:00',
-    till: '2022-05-25T23:05:00',
+    since: '2022-07-18T22:00:00',
+    till: '2022-07-18T23:05:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -45605,7 +45605,7 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T23:05:00',
+    since: '2022-07-18T23:05:00',
     isTomorrow: true,
     till: '2022-05-26T00:15:00',
     channelUuid: '6ccddfa3-0c30-4eb9-a34e-f2ce5f328cac',
@@ -45639,8 +45639,8 @@ export const epg = [
       'Bounty hunter Boba Fett & mercenary Fennec Shand navigate the underworld when they return to Tatooine to claim Jabba the Hutt\'s old turf.',
     title: 'The Book of Boba Fett',
     isYesterday: true,
-    since: '2022-05-24T23:50:00',
-    till: '2022-05-25T00:45:00',
+    since: '2022-07-17T23:50:00',
+    till: '2022-07-18T00:45:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg',
@@ -45671,8 +45671,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T00:45:00',
-    till: '2022-05-25T01:45:00',
+    since: '2022-07-18T00:45:00',
+    till: '2022-07-18T01:45:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -45703,8 +45703,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T01:45:00',
-    till: '2022-05-25T02:00:00',
+    since: '2022-07-18T01:45:00',
+    till: '2022-07-18T02:00:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -45735,8 +45735,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T02:00:00',
-    till: '2022-05-25T02:35:00',
+    since: '2022-07-18T02:00:00',
+    till: '2022-07-18T02:35:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -45767,8 +45767,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T02:35:00',
-    till: '2022-05-25T03:00:00',
+    since: '2022-07-18T02:35:00',
+    till: '2022-07-18T03:00:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -45799,8 +45799,8 @@ export const epg = [
     description:
       'A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.',
     title: 'Euphoria',
-    since: '2022-05-25T03:00:00',
-    till: '2022-05-25T04:00:00',
+    since: '2022-07-18T03:00:00',
+    till: '2022-07-18T04:00:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image: 'https://images.fanart.tv/fanart/euphoria-2019-5ec8c62aa702d.jpg',
     country: 'Tajikistan',
@@ -45830,8 +45830,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T04:00:00',
-    till: '2022-05-25T05:00:00',
+    since: '2022-07-18T04:00:00',
+    till: '2022-07-18T05:00:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -45862,8 +45862,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T05:00:00',
-    till: '2022-05-25T06:00:00',
+    since: '2022-07-18T05:00:00',
+    till: '2022-07-18T06:00:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -45894,8 +45894,8 @@ export const epg = [
     description:
       'An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.',
     title: 'House',
-    since: '2022-05-25T06:00:00',
-    till: '2022-05-25T07:00:00',
+    since: '2022-07-18T06:00:00',
+    till: '2022-07-18T07:00:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg',
@@ -45926,8 +45926,8 @@ export const epg = [
     description:
       'A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.',
     title: 'Peaky Blinders',
-    since: '2022-05-25T07:00:00',
-    till: '2022-05-25T08:00:00',
+    since: '2022-07-18T07:00:00',
+    till: '2022-07-18T08:00:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg',
@@ -45958,8 +45958,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T08:00:00',
-    till: '2022-05-25T09:00:00',
+    since: '2022-07-18T08:00:00',
+    till: '2022-07-18T09:00:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -45990,8 +45990,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T09:00:00',
-    till: '2022-05-25T10:00:00',
+    since: '2022-07-18T09:00:00',
+    till: '2022-07-18T10:00:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -46022,8 +46022,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T10:00:00',
-    till: '2022-05-25T11:00:00',
+    since: '2022-07-18T10:00:00',
+    till: '2022-07-18T11:00:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -46058,8 +46058,8 @@ export const epg = [
     description:
       'The satiric adventures of a working-class family in the misfit city of Springfield.',
     title: 'The Simpsons',
-    since: '2022-05-25T11:00:00',
-    till: '2022-05-25T12:00:00',
+    since: '2022-07-18T11:00:00',
+    till: '2022-07-18T12:00:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg',
@@ -46094,8 +46094,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T12:00:00',
-    till: '2022-05-25T13:00:00',
+    since: '2022-07-18T12:00:00',
+    till: '2022-07-18T13:00:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -46126,8 +46126,8 @@ export const epg = [
     description:
       'After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.',
     title: 'The Flash',
-    since: '2022-05-25T13:00:00',
-    till: '2022-05-25T14:00:00',
+    since: '2022-07-18T13:00:00',
+    till: '2022-07-18T14:00:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/akuD37ySZGUkXR7LNb1oOHCboy8.jpg',
@@ -46158,8 +46158,8 @@ export const epg = [
     description:
       'The series will follow Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.',
     title: 'And Just Like That...',
-    since: '2022-05-25T14:00:00',
-    till: '2022-05-25T14:20:00',
+    since: '2022-07-18T14:00:00',
+    till: '2022-07-18T14:20:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/1CqkiWeuwlaMswG02q3mBmraiDM.jpg',
@@ -46190,8 +46190,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T14:20:00',
-    till: '2022-05-25T15:00:00',
+    since: '2022-07-18T14:20:00',
+    till: '2022-07-18T15:00:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -46222,8 +46222,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T15:00:00',
-    till: '2022-05-25T16:00:00',
+    since: '2022-07-18T15:00:00',
+    till: '2022-07-18T16:00:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -46254,8 +46254,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T16:00:00',
-    till: '2022-05-25T17:50:00',
+    since: '2022-07-18T16:00:00',
+    till: '2022-07-18T17:50:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -46286,8 +46286,8 @@ export const epg = [
     description:
       'The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.',
     title: 'SpongeBob SquarePants',
-    since: '2022-05-25T17:50:00',
-    till: '2022-05-25T18:50:00',
+    since: '2022-07-18T17:50:00',
+    till: '2022-07-18T18:50:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/maFEWU41jdUOzDfRVkojq7fluIm.jpg',
@@ -46318,8 +46318,8 @@ export const epg = [
     description:
       'A comedy revolving around a group of teenage friends, their mishaps, and their coming of age, set in 1970s Wisconsin.',
     title: 'That \'70s Show',
-    since: '2022-05-25T18:50:00',
-    till: '2022-05-25T19:50:00',
+    since: '2022-07-18T18:50:00',
+    till: '2022-07-18T19:50:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/3zRUiH8erHIgNUBTj05JT00HwsS.jpg',
@@ -46350,8 +46350,8 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T19:50:00',
-    till: '2022-05-25T20:50:00',
+    since: '2022-07-18T19:50:00',
+    till: '2022-07-18T20:50:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/lW3r6Fb7dwZ0bpGwjYHMVkgSVRt.jpg',
@@ -46382,8 +46382,8 @@ export const epg = [
     description:
       'Listen to highlights and extended interviews in the "Ears Edition" of The Daily Show with Trevor Noah. From Comedy Central\'s Podcast Network.',
     title: 'The Daily Show with Trevor Noah: Ears Edition',
-    since: '2022-05-25T20:50:00',
-    till: '2022-05-25T21:50:00',
+    since: '2022-07-18T20:50:00',
+    till: '2022-07-18T21:50:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg',
@@ -46414,8 +46414,8 @@ export const epg = [
     description:
       'A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.',
     title: 'How I Met Your Mother',
-    since: '2022-05-25T21:50:00',
-    till: '2022-05-25T22:50:00',
+    since: '2022-07-18T21:50:00',
+    till: '2022-07-18T22:50:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/gvEisYtZ0iBMjnO3zqFU2oM26oM.jpg',
@@ -46446,8 +46446,8 @@ export const epg = [
     description:
       'Conan O\'Brien, a Harvard Lampoon alumnus, hosts this late-night comedy/talk-show, which is often silly and whimsical.',
     title: 'Late Night with Conan O\'Brien',
-    since: '2022-05-25T22:50:00',
-    till: '2022-05-25T23:50:00',
+    since: '2022-07-18T22:50:00',
+    till: '2022-07-18T23:50:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',
     image:
       'https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg',
@@ -46478,7 +46478,7 @@ export const epg = [
     description:
       'A hedonistic jingle writer\'s free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.',
     title: 'Two and a Half Men',
-    since: '2022-05-25T23:50:00',
+    since: '2022-07-18T23:50:00',
     isTomorrow: true,
     till: '2022-05-26T00:45:00',
     channelUuid: '45f3f5e3-3f95-4865-8f31-a69b0f74db9e',

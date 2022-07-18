@@ -2,7 +2,7 @@
 import { getProgramOptions, isFutureTime } from '../helpers'
 import type { BaseTimeFormat, ChannelWithPosiiton, DateTime, Position, ProgramItem } from '../helpers/types'
 import { useEpgStore } from '../store'
-import Line from './Line/Line.vue'
+import Line from './Line.vue'
 import Timeline from './Timeline.vue'
 import Channels from './Channels.vue'
 import Program from './Program.vue'

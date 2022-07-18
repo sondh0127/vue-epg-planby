@@ -1,9 +1,19 @@
-import { startOfDay } from 'date-fns'
-
+<script lang="ts" setup>
+import { isToday, startOfDay } from 'date-fns'
 import type { Ref } from 'vue'
-import type { DateTime } from '../../helpers/types'
+import type { DateTime } from '../helpers/types'
 
-import { HOUR_IN_MINUTES, PROGRAM_REFRESH, getPositionX } from '../../helpers'
+import { HOUR_IN_MINUTES, PROGRAM_REFRESH, getPositionX } from '../helpers'
+import { useEpgStore } from '../store'
+
+const props = defineProps<{
+  height: number
+  startDate: DateTime
+  endDate: DateTime
+  dayWidth: number
+  hourWidth: number
+  sidebarWidth: number
+}>()
 
 interface useLineProps {
   startDate: Ref<DateTime>
@@ -13,7 +23,7 @@ interface useLineProps {
   sidebarWidth: Ref<number>
 }
 
-export function useLine({
+function useLine({
   startDate,
   endDate,
   dayWidth,
@@ -56,3 +66,25 @@ export function useLine({
 
   return { positionX }
 }
+
+const { startDate, endDate, dayWidth, hourWidth, sidebarWidth } = toRefs(props)
+
+const { positionX } = useLine({
+  startDate, endDate, dayWidth, hourWidth, sidebarWidth,
+})
+
+const date = new Date(props.startDate)
+const { theme } = useEpgStore()
+</script>
+
+<template>
+  <div
+    v-if="isToday(date)"
+    class="absolute top-64px w-3px pointer-events-none z-100"
+    :style="{
+      height: `${height}px`,
+      left: `${positionX}px`,
+      background: `${theme.green['300']}`,
+    }"
+  />
+</template>

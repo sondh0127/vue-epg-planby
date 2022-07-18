@@ -4,6 +4,8 @@ import Vue from '@vitejs/plugin-vue'
 import AutoImport from 'unplugin-auto-import/vite'
 import Unocss from 'unocss/vite'
 import Inspector from 'vite-plugin-vue-inspector'
+import Components from 'unplugin-vue-components/vite'
+import { ElementPlusResolver } from 'unplugin-vue-components/resolvers'
 
 export default defineConfig(({ mode }) => {
   const isProd = mode === 'prod'
@@ -95,6 +97,15 @@ export default defineConfig(({ mode }) => {
       }),
       Unocss(),
       Inspector(),
+      Components({
+        resolvers: [
+          ElementPlusResolver({
+            importStyle: 'sass',
+          }),
+        ],
+        include: [/\.vue$/, /\.vue\?vue/, /\.md$/],
+        dts: './src/components.d.ts',
+      }),
     ],
     optimizeDeps,
     build,

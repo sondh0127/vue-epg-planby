@@ -1,10 +1,10 @@
 <script lang="ts" setup>
-import type { Channel, Program, Theme } from '../dist'
-import { Epg, Layout, useEpg } from '../dist'
-import '../dist/style.css'
+// import type { Channel, Program, Theme } from '../dist'
+// import { Epg, Layout, useEpg } from '../dist'
+// import '../dist/style.css'
 
-// import type { Channel, Program, Theme } from './Epg'
-// import { Epg, Layout, useEpg } from './Epg'
+import type { Channel, Program, Theme } from '../src/Epg'
+import { Epg, Layout, useEpg } from '../src/Epg'
 
 import { fetchChannels, fetchEpg } from './helpers'
 
@@ -57,7 +57,7 @@ const channels = ref<Channel[]>([])
 const epg = ref<Program[]>([])
 const isLoading = ref(false)
 
-const { getEpgProps, getLayoutProps } = useEpg({
+const { getEpgProps, getLayoutProps, onScrollToNow } = useEpg({
   channels,
   epg,
   dayWidth: 7200,
@@ -66,8 +66,8 @@ const { getEpgProps, getLayoutProps } = useEpg({
   isSidebar: true,
   isTimeline: true,
   isLine: true,
-  startDate: '2022-05-25T00:00:00',
-  endDate: '2022-05-25T24:00:00',
+  startDate: '2022-07-18T00:00:00',
+  endDate: '2022-07-18T24:00:00',
   isBaseTimeFormat: true,
   theme,
 })
@@ -81,6 +81,14 @@ onMounted(async () => {
 </script>
 
 <template>
+  <div class="flex flex-wrap p-5px">
+    <el-card class="w-full">
+      <el-button class="" @click="onScrollToNow()">
+        Now
+      </el-button>
+    </el-card>
+  </div>
+
   <div class="w-full h-80vh">
     <Epg :is-loading="isLoading" v-bind="getEpgProps()">
       <Layout v-bind="getLayoutProps()" />
