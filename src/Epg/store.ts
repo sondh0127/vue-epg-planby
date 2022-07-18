@@ -1,7 +1,8 @@
+import type { MaybeRef } from '@vueuse/core'
 import type { Theme } from './helpers'
 
 interface EpgStore {
-  theme: Theme
+  theme: MaybeRef<Theme>
   sidebarWidth: number
 }
 

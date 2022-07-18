@@ -2,6 +2,7 @@ import { startOfToday } from 'date-fns'
 
 // Import interfaces
 import type { Ref } from 'vue'
+import type { MaybeRef } from '@vueuse/core'
 import type { Channel, Program, Theme } from '../helpers/interfaces'
 
 // Import types
@@ -40,7 +41,7 @@ interface useEpgProps {
   isSidebar?: boolean
   isTimeline?: boolean
   isLine?: boolean
-  theme?: Theme
+  theme?: MaybeRef<Theme>
   dayWidth?: number
   sidebarWidth?: number
   itemHeight?: number
@@ -114,7 +115,7 @@ export function useEpg({
       }),
   )
 
-  const theme: Theme = customTheme || defaultTheme
+  const theme: MaybeRef<Theme> = customTheme || defaultTheme
   // -------- Handlers --------
   const isProgramVisible = (position: Position) =>
     getItemVisibility(

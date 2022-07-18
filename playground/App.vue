@@ -8,7 +8,7 @@ import { Epg, Layout, useEpg } from '../src/Epg'
 
 import { fetchChannels, fetchEpg } from './helpers'
 
-const theme: Theme = {
+const darkTheme: Theme = {
   primary: {
     600: '#1a202c',
     900: '#171923',
@@ -53,6 +53,67 @@ const theme: Theme = {
   },
 }
 
+const themeLight: Theme = {
+  primary: {
+    600: '#f7fafc',
+    900: '#cbd5e0',
+  },
+  grey: { 300: '#2d3748' },
+  white: '#1a202c',
+  green: {
+    300: '#2C7A7B',
+  },
+  loader: {
+    teal: '#5DDADB',
+    purple: '#3437A2',
+    pink: '#F78EB6',
+    bg: '#171923db',
+  },
+  scrollbar: {
+    border: '#ffffff',
+    thumb: {
+      bg: '#718096',
+    },
+  },
+
+  gradient: {
+    blue: {
+      300: '#a0aec0',
+      600: '#e2e8f0',
+      900: '#a0aec0',
+    },
+  },
+
+  text: {
+    grey: {
+      300: '#2d3748',
+      500: '#1a202c',
+    },
+  },
+
+  timeline: {
+    divider: {
+      bg: '#1a202c',
+    },
+  },
+}
+
+const themeValue = ref('dark')
+const options = [
+  {
+    label: 'Dark theme',
+    value: 'dark',
+  },
+  {
+    label: 'Light theme',
+    value: 'light',
+  },
+]
+
+const theme = computed(() => {
+  return themeValue.value === 'dark' ? darkTheme : themeLight
+})
+
 const channels = ref<Channel[]>([])
 const epg = ref<Program[]>([])
 const isLoading = ref(false)
@@ -83,9 +144,19 @@ onMounted(async () => {
 <template>
   <div class="flex flex-wrap p-5px">
     <el-card class="w-full">
-      <el-button class="" @click="onScrollToNow()">
-        Now
-      </el-button>
+      <div class="flex items-center gap-5px">
+        <el-button class="" @click="onScrollToNow()">
+          Now
+        </el-button>
+        <el-select v-model="themeValue" placeholder="Select theme">
+          <el-option
+            v-for="item in options"
+            :key="item.value"
+            :label="item.label"
+            :value="item.value"
+          />
+        </el-select>
+      </div>
     </el-card>
   </div>
 
