@@ -1,105 +1,91 @@
 ## Vue EPG Planby
-[![License](https://img.shields.io/github/license/logustra/vue-epg-planby)](https://github.com/logustra/vue-epg-planby/blob/master/license.md)
+[![License](https://img.shields.io/github/license/logustra/vue-epg-planby)](https://github.com/sondh0127/vue-epg-planby/blob/master/license.md)
 [![Code Style](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![Commitizen](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli)
 
-> Starter template to build component library for vue.js 2-3
+> Electronic Program Guide (EPG) is a digital TV program that is used to display information about a channel's programs.
+
+> Vue EPG Planby is a Vue components for EPG based Timeline, (ported from [planby](https://github.com/karolkozer/planby) - React based)
 
 ## Features
-- Faster by default: [vite](https://github.com/vitejs/vite), [vue](https://github.com/vuejs/vue-next), [pnpm](https://github.com/pnpm/pnpm), [esbuild](https://github.com/evanw/esbuild)
-- Typescript, of course
-- Testing: [vitest](https://vitest.dev/)
-- Git custom hooks: [husky](https://github.com/typicode/husky)
-- Commit conventions: [commitizen](https://github.com/commitizen/cz-cli)
-- Linters: [commitlint](https://github.com/conventional-changelog/commitlint), [eslint](https://github.com/eslint/eslint), [@antfu/eslint-config](https://github.com/antfu/eslint-config)
-- CI/CD: [github actions](https://github.com/features/actions)
+- Faster by default:
 
-## Requirement
-  - [node.js](http://nodejs.org/)
-  - [volta](https://docs.volta.sh/guide/getting-started)
-  - [pnpm](https://pnpm.js.org/en/installation)
-  - [encrypted secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets)
-
-## Getting Started
-### GitHub Template
-
-[Create a repo from this template on GitHub](https://github.com/logustra/vue-epg-planby/generate).
-
-### Clone to local
-If you prefer to do it manually with the cleaner git history
-
-```bash
-# clone repository
-$ git clone https://github.com/logustra/vue-epg-planby.git
-
-# open folder vue-epg-planby
-$ cd vue-epg-planby
-
+## Installation
+```sh
 # install packages
-$ pnpm install
-
-# build and serve with vite dev server
-$ pnpm dev
+$ pnpm install vue-epg-planby
 ```
+
+
+## Usage
+Vue 3 (Vue 2.7)
+### Basic Usage
+```ts
+import 'vue-epg-planby/style.css'
+import { Epg, Layout, useEpg } from 'vue-epg-planby'
+import type { Channel, Program, Theme } from 'vue-epg-planby'
+
+const channels = ref<Channel[]>([])
+const epg = ref<Program[]>([])
+const isLoading = ref(false)
+
+const { getEpgProps, getLayoutProps } = useEpg({
+  channels,
+  epg,
+  dayWidth: 7200,
+  sidebarWidth: 100,
+  itemHeight: 80,
+  isSidebar: true,
+  isTimeline: true,
+  isLine: true,
+  startDate: '2022-05-25T00:00:00',
+  endDate: '2022-05-25T24:00:00',
+  isBaseTimeFormat: true,
+  theme,
+})
+
+onMounted(async () => {
+  isLoading.value = true
+  epg.value = await fetchEpg()
+  channels.value = await fetchChannels()
+  isLoading.value = false
+})
+
+```
+
+```html
+<div class="w-full h-80vh">
+  <Epg :is-loading="isLoading" v-bind="getEpgProps()">
+    <Layout v-bind="getLayoutProps()" />
+  </Epg>
+</div>
+```
+
+[Demo →](https://stackblitz.com/edit/)
+
 
 ## Checklist
 When you use this template, try follow the checklist to update your info properly
 
-- [ ] Change `name, description, repository, bugs` field in `package.json`
-- [ ] Change the author name in `LICENSE`
-- [ ] Change the lib name in `vite.config.ts`
-- [ ] Change the favicon in `public`
-- [ ] Remove the `.github` folder which contains the funding info
-- [ ] Clean up the README(s) and remove modules
+- [ ] full Interactive Demo
+- [ ] Light | Dark Theme
+- [ ] Zooming use dayWidth
+- [ ] stackblitz demo
+- [ ] Testing
+- [ ] Loader
+- [ ] renderProps => <component/>
+- [ ] Vue 2.7 Test
 
-And, enjoy :)
-
-## Publish to NPM
-Make sure you have added the `GIT_TOKEN` and `NPM_TOKEN` encrypted secrets
-
-```bash
-# tag git history
-$ git tag v0.0.1 -m 'v0.0.1'
-
-# push tag to git
-$ git push origin --tags
-```
-
-## Usage
-### Setup
-Vue 3
-```js
-import { createApp } from 'vue'
-import HelloWorld from '@sondh0127/vue-epg-planby'
-import App from './app.vue'
-
-const app = createApp(App)
-app.use(HelloWorld)
-```
-
-Vue 2
-```js
-import Vue from 'vue'
-import CompositionAPI from '@vue/composition-api'
-import HelloWorld from '@sondh0127/vue-epg-planby'
-
-Vue.use(CompositionAPI)
-Vue.use(HelloWorld)
-```
-
-### Basic Usage
-```html
-<template>
-  <hello-world />
-</template>
-```
-[Demo →](https://stackblitz.com/edit/vitejs-vite-e7qhxx?file=src%2FApp.vue)
 
 ## Cheer me on
 If you like my works, you can cheer me on here 😆
 
-&nbsp; &nbsp; 🇮🇩 [Trakteer](https://trakteer.id/sondh0127/tip)<br>
-&nbsp; &nbsp; 🌍 [Ko-Fi](https://ko-fi.com/sondh0127)<br>
+<!-- &nbsp; &nbsp; [Trakteer](https://trakteer.id/sondh0127/tip)<br> -->
 
 ## License
-MIT License © 2022 Faizal Andyka
+MIT License © 2022 Son Hong Do
+
+## Credits
+
+Karol Kozer - [@kozerkarol_twitter](https://twitter.com/kozerkarol)
+Planby: [https://github.com/karolkozer/planby](https://github.com/karolkozer/planby)
