@@ -61,7 +61,7 @@ onMounted(async () => {
 </div>
 ```
 
-[Demo →](https://stackblitz.com/edit/)
+[Demo →](https://stackblitz.com/edit/vue-epg-planby-demo?file=src%2FApp.vue)
 
 
 ## Checklist
