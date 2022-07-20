@@ -1,5 +1,5 @@
 /* eslint-disable promise/param-names */
-import type { Channel, Program } from '../../src/Epg'
+import type { Channel, Program } from '@sondh0127/vue-epg-planby'
 import { channels } from './channels'
 import { epg } from './epg'
 

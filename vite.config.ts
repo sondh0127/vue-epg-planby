@@ -46,6 +46,7 @@ export default defineConfig(({ mode }) => {
   }
 
   let optimizeDeps = {}
+  let alias = []
   if (isDev) {
     /**
      * DESC:
@@ -54,6 +55,12 @@ export default defineConfig(({ mode }) => {
     optimizeDeps = {
       exclude: ['vue-demi'],
     }
+    alias = [
+      {
+        find: '@sondh0127/vue-epg-planby',
+        replacement: resolve(__dirname, './src'),
+      },
+    ]
   }
 
   let test = {}
@@ -121,6 +128,7 @@ export default defineConfig(({ mode }) => {
           find: '@',
           replacement: resolve(__dirname, './src'),
         },
+        ...alias,
       ],
     },
     server: {

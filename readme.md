@@ -67,15 +67,15 @@ onMounted(async () => {
 ## Checklist
 When you use this template, try follow the checklist to update your info properly
 
-- [ ] full Interactive Demo
-- [ ] Light | Dark Theme
+- [x] full Interactive Demo
+- [x] Light | Dark Theme
 - [ ] Zooming use dayWidth
-- [ ] stackblitz demo
+- [x] stackblitz demo
 - [ ] Testing
 - [ ] Loader
 - [ ] renderProps => <component/>
 - [ ] Vue 2.7 Test
-
+- [ ] Ref => MaybeRef => new convention of passing reactive getters as arguments. [https://github.com/vueuse/vueuse/releases/tag/v9.0.0-beta.0](https://github.com/vueuse/vueuse/releases/tag/v9.0.0-beta.0)
 
 ## Cheer me on
 If you like my works, you can cheer me on here 😆

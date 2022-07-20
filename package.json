@@ -30,7 +30,7 @@
   "module": "./dist/index.es.js",
   "unpkg": "./dist/index.umd.js",
   "jsdelivr": "./dist/index.umd.js",
-  "types": "./dist/types/index.d.ts",
+  "types": "./dist/index.d.ts",
   "files": [
     "dist"
   ],
@@ -65,6 +65,7 @@
     }
   },
   "dependencies": {
+    "@sondh0127/vue-epg-planby": "^0.2.5",
     "date-fns": "^2.28.0",
     "vue-demi": "^0.13.5"
   },

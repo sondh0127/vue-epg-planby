@@ -1,10 +1,8 @@
 <script lang="ts" setup>
-// import type { Channel, Program, Theme } from '../dist'
-// import { Epg, Layout, useEpg } from '../dist'
-// import '../dist/style.css'
-import { addDays, addHours, endOfDay, format, parseISO, secondsToHours, startOfDay, subDays } from 'date-fns'
-import type { Channel, Program, Theme } from '../src/Epg'
-import { Epg, Layout, TIME_FORMAT, formatTime, useEpg } from '../src/Epg'
+import { addDays, addHours, endOfDay, format, startOfDay, subDays } from 'date-fns'
+import type { Channel, Program, Theme } from '@sondh0127/vue-epg-planby'
+import { Epg, Layout, TIME_FORMAT, formatTime, useEpg } from '@sondh0127/vue-epg-planby'
+// import '@sondh0127/vue-epg-planby/style.css'
 
 import { fetchChannels, fetchEpg } from './helpers'
 
