@@ -3,7 +3,7 @@ import type { Theme } from './helpers'
 
 interface EpgStore {
   theme: MaybeRef<Theme>
-  sidebarWidth: number
+  sidebarWidth: MaybeRef<number>
 }
 
 const [useProvideEpgStore, _useEpgStore] = createInjectionState((store: EpgStore) => {

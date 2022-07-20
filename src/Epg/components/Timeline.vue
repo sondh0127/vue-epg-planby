@@ -17,8 +17,8 @@ const props = defineProps<{
 const { theme } = useEpgStore()
 
 const { time, dividers, formatTime } = useTimeline(
-  props.numberOfHoursInDay,
-  props.isBaseTimeFormat,
+  toRef(props, 'numberOfHoursInDay'),
+  toRef(props, 'isBaseTimeFormat'),
 )
 </script>
 

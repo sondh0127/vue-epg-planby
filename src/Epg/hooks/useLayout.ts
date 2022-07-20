@@ -14,9 +14,9 @@ interface useLayoutProps {
   height?: number
   width?: number
   hourWidth: Ref<number>
-  sidebarWidth: number
-  startDate: DateTime
-  endDate: DateTime
+  sidebarWidth: Ref<number>
+  startDate: Ref<DateTime>
+  endDate: Ref<DateTime>
 }
 
 export function useLayout({
@@ -35,7 +35,7 @@ export function useLayout({
   const scrollX = ref(0)
   const layoutWidth = ref(width as number)
   const layoutHeight = ref(height as number)
-  const isToday = isTodayFns(new Date(startDate))
+  const isToday = computed(() => isTodayFns(new Date(startDate.value)))
 
   // -------- Handlers --------
 
@@ -55,7 +55,7 @@ export function useLayout({
   }
 
   const handleOnScrollToNow = () => {
-    if (scrollBoxRef?.value && isToday) {
+    if (scrollBoxRef?.value && isToday.value) {
       const clientWidth = (width
         ?? containerRef.value?.clientWidth) as number
 
@@ -63,11 +63,11 @@ export function useLayout({
       const scrollPosition = getPositionX(
         startOfToday(),
         newDate,
-        startDate,
-        endDate,
+        startDate.value,
+        endDate.value,
         hourWidth.value,
       )
-      const scrollNow = scrollPosition - clientWidth / 2 + sidebarWidth
+      const scrollNow = scrollPosition - clientWidth / 2 + sidebarWidth.value
       scrollBoxRef.value.scrollLeft = scrollNow
     }
   }

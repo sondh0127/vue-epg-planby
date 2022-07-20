@@ -21,9 +21,10 @@ import {
   getConvertedChannels,
   getConvertedPrograms,
   getDayWidthResources,
+  getDefaultEndDate,
   getItemVisibility,
   getSidebarItemVisibility,
-  getTimeRangeDates,
+  // getTimeRangeDates,
 } from '../helpers'
 
 // Import components
@@ -35,16 +36,16 @@ interface useEpgProps {
   epg: Ref<Program[]>
   width?: number
   height?: number
-  startDate?: DateTime
-  endDate?: DateTime
-  isBaseTimeFormat?: BaseTimeFormat
-  isSidebar?: boolean
-  isTimeline?: boolean
+  startDate?: Ref<DateTime>
+  endDate?: Ref<DateTime>
+  isBaseTimeFormat?: Ref<BaseTimeFormat>
+  isSidebar?: Ref<boolean>
+  isTimeline?: Ref<boolean>
   isLine?: boolean
   theme?: MaybeRef<Theme>
-  dayWidth?: number
-  sidebarWidth?: number
-  itemHeight?: number
+  dayWidth?: Ref<number>
+  sidebarWidth?: Ref<number>
+  itemHeight?: Ref<number>
   itemOverscan?: number
 }
 
@@ -53,30 +54,31 @@ const defaultStartDateTime = formatTime(startOfToday())
 export function useEpg({
   channels: channelsEpg,
   epg,
-  startDate: startDateInput = defaultStartDateTime,
-  endDate: endDateInput = '',
-  isBaseTimeFormat = false,
-  isSidebar = true,
-  isTimeline = true,
+  startDate: startDateInput = ref(defaultStartDateTime),
+  endDate: endDateInput = ref(''),
+  isBaseTimeFormat = ref(false),
+  isSidebar = ref(true),
+  isTimeline = ref(true),
   isLine = true,
   theme: customTheme,
-  dayWidth: customDayWidth = DAY_WIDTH,
-  sidebarWidth = SIDEBAR_WIDTH,
-  itemHeight = ITEM_HEIGHT,
+  dayWidth: customDayWidth = ref(DAY_WIDTH),
+  sidebarWidth = ref(SIDEBAR_WIDTH),
+  itemHeight = ref(ITEM_HEIGHT),
   itemOverscan = ITEM_OVERSCAN,
   width,
   height,
 }: useEpgProps) {
   // Get converted start and end dates
-  const { startDate, endDate } = getTimeRangeDates(
-    startDateInput,
-    endDateInput,
-  )
+  // const { startDate, endDate } = getTimeRangeDates(startDateInput, endDateInput)
+  const startDate = refDefault(startDateInput, defaultStartDateTime)
+  const endDate = refDefault(endDateInput, getDefaultEndDate(startDate.value))
 
   // Get day and hour width of the day
   const dayWidthResourcesProps = computed(
     () =>
-      getDayWidthResources({ dayWidth: customDayWidth, startDate, endDate }),
+      getDayWidthResources({
+        dayWidth: customDayWidth.value, startDate: startDate.value, endDate: endDate.value,
+      }),
   )
 
   const hourWidth = computed(() => dayWidthResourcesProps.value.hourWidth)
@@ -98,19 +100,17 @@ export function useEpg({
 
   // -------- Variables --------
   const channels = computed(
-    () => getConvertedChannels(channelsEpg.value, itemHeight),
+    () => getConvertedChannels(channelsEpg.value, itemHeight.value),
   )
 
-  const startDateTime = formatTime(startDate)
-  const endDateTime = formatTime(endDate)
   const programs = computed(
     () =>
       getConvertedPrograms({
         data: epg.value,
         channels: channels.value,
-        startDate: startDateTime,
-        endDate: endDateTime,
-        itemHeight,
+        startDate: formatTime(startDate.value),
+        endDate: formatTime(endDate.value),
+        itemHeight: itemHeight.value,
         hourWidth: hourWidth.value,
       }),
   )
@@ -130,14 +130,23 @@ export function useEpg({
   const isChannelVisible = (position: Pick<Position, 'top'>) =>
     getSidebarItemVisibility(position, scrollY.value, layoutHeight.value, itemOverscan)
 
-  const getEpgProps = () => ({
+  const getEpgProps = (): {
+    width?: number
+    height?: number
+    isSidebar: boolean
+    isTimeline?: boolean
+    isLoading?: boolean
+    loader?: string
+    theme: Theme
+    sidebarWidth: number
+    setContainerRef: (ref: any) => void
+  } => ({
     width,
     height,
-    isSidebar,
-    isLine,
-    isTimeline,
-    sidebarWidth,
-    theme,
+    isSidebar: isSidebar.value,
+    isTimeline: isTimeline.value,
+    sidebarWidth: sidebarWidth.value,
+    theme: unref(theme),
     setContainerRef: (el: HTMLDivElement) => containerRef.value = el,
   })
 
@@ -164,18 +173,18 @@ export function useEpg({
   } => ({
     programs: programs.value,
     channels: channels.value,
-    startDate,
-    endDate,
+    startDate: startDate.value,
+    endDate: endDate.value,
     scrollY: scrollY.value,
     onScroll,
-    isBaseTimeFormat,
-    isSidebar,
-    isTimeline,
+    isBaseTimeFormat: isBaseTimeFormat.value,
+    isSidebar: isSidebar.value,
+    isTimeline: isTimeline.value,
     isLine,
     isProgramVisible,
     isChannelVisible,
-    sidebarWidth,
-    itemHeight,
+    sidebarWidth: sidebarWidth.value,
+    itemHeight: itemHeight.value,
     hourWidth: dayWidthResourcesProps.value.hourWidth,
     dayWidth: dayWidthResourcesProps.value.dayWidth,
     numberOfHoursInDay: dayWidthResourcesProps.value.numberOfHoursInDay,
@@ -185,7 +194,7 @@ export function useEpg({
 
   useProvideEpgStore({
     theme,
-    sidebarWidth: sidebarWidth || 200,
+    sidebarWidth,
   })
 
   return {

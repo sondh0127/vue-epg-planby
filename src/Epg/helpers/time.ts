@@ -44,5 +44,9 @@ export const getTimeRangeDates = (
   if (endDate === '')
     endDateValue = formatTime(startOfDay(addDays(new Date(startDate), 1)))
 
-  return { startDate, endDate: endDateValue }
+  return { startDate, endDate: ref(endDateValue) }
+}
+
+export function getDefaultEndDate(startDate: DateRangeTime) {
+  return formatTime(startOfDay(addDays(new Date(startDate), 1)))
 }

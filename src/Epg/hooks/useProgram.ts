@@ -1,14 +1,15 @@
 import { format } from 'date-fns'
 
 // Import types
+import type { Ref } from 'vue'
 import type { BaseTimeFormat, ProgramItem } from '../helpers/types'
 
 // Import helpers
 import { PROGRAM_REFRESH, TIME_FORMAT, getLiveStatus, omit } from '../helpers'
 
 interface useProgramProps<T> {
-  program: T
-  isBaseTimeFormat: BaseTimeFormat
+  program: Ref<T>
+  isBaseTimeFormat: Ref<BaseTimeFormat>
   minWidth?: number
 }
 
@@ -17,14 +18,12 @@ export function useProgram<T extends ProgramItem>({
   isBaseTimeFormat,
   minWidth = 200,
 }: useProgramProps<T>) {
-  const { data, position } = program
+  const { data, position } = program.value
   const { width } = position
 
   const { since, till } = data
 
   const isLive = ref(getLiveStatus(since, till))
-
-  const newPosition = omit(position, 'egdeEnd')
 
   const formatTime = (
     date: string | number | Date,
@@ -32,7 +31,7 @@ export function useProgram<T extends ProgramItem>({
   ) => format(new Date(date), formatType).replace(/\s/g, '')
 
   const set12HoursTimeFormat = () => {
-    if (isBaseTimeFormat)
+    if (isBaseTimeFormat.value)
       return TIME_FORMAT.BASE_HOURS_TIME
     return TIME_FORMAT.HOURS_MIN
   }
@@ -49,14 +48,17 @@ export function useProgram<T extends ProgramItem>({
     set12HoursTimeFormat,
     isLive,
     isMinWidth,
-    styles: {
-      width,
-      position: {
-        width: `${newPosition.width}px`,
-        height: `${newPosition.height}px`,
-        top: `${newPosition.top}px`,
-        left: `${newPosition.left}px`,
-      },
-    },
+    styles: computed(() => {
+      const newPosition = omit(program.value.position, 'egdeEnd')
+      return {
+        width,
+        position: {
+          width: `${newPosition.width}px`,
+          height: `${newPosition.height}px`,
+          top: `${newPosition.top}px`,
+          left: `${newPosition.left}px`,
+        },
+      }
+    }),
   }
 }

@@ -20,8 +20,8 @@ const {
   isLive,
   isMinWidth,
 } = useProgram({
-  program: props.program,
-  isBaseTimeFormat: props.isBaseTimeFormat,
+  program: toRef(props, 'program'),
+  isBaseTimeFormat: toRef(props, 'isBaseTimeFormat'),
 })
 
 const { theme } = useEpgStore()
@@ -44,7 +44,7 @@ const { theme } = useEpgStore()
       }" @click="emit('click', data)"
     >
       <div class="flex w-full justify-start">
-        <img v-if="isLive && isMinWidth" :src="data.image" alt="Preview">
+        <img v-if="isLive && isMinWidth" class="mr-15px rounded-6px w-100px" :src="data.image" alt="Preview">
         <div class="overflow-hidden">
           <div
             class="text-14px font-medium text-left mt-0 mb-5px truncate" :style="{
