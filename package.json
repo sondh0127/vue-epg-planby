@@ -65,7 +65,7 @@
     }
   },
   "dependencies": {
-    "@sondh0127/vue-epg-planby": "^0.2.5",
+    "@sondh0127/vue-epg-planby": "^0.2.6",
     "date-fns": "^2.28.0",
     "vue-demi": "^0.13.5"
   },

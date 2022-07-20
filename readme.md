@@ -8,12 +8,12 @@
 > Vue EPG Planby is a Vue components for EPG based Timeline, (ported from [planby](https://github.com/karolkozer/planby) - React based)
 
 ## Features
-- Faster by default:
+- Full reactivity props
 
 ## Installation
 ```sh
 # install packages
-$ pnpm install vue-epg-planby
+$ pnpm install @sondh0127/vue-epg-planby
 ```
 
 
@@ -22,25 +22,25 @@ Vue 3 (Vue 2.7)
 ### Basic Usage
 ```ts
 import 'vue-epg-planby/style.css'
-import { Epg, Layout, useEpg } from 'vue-epg-planby'
-import type { Channel, Program, Theme } from 'vue-epg-planby'
+import { Epg, Layout, useEpg } from '@sondh0127/vue-epg-planby'
+import type { Channel, Program, Theme } from '@sondh0127/vue-epg-planby'
 
 const channels = ref<Channel[]>([])
 const epg = ref<Program[]>([])
 const isLoading = ref(false)
 
-const { getEpgProps, getLayoutProps } = useEpg({
+const { getEpgProps, getLayoutProps, onScrollToNow } = useEpg({
   channels,
   epg,
-  dayWidth: 7200,
-  sidebarWidth: 100,
-  itemHeight: 80,
-  isSidebar: true,
-  isTimeline: true,
+  dayWidth,
+  sidebarWidth,
+  itemHeight,
+  isSidebar,
+  isTimeline,
   isLine: true,
-  startDate: '2022-05-25T00:00:00',
-  endDate: '2022-05-25T24:00:00',
-  isBaseTimeFormat: true,
+  startDate,
+  endDate,
+  isBaseTimeFormat,
   theme,
 })
 
@@ -88,4 +88,5 @@ MIT License © 2022 Son Hong Do
 ## Credits
 
 Karol Kozer - [@kozerkarol_twitter](https://twitter.com/kozerkarol)
-Planby: [https://github.com/karolkozer/planby](https://github.com/karolkozer/planby)
+
+Planby: React based [https://github.com/karolkozer/planby](https://github.com/karolkozer/planby)
