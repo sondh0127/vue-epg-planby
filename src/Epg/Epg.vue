@@ -3,13 +3,12 @@ import type { Theme } from './helpers'
 import SideBar from './components/SideBar.vue'
 import Loader from './components/Loader.vue'
 
-const props = defineProps<{
+defineProps<{
   width?: number
   height?: number
   isSidebar: boolean
   isTimeline?: boolean
   isLoading?: boolean
-  loader?: string
   theme: Theme
   sidebarWidth: number
   setContainerRef: (ref: any) => void
@@ -24,8 +23,9 @@ const props = defineProps<{
     <div class="h-full w-full flex flex-col relative rounded overflow-hidden">
       <SideBar v-if="isSidebar && isTimeline" />
       <template v-if="isLoading">
-        <component :is="loader" v-if="loader" />
-        <Loader v-else />
+        <slot name="loader">
+          <Loader />
+        </slot>
       </template>
       <slot />
     </div>

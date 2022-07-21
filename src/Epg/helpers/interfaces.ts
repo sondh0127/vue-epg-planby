@@ -24,9 +24,6 @@ export interface Theme {
   white: string
   green: { 300: string }
   loader: {
-    teal: string
-    purple: string
-    pink: string
     bg: string
   }
   scrollbar: {

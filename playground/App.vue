@@ -2,7 +2,6 @@
 import { addDays, addHours, endOfDay, format, startOfDay, subDays } from 'date-fns'
 import type { Channel, Program, Theme } from '@sondh0127/vue-epg-planby'
 import { Epg, Layout, TIME_FORMAT, formatTime, useEpg } from '@sondh0127/vue-epg-planby'
-// import '@sondh0127/vue-epg-planby/style.css'
 
 import { fetchChannels, fetchEpg } from './helpers'
 
@@ -17,9 +16,6 @@ const darkTheme: Theme = {
     300: '#2C7A7B',
   },
   loader: {
-    teal: '#5DDADB',
-    purple: '#3437A2',
-    pink: '#F78EB6',
     bg: '#171923db',
   },
   scrollbar: {
@@ -62,10 +58,7 @@ const themeLight: Theme = {
     300: '#2C7A7B',
   },
   loader: {
-    teal: '#5DDADB',
-    purple: '#3437A2',
-    pink: '#F78EB6',
-    bg: '#171923db',
+    bg: '#cbd5e0db',
   },
   scrollbar: {
     border: '#ffffff',
@@ -96,7 +89,7 @@ const themeLight: Theme = {
   },
 }
 
-const themeValue = ref('dark')
+const themeValue = useStorage('__VUE_EPG_THEME__', 'light')
 const options = [
   {
     label: 'Dark theme',
@@ -191,11 +184,11 @@ function disabledSeconds() {
   return Array.from({ length: 60 }, (_, i) => i)
 }
 
-function onProgramClick(p) {
+function onProgramClick(p: Program) {
   console.log('onProgramClick', p)
 }
 
-function onChannelClick(c) {
+function onChannelClick(c: Channel) {
   console.log('onChannelClick', c)
 }
 </script>
@@ -205,6 +198,11 @@ function onChannelClick(c) {
     <el-card class="w-full">
       <div class="flex items-center gap-5px">
         <el-form inline>
+          <el-form-item label="Scroll to Now">
+            <el-button class="" @click="fetchDate">
+              Reload
+            </el-button>
+          </el-form-item>
           <el-form-item label="Scroll to Now">
             <el-button class="" @click="onScrollToNow()">
               Now
