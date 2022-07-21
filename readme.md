@@ -22,7 +22,6 @@ $ pnpm install @sondh0127/vue-epg-planby
 Vue 3 (Vue 2.7)
 ### Basic Usage
 ```ts
-<script lang="ts" setup>
 import { addDays, addHours, endOfDay, format, startOfDay, subDays } from 'date-fns'
 import type { Channel, Program, Theme } from '@sondh0127/vue-epg-planby'
 import { Epg, Layout, TIME_FORMAT, formatTime, useEpg } from '@sondh0127/vue-epg-planby'
@@ -216,9 +215,6 @@ function onProgramClick(p: Program) {
 function onChannelClick(c: Channel) {
   console.log('onChannelClick', c)
 }
-</script>
-
-
 
 ```
 

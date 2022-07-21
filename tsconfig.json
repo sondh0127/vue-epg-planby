@@ -19,19 +19,19 @@
       "dom"
     ],
     "paths": {
-      "@/*": ["src/*"],
-      "@sondh0127/vue-epg-planby": ["./src/index.ts"]
+      "@/*": ["src/*"]
+      // "@sondh0127/vue-epg-planby": ["./src/index.ts"]
     }
   },
   "include": [
     "src/**/*.ts",
     "src/**/*.d.ts",
     "src/**/*.tsx",
-    "src/**/*.vue",
-    "playground/**/*.ts",
-    "playground/**/*.d.ts",
-    "playground/**/*.tsx",
-    "playground/**/*.vue"
+    "src/**/*.vue"
+    // "playground/**/*.ts",
+    // "playground/**/*.d.ts",
+    // "playground/**/*.tsx",
+    // "playground/**/*.vue"
   ],
   "exclude": [
     "node_modules",

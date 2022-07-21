@@ -2,6 +2,7 @@
 import { addDays, addHours, endOfDay, format, startOfDay, subDays } from 'date-fns'
 import type { Channel, Program, Theme } from '@sondh0127/vue-epg-planby'
 import { Epg, Layout, TIME_FORMAT, formatTime, useEpg } from '@sondh0127/vue-epg-planby'
+// import '@sondh0127/vue-epg-planby/style.css'
 
 import { fetchChannels, fetchEpg } from './helpers'
 
