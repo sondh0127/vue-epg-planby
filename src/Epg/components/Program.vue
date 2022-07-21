@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import type { BaseTimeFormat, Position, ProgramItem } from '../helpers/types'
+import type { BaseTimeFormat, ProgramItem } from '../helpers/types'
 import { useProgram } from '../hooks'
 import type { Program as ProgramType } from '../helpers/interfaces'
 import { useEpgStore } from '../store'
@@ -8,22 +8,18 @@ const props = defineProps<{
   program: ProgramItem
   isBaseTimeFormat: BaseTimeFormat
 }>()
+
 const emit = defineEmits<
   (event: 'click', v: ProgramType) => void
 >()
 
 const data = computed(() => props.program.data)
-const {
-  styles,
-  formatTime,
-  set12HoursTimeFormat,
-  isLive,
-  isMinWidth,
-} = useProgram({
+const program = useProgram({
   program: toRef(props, 'program'),
   isBaseTimeFormat: toRef(props, 'isBaseTimeFormat'),
 })
 
+const { styles, format12HoursTime, isLive, isMinWidth } = program
 const { theme } = useEpgStore()
 </script>
 
@@ -43,26 +39,28 @@ const { theme } = useEpgStore()
         'is-live': isLive,
       }" @click="emit('click', data)"
     >
-      <div class="flex w-full justify-start">
-        <img v-if="isLive && isMinWidth" class="mr-15px rounded-6px w-100px" :src="data.image" alt="Preview">
-        <div class="overflow-hidden">
-          <div
-            class="text-14px font-medium text-left mt-0 mb-5px truncate" :style="{
-              color: `${theme.grey['300']}`,
-            }"
-          >
-            {{ data.title }}
-          </div>
-          <div
-            class="block text-12.5px font-normal text-left truncate" :style="{
-              color: `${theme.text.grey['500']}`,
-            }" aria-label="program time"
-          >
-            {{ formatTime(data.since, set12HoursTimeFormat()) }} -{{ " " }}
-            {{ formatTime(data.till, set12HoursTimeFormat()) }}
+      <slot name="program" v-bind="{ ...program, theme }" :data="data">
+        <div class="flex w-full justify-start">
+          <img v-if="isLive && isMinWidth" class="mr-15px rounded-6px w-100px" :src="data.image" alt="Preview">
+          <div class="overflow-hidden">
+            <div
+              class="text-14px font-medium text-left mt-0 mb-5px truncate" :style="{
+                color: `${theme.grey['300']}`,
+              }"
+            >
+              {{ data.title }}
+            </div>
+            <div
+              class="block text-12.5px font-normal text-left truncate" :style="{
+                color: `${theme.text.grey['500']}`,
+              }" aria-label="program time"
+            >
+              {{ format12HoursTime(data.since) }} -{{ " " }}
+              {{ format12HoursTime(data.till) }}
+            </div>
           </div>
         </div>
-      </div>
+      </slot>
     </div>
   </div>
 </template>

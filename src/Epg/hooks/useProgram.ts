@@ -44,8 +44,7 @@ export function useProgram<T extends ProgramItem>({
   const isMinWidth = width > minWidth
 
   return {
-    formatTime,
-    set12HoursTimeFormat,
+    format12HoursTime: (date: string | number | Date) => formatTime(date, set12HoursTimeFormat()),
     isLive,
     isMinWidth,
     styles: computed(() => {

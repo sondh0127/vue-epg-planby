@@ -1,4 +1,5 @@
 <script lang="ts" setup>
+import type { Program as ProgramType } from '../helpers'
 import { getProgramOptions, isFutureTime } from '../helpers'
 import type { BaseTimeFormat, ChannelWithPosiiton, DateTime, Position, ProgramItem } from '../helpers/types'
 import { useEpgStore } from '../store'
@@ -26,12 +27,6 @@ const props = withDefaults(defineProps<{
   isLine?: boolean
   isProgramVisible: (position: Position) => boolean
   isChannelVisible: (position: Pick<Position, 'top'>) => boolean
-  // renderProgram?: (v: {
-  //   program: ProgramItem
-  //   isBaseTimeFormat: BaseTimeFormat
-  // }) => React.ReactNode
-  // renderChannel?: (v: { channel: ChannelWithPosiiton }) => React.ReactNode
-  // renderTimeline?: (v: RenderTimeline) => React.ReactNode
   setScrollBoxRef: (ref: any) => void
 }>(), {
   isSidebar: true,
@@ -39,6 +34,11 @@ const props = withDefaults(defineProps<{
   isTimeline: true,
   isBaseTimeFormat: false,
 })
+
+const emit = defineEmits<{
+  (event: 'channel-click', channel: ChannelWithPosiiton): void
+  (event: 'program-click', program: ProgramType): void
+}>()
 
 const channelsLength = computed(() => props.channels.length)
 const contentHeight = computed(() => channelsLength.value * props.itemHeight)
@@ -66,12 +66,21 @@ const visiblePrograms = computed(() => {
       v-if="isTimeline" :is-base-time-format="isBaseTimeFormat" :is-sidebar="isSidebar" :day-width="dayWidth"
       :hour-width="hourWidth" :number-of-hours-in-day="numberOfHoursInDay"
       :offset-start-hours-range="offsetStartHoursRange" :sidebar-width="sidebarWidth"
-    />
+    >
+      <template #timeline="slotData">
+        <slot name="timeline" v-bind="slotData" />
+      </template>
+    </Timeline>
 
     <Channels
       v-if="isSidebar" :sidebar-width="sidebarWidth" :is-timeline="isTimeline"
       :is-channel-visible="isChannelVisible" :channels="channels" :scroll-y="scrollY"
-    />
+      @click="(channel) => emit('channel-click', channel)"
+    >
+      <template #channel="slotData">
+        <slot name="channel" v-bind="slotData" />
+      </template>
+    </Channels>
 
     <div
       data-testid="content" class="relative" :style="{
@@ -84,7 +93,12 @@ const visiblePrograms = computed(() => {
       <Program
         v-for="program in visiblePrograms" :key="program.data.id" :program="getProgramOptions(program)"
         :is-base-time-format="isBaseTimeFormat" :is-program-visible="isProgramVisible"
-      />
+        @click="(program) => emit('program-click', program)"
+      >
+        <template #program="slotData">
+          <slot name="program" v-bind="slotData" />
+        </template>
+      </Program>
     </div>
   </div>
 </template>

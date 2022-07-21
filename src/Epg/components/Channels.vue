@@ -11,6 +11,10 @@ const props = defineProps<{
   isChannelVisible: (position: any) => boolean
 }>()
 
+const emit = defineEmits<{
+  (event: 'click', channel: ChannelWithPosiiton): void
+}>()
+
 const { theme } = useEpgStore()
 
 const visibleChannels = computed(() => {
@@ -20,9 +24,7 @@ const visibleChannels = computed(() => {
 
 <template>
   <div
-    data-testid="sidebar"
-    class="sticky float-left"
-    :style="{
+    data-testid="sidebar" class="sticky float-left" :style="{
       width: `${sidebarWidth}px`,
       bottom: `${scrollY}px`,
       left: 0,
@@ -30,6 +32,10 @@ const visibleChannels = computed(() => {
       backgroundColor: `${theme.primary[900]}`,
     }"
   >
-    <Channel v-for="channel in visibleChannels" :key="channel.uuid" :channel="channel" />
+    <Channel v-for="channel in visibleChannels" :key="channel.uuid" :channel="channel" @click="(c) => emit('click', c)">
+      <template #program="slotData">
+        <slot name="channel" v-bind="slotData" />
+      </template>
+    </Channel>
   </div>
 </template>

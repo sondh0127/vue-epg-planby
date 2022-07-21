@@ -16,51 +16,51 @@ const props = defineProps<{
 
 const { theme } = useEpgStore()
 
-const { time, dividers, formatTime } = useTimeline(
+const timeline = useTimeline(
   toRef(props, 'numberOfHoursInDay'),
   toRef(props, 'isBaseTimeFormat'),
 )
+
+const { times, dividers, formatTimelineTime } = timeline
 </script>
 
 <template>
   <div
-    class="sticky top-0 z-100 flex"
-    :style="{
+    class="sticky top-0 z-100 flex" :style="{
       left: `${isSidebar ? sidebarWidth : 0}px`,
       height: `${ITEM_HEIGHT - 20}px`,
       width: `${dayWidth}px`,
       background: `${theme.primary['900']}`,
     }"
   >
-    <template v-for="(_, index) in time" :key="index">
-      <div
-        class="text-14px relative"
-        :style="{
-          width: `${hourWidth}px`,
-        }"
-      >
+    <template v-for="(_, index) in times" :key="index">
+      <slot name="timeline" v-bind="{ index, dividers, formatTimelineTime, offsetStartHoursRange, hourWidth, theme }">
         <div
-          class="absolute top-18px"
-          :style="{
-            color: `${theme.text.grey[300]}`,
-            left: `${index === 0 ? 0 : -18}px`,
+          class="text-14px relative" :style="{
+            width: `${hourWidth}px`,
           }"
         >
-          {{ formatTime(index + offsetStartHoursRange) }}
-        </div>
-
-        <div class="h-full w-full grid grid-cols-4 items-end pb-6px">
           <div
-            v-for="(__, i) in dividers" :key="i"
-            :style="{
-              background: `${theme.timeline.divider.bg}`,
-              height: `10px`,
-              width: `1px`,
-              marginRight: `${hourWidth}px`,
+            class="absolute top-18px" :style="{
+              color: `${theme.text.grey[300]}`,
+              left: `${index === 0 ? 0 : -18}px`,
             }"
-          />
+          >
+            {{ formatTimelineTime(index + offsetStartHoursRange) }}
+          </div>
+
+          <div class="h-full w-full grid grid-cols-4 items-end pb-6px">
+            <div
+              v-for="(__, i) in dividers" :key="i" :style="{
+                background: `${theme.timeline.divider.bg}`,
+                height: `10px`,
+                width: `1px`,
+                marginRight: `${hourWidth}px`,
+              }"
+            />
+          </div>
         </div>
-      </div>
+      </slot>
     </template>
   </div>
 </template>

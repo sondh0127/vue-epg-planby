@@ -8,7 +8,8 @@
 > Vue EPG Planby is a Vue components for EPG based Timeline, (ported from [planby](https://github.com/karolkozer/planby) - React based)
 
 ## Features
-- Full reactivity props
+- Reactivity props
+- Customizable template
 
 ## Installation
 ```sh
@@ -73,7 +74,7 @@ When you use this template, try follow the checklist to update your info properl
 - [x] stackblitz demo
 - [ ] Testing
 - [ ] Loader
-- [ ] renderProps => <component/>
+- [x] renderProps => <slot/> scoped slot
 - [ ] Vue 2.7 Test
 - [ ] Ref => MaybeRef => new convention of passing reactive getters as arguments. [https://github.com/vueuse/vueuse/releases/tag/v9.0.0-beta.0](https://github.com/vueuse/vueuse/releases/tag/v9.0.0-beta.0)
 

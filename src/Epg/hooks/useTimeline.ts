@@ -11,10 +11,10 @@ export function useTimeline(
   numberOfHoursInDay: Ref<number>,
   isBaseTimeFormat: Ref<BaseTimeFormat>,
 ) {
-  const time = computed(() => generateArray(numberOfHoursInDay.value))
+  const times = computed(() => generateArray(numberOfHoursInDay.value))
   const dividers = generateArray(4)
 
-  const formatTime = (index: number) => {
+  const formatTimelineTime = (index: number) => {
     const date = new Date()
     const baseDate = format(date, TIME_FORMAT.DATE)
     const time = index < 10 ? `0${index}` : index
@@ -28,5 +28,5 @@ export function useTimeline(
     return `${time}:00`
   }
 
-  return { time, dividers, formatTime }
+  return { times, dividers, formatTimelineTime }
 }

@@ -2,9 +2,8 @@
 import type { ChannelWithPosiiton } from '../helpers/types'
 import { useEpgStore } from '../store'
 
-const props = defineProps<{
+defineProps<{
   channel: ChannelWithPosiiton
-  // onClick?: (v: ChannelWithPosiiton) => void
 }>()
 const emit = defineEmits<{
   (event: 'click', channel: ChannelWithPosiiton): void
@@ -22,8 +21,10 @@ const { theme } = useEpgStore()
       width: `100%`,
       backgroundColor: `${theme.primary[900]}`,
     }"
-    @click="$emit('click', channel)"
+    @click="emit('click', channel)"
   >
-    <img :src="channel.logo" class="max-h-60px max-w-60px relative">
+    <slot name="channel" v-bind="{ channel, theme }">
+      <img :src="channel.logo" class="max-h-60px max-w-60px relative">
+    </slot>
   </div>
 </template>

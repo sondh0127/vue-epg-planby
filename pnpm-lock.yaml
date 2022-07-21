@@ -5,7 +5,6 @@ specifiers:
   '@antfu/ni': ^0.17.2
   '@commitlint/cli': ^17.0.3
   '@commitlint/config-conventional': ^17.0.3
-  '@sondh0127/vue-epg-planby': ^0.2.6
   '@types/node': ^18.0.5
   '@unocss/reset': 0.43.1
   '@vitejs/plugin-vue': ^3.0.0
@@ -33,7 +32,6 @@ specifiers:
   vue-tsc: ^0.38.7
 
 dependencies:
-  '@sondh0127/vue-epg-planby': 0.2.6_vue@3.2.37
   date-fns: 2.28.0
   vue-demi: 0.13.5_vue@3.2.37
 
@@ -812,20 +810,6 @@ packages:
       estree-walker: 2.0.2
       picomatch: 2.3.1
     dev: true
-
-  /@sondh0127/vue-epg-planby/0.2.6_vue@3.2.37:
-    resolution: {integrity: sha512-poNWchQXsMY1tr/t59R7vUvRn5KZCwyFMZientltu/DCxfWS6VitVLdmV2bRGTW9v/Bgtg+K6kyar6A1JzkW5w==}
-    peerDependencies:
-      '@vue/composition-api': ^1.7.0
-      vue: ^2.0.0 || >=3.0.0
-    peerDependenciesMeta:
-      '@vue/composition-api':
-        optional: true
-    dependencies:
-      date-fns: 2.28.0
-      vue: 3.2.37
-      vue-demi: 0.13.5_vue@3.2.37
-    dev: false
 
   /@sxzz/popperjs-es/2.11.7:
     resolution: {integrity: sha512-Ccy0NlLkzr0Ex2FKvh2X+OyERHXJ88XJ1MXtsI9y9fGexlaXaVTPzBCRBwIxFkORuOb+uBqeu+RqnpgYTEZRUQ==}
