@@ -7,6 +7,12 @@
 
 > Vue EPG Planby is a Vue components for EPG based Timeline, (ported from [planby](https://github.com/karolkozer/planby) - React based)
 
+<div align="center" style="margin-bottom: 10px">
+  <a href="https://planby.netlify.app/">
+    <img src="https://i.postimg.cc/1zgmfd8T/planby-tv-vod.png" alt="Planby preview" />
+  </a>
+</div>
+
 ## Features
 - Reactivity props
 - Customizable template
