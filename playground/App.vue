@@ -299,6 +299,10 @@ function onChannelClick(c: Channel) {
             </div>
           </div>
         </template>
+
+        <template #channel="{ channel }">
+          <img :src="channel.logo" class="max-h-60px max-w-60px relative">
+        </template>
       </Layout>
     </Epg>
   </div>

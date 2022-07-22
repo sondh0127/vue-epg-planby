@@ -33,7 +33,7 @@ const visibleChannels = computed(() => {
     }"
   >
     <Channel v-for="channel in visibleChannels" :key="channel.uuid" :channel="channel" @click="(c) => emit('click', c)">
-      <template #program="slotData">
+      <template #channel="slotData">
         <slot name="channel" v-bind="slotData" />
       </template>
     </Channel>
