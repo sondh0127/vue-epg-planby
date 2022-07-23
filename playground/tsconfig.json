@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "composite": true,
     "baseUrl": ".",
     "outDir": "dist",
     "declaration": true,
@@ -19,22 +20,15 @@
       "dom"
     ],
     "paths": {
-      "@/*": ["src/*"]
+      "@sondh0127/vue-epg-planby": ["../src/index.ts"]
     }
   },
   "include": [
-    "src/**/*.ts",
-    "src/**/*.d.ts",
-    "src/**/*.tsx",
-    "src/**/*.vue"
+    "./**/*.ts",
+    "./**/*.d.ts",
+    "./**/*.tsx",
+    "./**/*.vue"
   ],
   "exclude": [
-    "node_modules",
-    "dist",
-    "public"
-  ],
-  "references": [
-    { "path": "./tsconfig.node.json" },
-    { "path": "./playground/tsconfig.json" }
   ]
 }

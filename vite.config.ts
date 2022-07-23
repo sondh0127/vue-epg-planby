@@ -58,7 +58,7 @@ export default defineConfig(({ mode }) => {
     alias = [
       {
         find: '@sondh0127/vue-epg-planby',
-        replacement: resolve(__dirname, './src'),
+        replacement: resolve(__dirname, './src/index.ts'),
       },
     ]
   }
