@@ -249,24 +249,34 @@ function onChannelClick(c: Channel) {
   <div class="w-full h-80vh">
     <Epg :is-loading="isLoading" v-bind="getEpgProps()">
       <Layout v-bind="getLayoutProps()" @program-click="onProgramClick" @channel-click="onChannelClick">
-        <template #program="{ data, format12HoursTime, theme, isLive, isMinWidth }">
-          <div class="flex w-full justify-start">
-            <img v-if="isLive && isMinWidth" class="mr-15px rounded-6px w-100px" :src="data.image" alt="Preview">
-            <div class="overflow-hidden">
-              <div
-                class="text-14px font-medium text-left mt-0 mb-5px truncate" :style="{
-                  color: `${theme.grey['300']}`,
-                }"
-              >
-                {{ data.title }}
-              </div>
-              <div
-                class="block text-12.5px font-normal text-left truncate" :style="{
-                  color: `${theme.text.grey['500']}`,
-                }" aria-label="program time"
-              >
-                {{ format12HoursTime(data.since) }} -{{ " " }}
-                {{ format12HoursTime(data.till) }}
+        <template #program="{ data, format12HoursTime, styles, theme, isLive, isMinWidth }">
+          <div
+            data-testid="program-content"
+            class="program-item cursor-pointer relative flex text-11px h-full rounded-8px overflow-hidden transition-all duration-400 ease-in-out z-1"
+            :style="{
+              padding: `10px ${styles.width < 30 ? 4 : 20}px`,
+            }" :class="{
+              'is-live': isLive,
+            }"
+          >
+            <div class="flex w-full justify-start">
+              <img v-if="isLive && isMinWidth" class="mr-15px rounded-6px w-100px" :src="data.image" alt="Preview">
+              <div class="overflow-hidden">
+                <div
+                  class="text-14px font-medium text-left mt-0 mb-5px truncate" :style="{
+                    color: `${theme.grey['300']}`,
+                  }"
+                >
+                  {{ data.title }}
+                </div>
+                <div
+                  class="block text-12.5px font-normal text-left truncate" :style="{
+                    color: `${theme.text.grey['500']}`,
+                  }" aria-label="program time"
+                >
+                  {{ format12HoursTime(data.since) }} -{{ " " }}
+                  {{ format12HoursTime(data.till) }}
+                </div>
               </div>
             </div>
           </div>

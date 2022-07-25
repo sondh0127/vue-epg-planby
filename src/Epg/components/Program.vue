@@ -29,17 +29,18 @@ const { theme } = useEpgStore()
       ...styles.position,
       padding: `${styles.width === 0 ? 0 : 4}px`,
     }"
+    @click="emit('click', data)"
   >
-    <div
-      data-testid="program-content"
-      class="program-item cursor-pointer relative flex text-11px h-full rounded-8px overflow-hidden transition-all duration-400 ease-in-out z-1"
-      :style="{
-        padding: `10px ${styles.width < 30 ? 4 : 20}px`,
-      }" :class="{
-        'is-live': isLive,
-      }" @click="emit('click', data)"
-    >
-      <slot name="program" v-bind="{ ...program, theme }" :data="data">
+    <slot name="program" v-bind="{ ...program, theme }" :data="data">
+      <div
+        data-testid="program-content"
+        class="program-item cursor-pointer relative flex text-11px h-full rounded-8px overflow-hidden transition-all duration-400 ease-in-out z-1"
+        :style="{
+          padding: `10px ${styles.width < 30 ? 4 : 20}px`,
+        }" :class="{
+          'is-live': isLive,
+        }"
+      >
         <div class="flex w-full justify-start">
           <img v-if="isLive && isMinWidth" class="mr-15px rounded-6px w-100px" :src="data.image" alt="Preview">
           <div class="overflow-hidden">
@@ -60,8 +61,8 @@ const { theme } = useEpgStore()
             </div>
           </div>
         </div>
-      </slot>
-    </div>
+      </div>
+    </slot>
   </div>
 </template>
 

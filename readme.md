@@ -352,6 +352,7 @@ When you use this template, try follow the checklist to update your info properl
 - [x] renderProps => <slot/> scoped slot
 - [ ] Vue 2.7 Test
 - [ ] Ref => MaybeRef => new convention of passing reactive getters as arguments. [https://github.com/vueuse/vueuse/releases/tag/v9.0.0-beta.0](https://github.com/vueuse/vueuse/releases/tag/v9.0.0-beta.0)
+- [ ] Tanstack/Virtual
 
 ## Cheer me on
 If you like my works, you can cheer me on here 😆
