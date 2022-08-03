@@ -148,7 +148,7 @@ const _24hFormat = computed({
 })
 
 const { getEpgProps, getLayoutProps, onScrollToNow } = useEpg({
-  channels,
+  channels: () => channels.value.map(item => ({ ...item, other: 'other' })),
   epg,
   dayWidth,
   sidebarWidth,

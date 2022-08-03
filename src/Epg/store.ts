@@ -1,15 +1,15 @@
-import type { MaybeRef } from '@vueuse/core'
+import type { MaybeComputedRef } from '@vueuse/core'
 import type { Theme } from './helpers'
 
 interface EpgStore {
-  theme: MaybeRef<Theme>
-  sidebarWidth: MaybeRef<number>
+  theme: MaybeComputedRef<Theme>
+  sidebarWidth: MaybeComputedRef<number>
 }
 
 const [useProvideEpgStore, _useEpgStore] = createInjectionState((store: EpgStore) => {
   // state
-  const theme = ref(store.theme)
-  const sidebarWidth = ref(store.sidebarWidth)
+  const theme = resolveRef(store.theme)
+  const sidebarWidth = resolveRef(store.sidebarWidth)
   const scrollBoxRef = ref<HTMLDivElement>()
   // getters
 

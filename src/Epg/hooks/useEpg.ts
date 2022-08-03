@@ -2,7 +2,7 @@ import { startOfToday } from 'date-fns'
 
 // Import interfaces
 import type { Ref } from 'vue'
-import type { MaybeRef } from '@vueuse/core'
+import type { MaybeComputedRef } from '@vueuse/core'
 import type { Channel, Program, Theme } from '../helpers/interfaces'
 
 // Import types
@@ -32,17 +32,17 @@ import { useProvideEpgStore } from '../store'
 import { useLayout } from './useLayout'
 
 interface useEpgProps {
-  channels: Ref<Channel[]>
-  epg: Ref<Program[]>
+  channels: MaybeComputedRef<Channel[]>
+  epg: MaybeComputedRef<Program[]>
   width?: number
   height?: number
-  startDate?: Ref<DateTime>
-  endDate?: Ref<DateTime>
+  startDate?: MaybeComputedRef<DateTime>
+  endDate?: MaybeComputedRef<DateTime>
   isBaseTimeFormat?: Ref<BaseTimeFormat>
   isSidebar?: Ref<boolean>
   isTimeline?: Ref<boolean>
   isLine?: boolean
-  theme?: MaybeRef<Theme>
+  theme?: MaybeComputedRef<Theme>
   dayWidth?: Ref<number>
   sidebarWidth?: Ref<number>
   itemHeight?: Ref<number>
@@ -54,8 +54,8 @@ const defaultStartDateTime = formatTime(startOfToday())
 export function useEpg({
   channels: channelsEpg,
   epg,
-  startDate: startDateInput = ref(defaultStartDateTime),
-  endDate: endDateInput = ref(''),
+  startDate: startDateInput = defaultStartDateTime,
+  endDate: endDateInput = getDefaultEndDate(defaultStartDateTime),
   isBaseTimeFormat = ref(false),
   isSidebar = ref(true),
   isTimeline = ref(true),
@@ -68,10 +68,12 @@ export function useEpg({
   width,
   height,
 }: useEpgProps) {
+  const channelsEpgRef = resolveRef(channelsEpg)
+  const epgRef = resolveRef(epg)
   // Get converted start and end dates
   // const { startDate, endDate } = getTimeRangeDates(startDateInput, endDateInput)
-  const startDate = refDefault(startDateInput, defaultStartDateTime)
-  const endDate = refDefault(endDateInput, getDefaultEndDate(startDate.value))
+  const startDate = resolveRef(startDateInput)
+  const endDate = resolveRef(endDateInput)
 
   // Get day and hour width of the day
   const dayWidthResourcesProps = computed(
@@ -100,13 +102,13 @@ export function useEpg({
 
   // -------- Variables --------
   const channels = computed(
-    () => getConvertedChannels(channelsEpg.value, itemHeight.value),
+    () => getConvertedChannels(channelsEpgRef.value, itemHeight.value),
   )
 
   const programs = computed(
     () =>
       getConvertedPrograms({
-        data: epg.value,
+        data: epgRef.value,
         channels: channels.value,
         startDate: formatTime(startDate.value),
         endDate: formatTime(endDate.value),
@@ -115,7 +117,7 @@ export function useEpg({
       }),
   )
 
-  const theme: MaybeRef<Theme> = customTheme || defaultTheme
+  const theme = resolveRef(customTheme || defaultTheme)
   // -------- Handlers --------
   const isProgramVisible = (position: Position) =>
     getItemVisibility(
