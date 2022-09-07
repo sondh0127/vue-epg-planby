@@ -1,4 +1,4 @@
-import { startOfToday } from 'date-fns'
+import { isToday as isTodayFns, startOfToday } from 'date-fns'
 
 // Import types
 import type { Ref } from 'vue'
@@ -36,7 +36,7 @@ export function useLayout({
   const scrollXSlient = refWithControl(0)
   const layoutWidth = ref(width as number)
   const layoutHeight = ref(height as number)
-  // const isToday = computed(() => isTodayFns(new Date(startDate.value)))
+  const isToday = computed(() => isTodayFns(new Date(startDate.value)))
 
   // -------- Handlers --------
 
@@ -62,6 +62,24 @@ export function useLayout({
   }
 
   const handleOnScrollToNow = () => {
+    if (scrollBoxRef?.value && isToday.value) {
+      const clientWidth = (width
+        ?? containerRef.value?.clientWidth) as number
+
+      const newDate = new Date()
+      const scrollPosition = getPositionX(
+        startOfToday(),
+        newDate,
+        startDate.value,
+        endDate.value,
+        hourWidth.value,
+      )
+      const scrollNow = scrollPosition - clientWidth / 2 + sidebarWidth.value
+      scrollBoxRef.value.scrollLeft = scrollNow
+    }
+  }
+
+  const handleZoom = () => {
     const clientWidth = (width
       ?? containerRef.value?.clientWidth) as number
     const centerHour = (clientWidth - sidebarWidth.value) / 2
@@ -86,7 +104,7 @@ export function useLayout({
   }
 
   watchThrottled([hourWidth], () => {
-    handleOnScrollToNow()
+    handleZoom()
   }, { throttle: 500, trailing: true, leading: true })
 
   const handleOnScrollTop = (value: number = hourWidth.value) => {
