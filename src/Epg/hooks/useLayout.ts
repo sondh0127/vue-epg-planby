@@ -85,9 +85,9 @@ export function useLayout({
     scrollBoxRef.value?.scrollTo({ left: scrollPosition, behavior: 'auto' })
   }
 
-  watch([hourWidth], () => {
+  watchThrottled([hourWidth], () => {
     handleOnScrollToNow()
-  })
+  }, { throttle: 500, trailing: true, leading: true })
 
   const handleOnScrollTop = (value: number = hourWidth.value) => {
     if (scrollBoxRef?.value) {
