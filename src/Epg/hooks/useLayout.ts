@@ -85,6 +85,10 @@ export function useLayout({
     scrollBoxRef.value?.scrollTo({ left: scrollPosition, behavior: 'auto' })
   }
 
+  watch([hourWidth], () => {
+    handleOnScrollToNow()
+  })
+
   const handleOnScrollTop = (value: number = hourWidth.value) => {
     if (scrollBoxRef?.value) {
       const top = scrollBoxRef.value.scrollTop + value
@@ -131,8 +135,6 @@ export function useLayout({
         layoutHeight.value = clientHeight
       }
     }
-
-    handleOnScrollToNow()
   })
 
   onMounted(() => {

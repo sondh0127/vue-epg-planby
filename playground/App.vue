@@ -132,7 +132,15 @@ const endDate = computed(() => {
 })
 
 const itemHeight = ref(80)
-const dayWidth = ref(7200)
+
+const datePercent = ref(100)
+
+const timeRangeEpg = ref([0, 24])
+const dayWidth = computed(() => {
+  const range = timeRangeEpg.value[1] - timeRangeEpg.value[0]
+  return 10000 / (24 / range) * datePercent.value / 100
+})
+// const dayWidth = ref(7200)
 const sidebarWidth = ref(100)
 const isSidebar = ref(true)
 const isTimeline = ref(true)
@@ -150,7 +158,7 @@ const _24hFormat = computed({
 const { getEpgProps, getLayoutProps, onScrollToNow } = useEpg({
   channels: () => channels.value.map(item => ({ ...item, other: 'other' })),
   epg,
-  dayWidth,
+  dayWidth: refDebounced(dayWidth, 1000),
   sidebarWidth,
   itemHeight,
   isSidebar,
@@ -228,7 +236,18 @@ function onChannelClick(c: Channel) {
           </el-form-item>
           <el-form-item label="Day Width">
             <el-input-number v-model="dayWidth" :min="2000" :max="72000" :step="100" />
+            <el-slider
+              v-model="datePercent"
+              class="w-200px!"
+              style="--el-slider-button-size:10px;"
+              :debounce="1000"
+              :step="5" :min="50" :max="200" :show-tooltip="false"
+            />
+            <div class="ml-3 w-40px text-right">
+              {{ datePercent }} %
+            </div>
           </el-form-item>
+
           <el-form-item label="Sidebar Width">
             <el-input-number v-model="sidebarWidth" :min="0" :max="250" :step="10" />
           </el-form-item>
