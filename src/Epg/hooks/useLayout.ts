@@ -1,4 +1,4 @@
-import { isToday as isTodayFns, startOfToday } from 'date-fns'
+import { startOfToday } from 'date-fns'
 
 // Import types
 import type { Ref } from 'vue'
@@ -33,9 +33,10 @@ export function useLayout({
   // -------- State --------
   const scrollY = ref(0)
   const scrollX = ref(0)
+  const scrollXSlient = refWithControl(0)
   const layoutWidth = ref(width as number)
   const layoutHeight = ref(height as number)
-  const isToday = computed(() => isTodayFns(new Date(startDate.value)))
+  // const isToday = computed(() => isTodayFns(new Date(startDate.value)))
 
   // -------- Handlers --------
 
@@ -52,24 +53,36 @@ export function useLayout({
     // handleScrollDebounced(payload)
     scrollY.value = payload.y
     scrollX.value = payload.x
+
+    const clientWidth = (width
+      ?? containerRef.value?.clientWidth) as number
+
+    const centerHour = (clientWidth - sidebarWidth.value) / 2
+    scrollXSlient.silentSet((payload.x + centerHour) / hourWidth.value)
   }
 
   const handleOnScrollToNow = () => {
-    if (scrollBoxRef?.value && isToday.value) {
-      const clientWidth = (width
-        ?? containerRef.value?.clientWidth) as number
+    const clientWidth = (width
+      ?? containerRef.value?.clientWidth) as number
+    const centerHour = (clientWidth - sidebarWidth.value) / 2
+    const diff = centerHour / hourWidth.value
+    const centerDate = scrollXSlient.untrackedGet() - diff
 
-      const newDate = new Date()
-      const scrollPosition = getPositionX(
-        startOfToday(),
-        newDate,
-        startDate.value,
-        endDate.value,
-        hourWidth.value,
-      )
-      const scrollNow = scrollPosition - clientWidth / 2 + sidebarWidth.value
-      scrollBoxRef.value.scrollLeft = scrollNow
-    }
+    const startDateWithTime = new Date(startDate.value)
+    const centerDateNatural = Math.floor(centerDate)
+    const centerDateDecimal = centerDate - centerDateNatural
+
+    startDateWithTime.setHours(centerDateNatural)
+    startDateWithTime.setMinutes(Math.round(centerDateDecimal * 60))
+
+    const scrollPosition = getPositionX(
+      startOfToday(),
+      startDateWithTime,
+      startDate.value,
+      endDate.value,
+      hourWidth.value,
+    )
+    scrollBoxRef.value?.scrollTo({ left: scrollPosition, behavior: 'auto' })
   }
 
   const handleOnScrollTop = (value: number = hourWidth.value) => {
@@ -119,8 +132,7 @@ export function useLayout({
       }
     }
 
-    if (scrollBoxRef?.value && isToday)
-      handleOnScrollToNow()
+    handleOnScrollToNow()
   })
 
   onMounted(() => {

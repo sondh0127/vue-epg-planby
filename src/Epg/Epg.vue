@@ -17,7 +17,7 @@ defineProps<{
 
 <template>
   <div
-    :ref="(el) => setContainerRef(el)" class="p-5px"
+    :ref="(el) => setContainerRef(el)"
     :style="{ width: width ? `${width}px` : '100%', height: height ? `${height}px` : '100%' }"
   >
     <div class="h-full w-full flex flex-col relative rounded overflow-hidden">

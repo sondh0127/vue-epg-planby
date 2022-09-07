@@ -227,7 +227,7 @@ function onChannelClick(c: Channel) {
             <el-input-number v-model="itemHeight" :min="80" :max="200" :step="10" />
           </el-form-item>
           <el-form-item label="Day Width">
-            <el-input-number v-model="dayWidth" :min="2000" :max="7200" :step="100" />
+            <el-input-number v-model="dayWidth" :min="2000" :max="72000" :step="100" />
           </el-form-item>
           <el-form-item label="Sidebar Width">
             <el-input-number v-model="sidebarWidth" :min="0" :max="250" :step="10" />
