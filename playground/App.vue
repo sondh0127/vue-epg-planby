@@ -320,9 +320,30 @@ function onChannelClick(c: Channel) {
               <div
                 v-for="(__, i) in dividers" :key="i" :style="{
                   background: `${theme.timeline.divider.bg}`,
-                  height: `10px`,
+                  height: `20px`,
                   width: `1px`,
                   marginRight: `${hourWidth}px`,
+                }"
+              />
+            </div>
+          </div>
+        </template>
+        <template #timeline-last="{ formatTimelineTime, times, offsetStartHoursRange }">
+          <div class="text-14px relative">
+            <div
+              class="absolute top-18px -translate-x-100%" :style="{
+                color: `${theme.text.grey[300]}`,
+                left: `${0}px`,
+              }"
+            >
+              {{ formatTimelineTime(times.length + offsetStartHoursRange) }}
+            </div>
+            <div class="h-full w-full grid grid-cols-4 items-end pb-6px">
+              <div
+                :style="{
+                  background: `${theme.timeline.divider.bg}`,
+                  height: `20px`,
+                  width: `1px`,
                 }"
               />
             </div>

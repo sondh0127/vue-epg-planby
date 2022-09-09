@@ -54,7 +54,7 @@ console.log('[LOG] ~ file: Timeline.vue ~ line 25 ~ times', times)
             <div
               v-for="(__, i) in dividers" :key="i" :style="{
                 background: `${theme.timeline.divider.bg}`,
-                height: `14px`,
+                height: `10px`,
                 width: `1px`,
                 marginRight: `${hourWidth}px`,
               }"
@@ -63,15 +63,26 @@ console.log('[LOG] ~ file: Timeline.vue ~ line 25 ~ times', times)
         </div>
       </slot>
     </template>
-    <div class="text-14px relative">
-      <div
-        class="absolute top-18px -translate-x-100%" :style="{
-          color: `${theme.text.grey[300]}`,
-          left: `${0}px`,
-        }"
-      >
-        {{ formatTimelineTime(times.length + offsetStartHoursRange) }}
+    <slot name="timeline-last" v-bind="{ theme, formatTimelineTime, times, offsetStartHoursRange }">
+      <div class="text-14px relative">
+        <div
+          class="absolute top-18px -translate-x-100%" :style="{
+            color: `${theme.text.grey[300]}`,
+            left: `${0}px`,
+          }"
+        >
+          {{ formatTimelineTime(times.length + offsetStartHoursRange) }}
+        </div>
+        <div class="h-full w-full grid grid-cols-4 items-end pb-6px">
+          <div
+            :style="{
+              background: `${theme.timeline.divider.bg}`,
+              height: `10px`,
+              width: `1px`,
+            }"
+          />
+        </div>
       </div>
-    </div>
+    </slot>
   </div>
 </template>

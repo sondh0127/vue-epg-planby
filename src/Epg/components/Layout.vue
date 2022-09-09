@@ -70,6 +70,10 @@ const visiblePrograms = computed(() => {
       <template #timeline="slotData">
         <slot name="timeline" v-bind="slotData" />
       </template>
+
+      <template #timeline-last="slotData">
+        <slot name="timeline-last" v-bind="slotData" />
+      </template>
     </Timeline>
 
     <Channels
