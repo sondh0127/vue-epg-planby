@@ -125,10 +125,10 @@ const startDate = computed(() => {
 const endDate = computed(() => {
   const day = date.value
   const endTime = timeRange.value[1]
-  day.setHours(endTime.getHours())
-  day.setMinutes(endTime.getMinutes())
-  day.setSeconds(endTime.getSeconds())
-  return formatTime(day)
+  day.setHours(0)
+  day.setMinutes(0)
+  day.setSeconds(0)
+  return formatTime(addDays(day, 1))
 })
 
 const itemHeight = ref(80)

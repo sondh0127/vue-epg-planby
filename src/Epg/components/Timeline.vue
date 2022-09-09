@@ -22,6 +22,7 @@ const timeline = useTimeline(
 )
 
 const { times, dividers, formatTimelineTime } = timeline
+console.log('[LOG] ~ file: Timeline.vue ~ line 25 ~ times', times)
 </script>
 
 <template>
@@ -53,7 +54,7 @@ const { times, dividers, formatTimelineTime } = timeline
             <div
               v-for="(__, i) in dividers" :key="i" :style="{
                 background: `${theme.timeline.divider.bg}`,
-                height: `10px`,
+                height: `14px`,
                 width: `1px`,
                 marginRight: `${hourWidth}px`,
               }"
@@ -62,5 +63,15 @@ const { times, dividers, formatTimelineTime } = timeline
         </div>
       </slot>
     </template>
+    <div class="text-14px relative">
+      <div
+        class="absolute top-18px -translate-x-100%" :style="{
+          color: `${theme.text.grey[300]}`,
+          left: `${0}px`,
+        }"
+      >
+        {{ formatTimelineTime(times.length + offsetStartHoursRange) }}
+      </div>
+    </div>
   </div>
 </template>
